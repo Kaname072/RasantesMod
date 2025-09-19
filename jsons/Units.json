@@ -59,7 +59,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Janissary V",
+		"name": "Junissary V",
 		"replaces": "Rifleman",
 		"uniqueTo": "Rasantes",
 		"unitType": "Gunpowder",
@@ -70,6 +70,34 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Junissary I] ability"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Junissary VI",
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Rasantes",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"promotions": ["[Junissary I] ability"],
+		"obsoleteTech": "Plastics",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Junissary VII",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Rasantes",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"promotions": ["[Junissary I] ability"],
+		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "metalhit"
 	},
 	{
