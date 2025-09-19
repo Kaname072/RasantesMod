@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "Junissary II",
-		"replaces" "Swordsman",
+		"replaces": "Swordsman",
 		"uniqueTo": "Rasantes",
 		"unitType": "Sword",
 		"movement": 2,
