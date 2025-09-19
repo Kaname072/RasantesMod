@@ -11,8 +11,6 @@
 		"upgradesTo": "Swordsman",
 		"uniques": ["[+100]% Strength <after discovering [Metal Casting]>"],
 		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "The saint league of Rasantes"},
 	},
 	{
 		"name": "Goat Rider"
