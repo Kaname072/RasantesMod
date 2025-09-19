@@ -1,0 +1,32 @@
+[
+  {
+     "name": "Junior346",
+      "culture": 2,
+      "faith": 8,
+      "food": 6,
+      "gold": 6,
+      "happiness": 4,
+      "production": 8,
+      "science": 6,
+      "military": 9,
+      "aggressive": 9,
+      "declareWar": 9,
+      "commerce": 3,
+      "diplomacy": 2,
+      "loyal": 6,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 8,
+          "Honor": 9,
+          "Commerce": 2,
+          "Patronage": 1,
+          "Piety": 3,
+          "Rationalism": 4,
+          "Freedom": 2,
+          "Autocracy": 7,
+          "Order": 5
+      },
+  }
+]
