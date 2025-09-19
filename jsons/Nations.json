@@ -27,10 +27,12 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,255,255],
+		"outerColor": [255,255,255],
+		"innerColor": [16,16,16],
 		"uniqueName": "Just War",
-		"uniques": ["\"Borrows\" city names from other civilizations in the game"]
+		"uniques": ["Cannot build [Settler] units",
+			"[100]% Strength <vs cities>",
+			"\"Borrows\" city names from other civilizations in the game <hidden from users>"]
 		"cities": ["Navi"]
 	}
 ]
