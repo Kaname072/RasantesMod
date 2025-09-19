@@ -7,6 +7,8 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
 		"uniques": ["[+100]% Strength <after discovering [Metal Casting]>"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -22,6 +24,8 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
