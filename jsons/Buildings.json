@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Gaia Tree",
-		"name": "Shrine",
+		"replaces": "Shrine",
 		"uniqueTo": "Rasantes",
 		"faith": 2,
 		"food": 2,
