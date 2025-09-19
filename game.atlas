@@ -1,5 +1,5 @@
 
-game1.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -15,6 +15,13 @@ BuildingIcons/Gaia Tree
   rotate: false
   xy: 100, 100
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Junior346
+  rotate: false
+  xy: 223, 21
+  size: 160, 160
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -78,6 +85,69 @@ UnitIcons/Goat Rider
   rotate: false
   xy: 0, 100
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary I
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary II
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary III
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary IV
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary V
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary VI
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary VII
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Junissary VIII
+  rotate: false
+  xy: 35, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goat Rider
+  rotate: false
+  xy: 135, 234
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
