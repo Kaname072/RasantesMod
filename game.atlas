@@ -13,7 +13,7 @@ NationIcons/Rasantes
   index: -1
 BuildingIcons/Gaia Tree
   rotate: false
-  xy: 0, 100
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -27,7 +27,7 @@ UnitIcons/Junissary
   index: -1
 UnitIcons/Goat Rider
   rotate: false
-  xy: 100, 100
+  xy: 0, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
