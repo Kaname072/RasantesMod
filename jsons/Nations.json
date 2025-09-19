@@ -5,6 +5,7 @@
 		"adjective": ["rasantes"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
+		"personality": "Junior346",
 		
 		"startIntroPart1": "The Rasantes is a OC nation i've made! this mod is just for fun dont have sense or balanced ",
 		"startIntroPart2": "Put the Junissarys to destroy everyone!",
@@ -31,7 +32,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Just War",
 		"uniques": ["Cannot build [Settler] units",
-			"[300]% Strength <vs cities>",
+			"[500]% Strength <vs cities>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
 			"May choose [2] additional belief(s) of any type when [founding] a religion",
 			"\"Borrows\" city names from other civilizations in the game <hidden from users>"]
