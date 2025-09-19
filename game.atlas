@@ -53,6 +53,27 @@ UnitIcons/Junissary V
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Junissary VI
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Junissary VII
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Junissary VIII
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Goat Rider
   rotate: false
   xy: 0, 100
