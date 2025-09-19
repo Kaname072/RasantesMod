@@ -18,7 +18,35 @@ BuildingIcons/Gaia Tree
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Junissary
+UnitIcons/Junissary I
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Junissary II
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Junissary III
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Junissary IV
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Junissary V
   rotate: false
   xy: 100, 0
   size: 100, 100
