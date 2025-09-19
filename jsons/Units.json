@@ -9,7 +9,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"promotions": ["[Junissary] ability"],
+		"promotions": ["[Junissary I] ability"],
 		"uniques": ["[+100]% Strength <after discovering [Metal Casting]>"],
 		"attackSound": "metalhit",
 	},
@@ -23,7 +23,7 @@
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"promotions": ["[Junissary] ability"],
+		"promotions": ["[Junissary I] ability"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
@@ -39,7 +39,7 @@
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
-		"promotions": ["[Junissary] ability"],
+		"promotions": ["[Junissary I] ability"],
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
@@ -54,7 +54,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"promotions": ["[Junissary] ability"],
+		"promotions": ["[Junissary I] ability"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 	},
@@ -69,7 +69,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"promotions": ["[Junissary] ability"],
+		"promotions": ["[Junissary I] ability"],
 		"attackSound": "metalhit"
 	},
 	{
