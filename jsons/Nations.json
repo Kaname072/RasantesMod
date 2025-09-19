@@ -31,8 +31,10 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Just War",
 		"uniques": ["Cannot build [Settler] units",
-			"[100]% Strength <vs cities>",
+			"[300]% Strength <vs cities>",
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
+			"May choose [2] additional belief(s) of any type when [founding] a religion",
 			"\"Borrows\" city names from other civilizations in the game <hidden from users>"]
-		"cities": ["Navi"]
+		"cities": ["Crown of Prophet"]
 	}
 ]
