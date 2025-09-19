@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,255,255],
-		"innerColor": [16,16,16],
+		"outerColor": [16,16,16],
+		"innerColor": [255,255,255],
 		"uniqueName": "Just War",
 		"uniques": ["Cannot build [Settler] units",
 			"[100]% Strength <vs cities>",
