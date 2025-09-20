@@ -3,6 +3,7 @@
 		"name": "Saint Tree",
 		"replaces": "Shrine",
 		"uniqueTo": "Rasantes",
+		"faith": 1,
 		"food": 2,
 		"cost": 40,
 		"maintenance": 1,
