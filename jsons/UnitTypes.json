@@ -2,6 +2,7 @@
   {
     "name": "Spacial",
     "movementType": "Land",
+    "uniques": ["[-100]% maintenance costs <when in [Friendly Land] tiles>"],
   },
   {
     "name": "Spacial Mounted",
