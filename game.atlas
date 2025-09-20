@@ -25,56 +25,7 @@ LeaderIcons/Junior346
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Junissary I
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary II
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary III
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary IV
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary V
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary VI
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary VII
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Junissary VIII
+UnitIcons/Junissary
   rotate: false
   xy: 100, 0
   size: 100, 100
@@ -88,56 +39,7 @@ UnitIcons/Goat Rider
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Junissary I
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary II
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary III
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary IV
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary V
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary VI
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary VII
-  rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Junissary VIII
+TileSets/FantasyHex/Units/Junissary
   rotate: false
   xy: 35, 233
   size: 31, 31
