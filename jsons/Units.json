@@ -15,7 +15,7 @@
 			"[+50]% Strength <after discovering [Replaceable Parts]>",
 			"[+50]% Strength <after discovering [Plastics]>",
 			"[+50]% Strength <after discovering [Mobile Tactics]>"],
-		"Sound": "metalhit",
+		"attackSound": "junissary",
 	},
 	{
 		"name": "Goat Rider"
@@ -35,6 +35,6 @@
 			"[+100]% Strength <after discovering [Nuclear Fission]>"],
 		"promotions": ["[Goat Rider] ability"],
 		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"attackSound": "goatrider"
 	}
 ]
