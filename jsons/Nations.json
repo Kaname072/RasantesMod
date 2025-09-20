@@ -31,8 +31,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,255,255],
 		"uniqueName": "Just War",
-		"uniques": ["Cannot build [Settler] units",
-			"[500]% Strength <vs cities>",
+		"uniques": ["Cannot build [Ranged] units",
+			"Cities are razed [2] times as fast",
+			"[+300]% Strength <vs cities>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
 			"May choose [2] additional belief(s) of any type when [founding] a religion",
 			"\"Borrows\" city names from other civilizations in the game <hidden from users>"]
