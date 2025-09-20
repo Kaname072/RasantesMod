@@ -2,5 +2,10 @@
   {
     "name": "Spacial",
     "movementType": "Land",
+  },
+  {
+    "name": "Spacial Mounted",
+    "movementType": "Land"
+    "uniques": ["Can pass through impassable tiles"]
   }
 ]
