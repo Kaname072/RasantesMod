@@ -1,7 +1,11 @@
 [
   {
-    "name": "[Junissary] ability",
+	  "name": "[Junissary] ability",
+	  "uniques": ["No movement cost to pillage","[+200]% Strength <vs cities>"]
+  },
+	{
+		"name": "[Goat Rider] ability",
 		"uniques": ["Heals [25] damage if it kills a unit",
-    "No movement cost to pillage","[+200]% Strength <vs cities>"]
-  }
+    "No movement cost to pillage","[+400]% Strength <vs cities>"]
+	}
 ]
