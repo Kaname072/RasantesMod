@@ -1,14 +1,12 @@
 [
 	{
-		"name": "Junissary I",
+		"name": "Junissary",
 		"replaces": "Warrior",
-		"unitType": "Sword",
+		"unitType": "Spacial",
 		"uniqueTo": "Rasantes",
 		"movement": 2,
 		"strength": 10,
 		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
 		"promotions": ["[Junissary I] ability"],
 		"uniques": ["[+100]% Strength <after discovering [Metal Casting]>"],
 		"attackSound": "metalhit",
