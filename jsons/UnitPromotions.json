@@ -1,11 +1,22 @@
 [
   {
 	  "name": "[Junissary] ability",
-	  "uniques": ["No movement cost to pillage","[+200]% Strength <vs cities>"]
+	  "uniques": ["No movement cost to pillage"]
   },
 	{
 		"name": "[Goat Rider] ability",
 		"uniques": ["Heals [25] damage if it kills a unit",
-    "No movement cost to pillage","[+400]% Strength <vs cities>"]
+    "No movement cost to pillage"]
+	},
+	{
+		"name": "Blafemus Fire I",
+		"uniques": ["[+200]% Strength <when attacking> <vs cities>"],
+		"unitTypes": ["Spacial","Spacial Mounted"]
+	},
+	{
+		"name": "Blafemus Fire II",
+		"prerequisites": ["Blafemus Fire I"],
+		"uniques": ["[+200]% Strength <when attacking> <vs cities>"]
+		"unitTypes": ["Spacial","Spacial Mounted"]
 	}
 ]
