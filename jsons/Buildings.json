@@ -1,13 +1,12 @@
 [
 	{
-		"name": "Gaia Tree",
+		"name": "Saint Tree",
 		"replaces": "Shrine",
 		"uniqueTo": "Rasantes",
-		"faith": 2,
 		"food": 2,
 		"cost": 40,
 		"maintenance": 1,
-		"requiredTech": "Pottery",
+		"requiredTech": "Agriculture",
 		"uniques": ["Only available <when religion is enabled>",
 		"Removes extra unhappiness from annexed cities"]
 	}
