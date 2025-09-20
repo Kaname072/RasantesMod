@@ -21,6 +21,7 @@
 		"cost": 75,
 		"requiredResource": "Sheep",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["[Goat Rider] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	}
