@@ -1,7 +1,7 @@
 [
   {
 	  "name": "[Junissary] ability",
-	  "uniques": ["No movement cost to pillage"]
+	  "uniques": ["No movement cost to pillage", "Unit will heal every turn, even if it performs an action"]
   },
 	{
 		"name": "[Goat Rider] ability",
@@ -9,14 +9,19 @@
     "No movement cost to pillage"]
 	},
 	{
+		"name": "Burn",
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Spacial","Spacial Water"]
+	},
+	{
 		"name": "Blafemus Fire I",
-		"uniques": ["[+200]% Strength <when attacking> <vs cities>"],
-		"unitTypes": ["Spacial","Spacial Mounted"]
+		"uniques": ["[+100]% Strength <when attacking> <vs cities>"],
+		"unitTypes": ["Spacial Mounted","Spacial Siege"]
 	},
 	{
 		"name": "Blafemus Fire II",
 		"prerequisites": ["Blafemus Fire I"],
 		"uniques": ["[+200]% Strength <when attacking> <vs cities>"]
-		"unitTypes": ["Spacial","Spacial Mounted"]
+		"unitTypes": ["Spacial Mounted","Spacial Siege"]
 	}
 ]
