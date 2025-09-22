@@ -1,5 +1,5 @@
 
-game.png
+game2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -39,6 +39,62 @@ UnitIcons/Goat Rider
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Goat Ship
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Goat Galley
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ballista Rasante
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Upgrade I
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Upgrade II
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Upgrade III
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Upgrade IV
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Upgrade V
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Junissary
   rotate: false
   xy: 35, 233
@@ -49,6 +105,27 @@ TileSets/FantasyHex/Units/Junissary
 TileSets/FantasyHex/Units/Goat Rider
   rotate: false
   xy: 135, 233
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goat Galley
+  rotate: false
+  xy: 35, 333
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goat Ship
+  rotate: false
+  xy: 135, 333
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ballista Rasante
+  rotate: false
+  xy: 35, 433
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
