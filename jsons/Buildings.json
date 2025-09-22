@@ -4,11 +4,56 @@
 		"replaces": "Shrine",
 		"uniqueTo": "Rasantes",
 		"faith": 1,
-		"food": 2,
+		"food": 1,
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Agriculture",
 		"uniques": ["Only available <when religion is enabled>",
 		"Removes extra unhappiness from annexed cities"]
+	},
+	{
+		"name": "Upgrade I",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 80,
+		"maintenance": 2,
+		"requiredTech": "Iron Working",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
+	},
+	{
+		"name": "Upgrade II",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 120,
+		"maintenance": 4,
+		"requiredTech": "Steel",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
+	},
+	{
+		"name": "Upgrade III",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 160,
+		"maintenance": 8,
+		"requiredTech": "Gunpowder",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
+	},
+	{
+		"name": "Upgrade IV",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 200,
+		"maintenance": 16,
+		"requiredTech": "Rifling",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
+	},
+	{
+		"name": "Upgrade V",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 240,
+		"maintenance": 32,
+		"requiredTech": "Plastics",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
 	}
 ]
