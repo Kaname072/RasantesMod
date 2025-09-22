@@ -34,7 +34,7 @@
 		"uniqueTo": "Rasantes",
 		"isNationalWonder": true,
 		"cost": 160,
-		"maintenance": 8,
+		"maintenance": 6,
 		"requiredTech": "Gunpowder",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
@@ -43,7 +43,7 @@
 		"uniqueTo": "Rasantes",
 		"isNationalWonder": true,
 		"cost": 200,
-		"maintenance": 16,
+		"maintenance": 8,
 		"requiredTech": "Rifling",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
@@ -52,8 +52,26 @@
 		"uniqueTo": "Rasantes",
 		"isNationalWonder": true,
 		"cost": 240,
-		"maintenance": 32,
+		"maintenance": 10,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
+	},
+	{
+		"name": "Upgrade VI",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 280,
+		"maintenance": 12,
 		"requiredTech": "Plastics",
+		"uniques": ["[+10]% Strength <for [Military] units>"]
+	},
+	{
+		"name": "Upgrade VII",
+		"uniqueTo": "Rasantes",
+		"isNationalWonder": true,
+		"cost": 320,
+		"maintenance": 14,
+		"requiredTech": "Mechanized Infantry",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	}
 ]
