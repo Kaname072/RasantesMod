@@ -2,11 +2,18 @@
   {
     "name": "Spacial",
     "movementType": "Land",
-    "uniques": ["[-100]% maintenance costs <when fighting in [Friendly Land] tiles>"],
   },
   {
     "name": "Spacial Mounted",
-    "movementType": "Land"
+    "movementType": "Land",
     "uniques": ["Can pass through impassable tiles"]
+  },
+  {
+    "name": "Spacial Water",
+    "movementType": "Water",
+  },
+  {
+    "name": "Spacial Siege",
+    "movementType": "Land"
   }
 ]
