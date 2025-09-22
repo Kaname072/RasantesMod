@@ -71,7 +71,7 @@
 		"isNationalWonder": true,
 		"cost": 320,
 		"maintenance": 14,
-		"requiredTech": "Mechanized Infantry",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+20]% Strength <for [Military] units>"]
 	}
 ]
