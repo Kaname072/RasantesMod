@@ -18,7 +18,7 @@
 		"cost": 80,
 		"maintenance": 2,
 		"requiredTech": "Iron Working",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	},
 	{
 		"name": "Upgrade II",
@@ -28,7 +28,7 @@
 		"maintenance": 4,
 		"requiredTech": "Steel",
 		"requiredBuilding": "Upgrade I",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	},
 	{
 		"name": "Upgrade III",
@@ -38,7 +38,7 @@
 		"maintenance": 6,
 		"requiredTech": "Gunpowder",
 		"requiredBuilding": "Upgrade II",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	},
 	{
 		"name": "Upgrade IV",
@@ -48,7 +48,7 @@
 		"maintenance": 8,
 		"requiredTech": "Rifling",
 		"requiredBuilding": "Upgrade III",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	},
 	{
 		"name": "Upgrade V",
@@ -58,7 +58,7 @@
 		"maintenance": 10,
 		"requiredTech": "Replaceable Parts",
 		"requiredBuilding": "Upgrade IV",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	},
 	{
 		"name": "Upgrade VI",
@@ -68,7 +68,7 @@
 		"maintenance": 12,
 		"requiredTech": "Plastics",
 		"requiredBuilding": "Upgrade V",
-		"uniques": ["[+10]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	},
 	{
 		"name": "Upgrade VII",
@@ -78,6 +78,6 @@
 		"maintenance": 14,
 		"requiredTech": "Mobile Tactics",
 		"requiredBuilding": "Upgrade VI",
-		"uniques": ["[+20]% Strength <for [Military] units>"]
+		"uniques": ["[+25]% Strength <for [Military] units>"]
 	}
 ]
