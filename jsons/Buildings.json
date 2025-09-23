@@ -27,6 +27,7 @@
 		"cost": 120,
 		"maintenance": 4,
 		"requiredTech": "Steel",
+		"requiredBuilding": "Upgrade I",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
 	{
@@ -36,6 +37,7 @@
 		"cost": 160,
 		"maintenance": 6,
 		"requiredTech": "Gunpowder",
+		"requiredBuilding": "Upgrade II",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
 	{
@@ -45,6 +47,7 @@
 		"cost": 200,
 		"maintenance": 8,
 		"requiredTech": "Rifling",
+		"requiredBuilding": "Upgrade III",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
 	{
@@ -54,6 +57,7 @@
 		"cost": 240,
 		"maintenance": 10,
 		"requiredTech": "Replaceable Parts",
+		"requiredBuilding": "Upgrade IV",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
 	{
@@ -63,6 +67,7 @@
 		"cost": 280,
 		"maintenance": 12,
 		"requiredTech": "Plastics",
+		"requiredBuilding": "Upgrade V",
 		"uniques": ["[+10]% Strength <for [Military] units>"]
 	},
 	{
@@ -72,6 +77,7 @@
 		"cost": 320,
 		"maintenance": 14,
 		"requiredTech": "Mobile Tactics",
+		"requiredBuilding": "Upgrade VI",
 		"uniques": ["[+20]% Strength <for [Military] units>"]
 	}
 ]
