@@ -18,7 +18,7 @@
 		"movement": 4,
 		"strength": 13,
 		"cost": 75,
-		"techRequired": "Horseback Riding",
+		"requiredTech": "Horseback Riding",
 		"requiredResource": "Sheep",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["[Goat Rider] ability"],
