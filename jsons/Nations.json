@@ -31,11 +31,10 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,255,255],
 		"uniqueName": "Just War",
-		"uniques": ["Cannot build [{non-[Scout]} {non-[Spacial]} {non-[Spacial Mounted]} {non-[Spacial Water]} {non-[Spacial Siege]}] units <hidden from users>",
-			"[-100]% Strength <for [{non-[Scout]} {non-[Spacial]} {non-[Spacial Mounted]} {non-[Spacial Water]} {non-[Spacial Siege]}] units> <hidden from users>",
-			"[+100]% [Sheep] resource production",
+		"uniques": ["[+100]% [Sheep] resource production",
 			"Cities are razed [2] times as fast",
 			"May choose [1] additional belief(s) of any type when [founding] a religion",
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
 			"\"Borrows\" city names from other civilizations in the game <hidden from users>"]
 		"cities": ["Crown of Prophet"]
 	}
