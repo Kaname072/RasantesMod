@@ -64,7 +64,7 @@
 		"name": "Goat Ship",
 		"replaces": "Galleass",
 		"unitType": "Ranged Water",
-		"replaces": "Rasantes",
+		"uniqueTo": "Rasantes",
 		"movement": 3,
 		"strength": 16,
 		"rangedStrength": 19,
