@@ -2,10 +2,5 @@
   {
 	  "name": "[Junissary] ability",
 	  "uniques": ["No movement cost to pillage", "Unit will heal every turn, even if it performs an action"]
-  },
-	{
-		"name": "[Goat Rider] ability",
-		"uniques": ["Heals [25] damage if it kills a unit",
-    "No movement cost to pillage"]
 	}
 ]
