@@ -60,49 +60,7 @@ UnitIcons/Ballista Rasante
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Upgrade I
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Upgrade II
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Upgrade III
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Upgrade IV
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Upgrade V
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Upgrade VI
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Upgrade VII
+ReligionIcons/Rasantism
   rotate: false
   xy: 400, 100
   size: 100, 100
