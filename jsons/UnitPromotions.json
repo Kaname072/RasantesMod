@@ -7,21 +7,5 @@
 		"name": "[Goat Rider] ability",
 		"uniques": ["Heals [25] damage if it kills a unit",
     "No movement cost to pillage"]
-	},
-	{
-		"name": "Burn",
-		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Spacial","Spacial Water"]
-	},
-	{
-		"name": "Blafemus Fire I",
-		"uniques": ["[+100]% Strength <when attacking> <vs cities>"],
-		"unitTypes": ["Spacial Mounted","Spacial Siege"]
-	},
-	{
-		"name": "Blafemus Fire II",
-		"prerequisites": ["Blafemus Fire I"],
-		"uniques": ["[+200]% Strength <when attacking> <vs cities>"]
-		"unitTypes": ["Spacial Mounted","Spacial Siege"]
 	}
 ]
