@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+  },
+  {
+    "name": "Rasantes",
+		"leaderName": "Junior346",
+		"adjective": ["rasante"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Junior346",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [32,32,32],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Zoroastrism",
+		"uniqueName": "Just War",
+		"uniques": ["[+100]% [Sheep] resource production"],
+		"cities": ["Crown of Prophet"],
+  }
+]
