@@ -53,8 +53,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [0,50,0],
-		"innerColor": [255,255,255],
+		"outerColor": [16,16,16],
+		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
 		"uniques": ["[+25]% [Science] [in all cities] <during a Golden Age>"],
 		"cities": ["Base Alpha"],
@@ -80,8 +80,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [0,0,128],
+		"outerColor": [32,32,32],
+		"innerColor": [0,52,136],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+1] Movement <for [Embarked] units>","[+1] Movement <for [Water] units>"],
 		"cities": ["Western Atlantis"],
@@ -107,11 +107,11 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [64,0,0],
-		"innerColor": [255,255,255],
+		"outerColor": [204,0,0],
+		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+20]% [Food] [in all cities connected to capital]"],
-		"cities": [""],
+		"cities": ["Lukningrad"],
 	},
 	{
 		"name": "Barbarians",
