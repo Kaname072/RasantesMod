@@ -57,7 +57,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Imperialism",
 		"uniques": ["[+25]% [Science] [in all cities] <during a Golden Age>"],
-		"cities": ["Base Spacial"],
+		"cities": ["Base Alpha"],
 	},
 	{
 		"name": "Fishes",
@@ -81,7 +81,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [0,0,64],
+		"innerColor": [0,0,128],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+1] Movement <for [Embarked] units>","[+1] Movement <for [Water] units>"],
 		"cities": ["Western Atlantis"],
