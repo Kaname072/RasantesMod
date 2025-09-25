@@ -1,5 +1,5 @@
 
-game2.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -7,6 +7,27 @@ repeat: none
 NationIcons/Rasantes
   rotate: false
   xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cataclysm
+  rotate: false
+  xy: 200, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Eclipses
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Fishes
+  rotate: false
+  xy: 400, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -25,6 +46,27 @@ LeaderIcons/Junior346
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Junior073
+  rotate: false
+  xy: 383, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lucas094
+  rotate: false
+  xy: 543, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lord Puff
+  rotate: false
+  xy: 703, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Junissary
   rotate: false
   xy: 100, 0
@@ -39,20 +81,6 @@ UnitIcons/Goat Rider
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Goat Ship
-  rotate: false
-  xy: 400, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Goat Galley
-  rotate: false
-  xy: 400, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Ballista Rasante
   rotate: false
   xy: 300, 200
@@ -60,9 +88,9 @@ UnitIcons/Ballista Rasante
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Rasantism
+ReligionIcons/Mozarism
   rotate: false
-  xy: 400, 100
+  xy: 200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
