@@ -1,34 +1,46 @@
 [
+  /*
+
+      Here is a template to show what values should be filled in. 
+      Use the description at http://civdata.com/, and adjust the numbers accordingly.
+      Even then, its up to personal interpretation.
+      To generate lines with multiple parameters I used the function: (FirstParam + (SecondParam - 5) / 2)
+      Note: BNW leaders are included for now.
   {
-    "name": "Junior346",
-      "culture": 2,
-      "faith": 8,
-      "food": 6,
-      "gold": 6,
-      "happiness": 4,
-      "production": 8,
-      "science": 6,
-      "military": 9,
-      "aggressive": 9,
-      "declareWar": 9,
-      "commerce": 3,
-      "diplomacy": 2,
-      "loyal": 6,
-      "expansion": 9,
+      "name": "Template",
+      // Stats focused personalities
+      "culture": Culture,
+      "faith": Religion,
+      "food": Growth,
+      "gold": Gold,
+      "happiness": Happiness,
+      "production": Production,
+      "science": Science,
+      // Behavour focused personalities
+      "military": Military Training,
+      "aggressive": Offensive or (10 - defensive) which ever is higher,
+      "declareWar": War,
+      "commerce": Gold + Chattiness,
+      "diplomacy": Diplomatic Balance + Friendly,
+      "loyal": Loyalty + Defense,
+      "expansion": Expansion,
 
       "priorities": {
-          "Tradition": 6,
-          "Liberty": 8,
-          "Honor": 9,
-          "Commerce": 2,
-          "Patronage": 1,
-          "Piety": 3,
-          "Rationalism": 4,
-          "Freedom": 2,
-          "Autocracy": 7,
-          "Order": 5
-      }
-  },
+          "Tradition": Culture + Wonder,
+          "Liberty": Expansion + TileImprovement,
+          "Honor": Boldness + War,
+          "Commerce": Gold + Chatiness,
+          "Patronage": CityStateCompetitiveness + CSFriendly,
+          "Piety": Faith + CS Friendly,
+          "Rationalism": Science + Spaceship,
+          "Freedom": Hapiness + Growth,
+          "Autocracy": Boldness + Military training,
+          "Order": Defensive + Production
+      },
+      "civilopediaText": [
+          {"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
+      ]
+  },*/
   {
     "name": "Ahmad al-Mansur",
     "production": 6,
