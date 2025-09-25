@@ -144,8 +144,7 @@
 		"isWonder": true,
 		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
 		"requiredTech": "Bronze Working",
-		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
-		// "Requires [Honor]" in BNW
+		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad",
 	},
 
 	// Classical Era
@@ -222,7 +221,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"requiredTech": "Construction",
-		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
+		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu",
 	},
 	// Column 4
 	{
@@ -232,7 +231,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
 	},
 	{
 		"name": "National College",
@@ -278,6 +277,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+	},
 	{
 		"name": "Mint",
 		"maintenance": 0,
