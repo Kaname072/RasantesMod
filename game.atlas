@@ -48,7 +48,7 @@ LeaderIcons/Junior346
   index: -1
 LeaderIcons/Junior073
   rotate: false
-  xy: 383, 21
+  xy: 703, 21
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -62,7 +62,7 @@ LeaderIcons/Lucas094
   index: -1
 LeaderIcons/Lord Puff
   rotate: false
-  xy: 703, 21
+  xy: 383, 21
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
