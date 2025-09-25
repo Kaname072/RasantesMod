@@ -1,7 +1,5 @@
 [
 
-	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
-
 	/* Ancient Era */
 	{
 		"name": "Worker",
@@ -62,20 +60,6 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
-		"attackSound": "arrow"
-	},
-	{
-		"name": "Bowman",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 7,
-		"rangedStrength": 9,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"replaces": "Archer",
-		"uniqueTo": "Babylon",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
