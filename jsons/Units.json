@@ -80,35 +80,6 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Slinger",
-		"unitType": "Archery",
-		"uniqueTo": "Inca",
-		"replaces": "Archer",
-		"movement": 2,
-		"strength": 4,
-		"rangedStrength": 7,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
-		"promotions": ["Slinger Withdraw"],
-		"attackSound": "arrow"
-	},
-	{
-		"name": "Atlatlist",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 7,
-		"cost": 36,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Construction",
-		"replaces": "Archer",
-		"uniqueTo": "The Maya",
-		"upgradesTo": "Composite Bowman",
-		"attackSound": "arrow"
-	},
-	{
 		"name": "Skirmisher",
 		"unitType": "Archery",
 		"uniqueTo": "Barbarians",
