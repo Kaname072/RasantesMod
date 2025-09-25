@@ -27,9 +27,16 @@
 
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Zoroastrism",
+		"favoredReligion": "Mozarism",
 		"uniqueName": "Just War",
 		"uniques": ["[+100]% [Sheep] resource production"],
 		"cities": ["Crown of Prophet"],
-  }
+  },
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+		"innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
+	}
 ]
