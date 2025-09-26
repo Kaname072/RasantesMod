@@ -58,7 +58,7 @@
 		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 3,
-		"strength": 6,
+		"strength": 7,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
@@ -226,6 +226,23 @@
 		"attackSound": "throw"
 	},
 	{
+		"name": "Spike Catapult",
+		"uniqueTo": "Orks",
+		"replaces": "Catapult",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 8,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
+	},
+	{
 		"name": "Composite Bowman",
 		"unitType": "Archery",
 		"movement": 2,
@@ -260,6 +277,21 @@
 		"cost": 90,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Trident",
+		"uniqueTo": "Atlantis",
+		"replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+50]% Strength <when fighting in [Water] tiles>"],
+		"promotions": ["Amphibious"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
@@ -393,6 +425,7 @@
 		"strength": 24,
 		"cost": 125,
 		"requiredTech": "Gunpowder",
+		"promotions": ["[Sprinkles] ability"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
