@@ -29,8 +29,9 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Mozarism",
 		"uniqueName": "Just War",
-		"uniques": ["[+100]% [Sheep] resource production"],
-		"cities": ["Crown of Prophet"],
+		"uniques": ["[+100]% [Sheep] resource production",
+		"[+20]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
+		"cities": ["Crown of Prophet","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
 		"name": "Cataclysm",
@@ -56,8 +57,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
-		"uniques": ["[+25]% [Science] [in all cities] <during a Golden Age>"],
-		"cities": ["Base Alpha"],
+		"uniques": ["[+50]% [Science] [in all cities] <during a Golden Age>"],
+		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
 		"name": "Fishes",
@@ -83,8 +84,9 @@
 		"outerColor": [32,32,32],
 		"innerColor": [0,52,136],
 		"uniqueName": "Aquatic Supremacy",
-		"uniques": ["[+1] Movement <for [Embarked] units>","[+1] Movement <for [Water] units>"],
-		"cities": ["Western Atlantis"],
+		"uniques": ["[+1] Movement <for [Embarked] units>",
+			"[+1] Movement <for [Water] units>"],
+		"cities": ["Western Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
 	{
 		"name": "Eclipses",
@@ -111,7 +113,7 @@
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+20]% [Food] [in all cities connected to capital]"],
-		"cities": ["Lukningrad"],
+		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
 		"name": "Rabbits",
@@ -134,12 +136,53 @@
 
 		"tradeRequest": "You people need this!",
 
-		"outerColor": [0,0,235],
+		"outerColor": [128,128,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Feed the world",
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
 			"[+1 Food] from [Plantation] tiles [in this city]"],
-		"cities": ["Carrotinopla"],
+		"cities": ["Carrotinopla","Teetholia","Noellis","Merry"],
+	},
+	{
+		"name": "Francine",
+		"leaderName": "Lemonady",
+		"adjective": ["icepeople"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Lemonady",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are the worst king i've see!",
+		"attacked": "Huh? you wanna play!?",
+		"defeated": "*Sniff sniff* You are mad! *Sniff sniff*",
+		"introduction": "Huh?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "You look need this.",
+
+		"outerColor": [198,255,213],
+		"innerColor": [0,197,121],
+		"uniqueName": "People Pride",
+		"uniques": ["[+[50]% [Food] [in all cities] <during a Golden Age>",
+			"[Great Engineer] is earned [50]% faster"],
+		"cities": ["Parice","Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
+	},
+	{
+		"name": "Imp",
+		"adjective": ["luke"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Prepare your army, infidel!",
+		"attacked": "I DONT FORGET THIS!",
+		"defeated": "Go away from me!",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+		"cities": ["Caucasus"]
 	},
 	{
 		"name": "Barbarians",
