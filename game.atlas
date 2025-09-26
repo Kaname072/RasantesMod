@@ -32,6 +32,20 @@ NationIcons/Fishes
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Rabbits
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Franice
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saint Tree
   rotate: false
   xy: 200, 400
