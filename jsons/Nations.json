@@ -87,7 +87,7 @@
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+1] Movement <for [Embarked] units>",
 			"[+1] Movement <for [Water] units>",
-			"[+20]% <for [Military] units> <when fighting in [Water] tiles>"],
+			"[+20]% <for [Military] units> <when fighting in [Water Land] tiles>"],
 		"cities": ["Western Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
 	{
@@ -118,7 +118,7 @@
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
-		"name": "Rabbits",
+		"name": "Bunnies",
 		"leaderName": "William",
 		"adjective": ["rabbit"],
 		"startBias": ["Grassland"],
@@ -169,8 +169,8 @@
 		"outerColor": [198,255,213],
 		"innerColor": [0,197,121],
 		"uniqueName": "People Pride",
-		"uniques": ["[+50]% [Food] [in all cities] <during a Golden Age>",
-			"[Great Engineer] is earned [50]% faster"],
+		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>",
+			"[+2 Culture] from [{Tundra} {Forest}] tiles [in this city]"],
 		"cities": ["Parice","Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
 	},
 	{
@@ -183,7 +183,7 @@
 		"defeated": "Go away from me!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [0,0,255],
+		"innerColor": [255,0,0],
 		"cities": ["Caucasus"]
 	},
 	{
