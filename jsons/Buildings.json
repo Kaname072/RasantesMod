@@ -300,6 +300,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+	},
 	{
 		"name": "Mint",
 		"maintenance": 0,
