@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Bunny Scout",
-		"uniqueTo": "Rabbits",
+		"uniqueTo": "Bunnies",
 		"replaces": "Scout",
 		"unitType": "Scout",
 		"movement": 3,
