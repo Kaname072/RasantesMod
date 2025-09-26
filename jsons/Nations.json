@@ -175,7 +175,7 @@
 	},
 	{
 		"name": "Imp",
-		"adjective": ["luke"],
+		"adjective": ["Lukes"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "Prepare your army, infidel!",
@@ -185,6 +185,32 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
 		"cities": ["Caucasus"]
+	},
+	{
+		"name": "Oni",
+		"adjective": ["Onis"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You forced us to do it!",
+		"attacked": "You disrespected the holy land!",
+		"defeated": "The goddess will remember this!",
+
+		"outerColor": [0,0,0],
+		"innerColor": [32,32,64],
+		"cities": ["Shintilla"]
+	},
+	{
+		"name": "Lizardos",
+		"adjective": ["Lizards"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You are a stone in we boots!",
+		"attacked": "You money is dirty!",
+		"defeated": "That's definitely not my day...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [16,128,16],
+		"cities": ["Magmatropolis"]
 	},
 	{
 		"name": "Barbarians",
