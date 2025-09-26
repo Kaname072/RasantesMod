@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Ork Instinct",
-		"uniques": ["Heals [50] damage if it kills a unit", "[+250]% Strength <when defending>","Can only heal by pillaging"]
+		"uniques": ["[+100]% Strength <when defending>","Can only heal by pillaging <when in [Foreign Land] tiles>"]
 	},
 	{
 		"name": "[Junissary] ability",
