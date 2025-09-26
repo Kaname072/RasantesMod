@@ -29,6 +29,19 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Rabbit Scout",
+		"uniqueTo": "Rabbits",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit", "May enter foreign tiles without open borders"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
@@ -168,6 +181,23 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Goat Rider",
+		"uniqueTo": "Rasantes",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"promotions": ["[Goat Rider] ability"],
+		"hurryCostModifier": 20,
+		"attackSound": "goatrider"
+	},
+	{
 		"name": "Catapult",
 		"unitType": "Siege",
 		"movement": 2,
@@ -260,6 +290,21 @@
 		"attackSound": "crossbow"
 	},
 	{
+		"name": "Ballista Rasante",
+		"uniqueTo": "Rasantes",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"uniques": ["[+100]% Strength <when attacking> <vs cities>","No defensive terrain bonus"]
+		"obsoleteTech": "Industrialization",
+		"attackSound": "throwonfire"
+	},
+	{
 		"name": "Trebuchet",
 		"unitType": "Siege",
 		"movement": 2,
@@ -284,6 +329,21 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Janissary",
+		"uniqueTo": "Rasantes",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"promotions": ["[Janissary] ability"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "janissary"
+	},
 
 	// Rennaisance Era
 
@@ -306,6 +366,19 @@
 		"movement": 2,
 		"strength": 24,
 		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sprinkles",
+		"uniqueTo": "Franice",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 125,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
@@ -494,6 +567,34 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "White Corps",
+		"uniqueTo": "Cataclysm",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Red Army",
+		"uniqueTo": "Eclipses",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"promotions": ["March"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
@@ -805,6 +906,20 @@
 		"cost": 425,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Mechanized Fish",
+		"uniqueTo": "Fishes",
+		"replaces": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Aluminum",
+		"promotions": ["Amphibious"],
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "gdrAttack"
 	},
