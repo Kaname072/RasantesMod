@@ -85,10 +85,10 @@
 		"outerColor": [32,32,32],
 		"innerColor": [0,52,136],
 		"uniqueName": "Aquatic Supremacy",
-		"uniques": ["[+1] Movement <for [Embarked] units>",
-			"[+1] Movement <for [Water] units>",
+		"uniques": ["[+2] Movement <for [Embarked] units>",
+			"[+2] Sight <for [Embarked] units>",
 			"[+20]% Strength <for [Military] units> <when fighting in [Water] tiles>"],
-		"cities": ["Western Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
+		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
 	{
 		"name": "Eclipses",
@@ -174,6 +174,94 @@
 		"cities": ["Parice","Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
 	},
 	{
+		"name": "Drows",
+		"leaderName": "Marigod",
+		"adjective": ["drow"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Marigod",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You're men's look's good to fight!",
+		"attacked": "Do you wanna play!?",
+		"defeated": "I underrated you!",
+		"introduction": "New people?",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Dont look!",
+
+		"tradeRequest": "And?",
+
+		"outerColor": [255,0,195],
+		"innerColor": [255,0,110],
+		"uniqueName": "Conquistadoras",
+		"uniques": ["[+50]% <vs cities>",
+			"When defeating a [Military] unit's, Earn [10] Gold and recruit it <with [25]% chance>",
+			"Cannot build [Settler] units"],
+		"cities": ["Navi Mother","Nepturn"]
+	},
+	{
+		"name": "Atlantis",
+		"leaderName": "Asopo",
+		"adjective": ["atlantimite"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Asopo",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "My tolerance is over!",
+		"attacked": "You mistake will cost you live!",
+		"defeated": "The justice will be get you!",
+		"introduction": "Greetings, stranger",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You're a disgusting!",
+
+		"tradeRequest": "You people look need this.",
+
+		"outerColor": [143,206,238],
+		"innerColor": [0,69,129],
+		"uniqueName": "Justice of Asopo",
+		"uniques": ["[Military] units gain the [Devout to Protect] promotion",
+		"[+1 Culture] from [Coast] tiles [in this city]",
+		"[+2 Culture] from [Ocean] tiles [in this city]"],
+		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
+	},
+	{
+		"name": "Orks",
+		"leaderName": "Ares",
+		"adjective": ["ork"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Ares",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "C'mon put yourself to fight!",
+		"attacked": "War? that's i need! HAHAHA!",
+		"defeated": "Cool! you win! i really enjoyed this war!",
+		"introduction": "New brother's?",
+
+		"neutralHello": "Hey brother!",
+		"hateHello": "You just deserve war!",
+
+		"tradeRequest": "I dont have this costume so..",
+
+		"outerColor": [134,0,0],
+		"innerColor": [255,228,107],
+		"uniqueName": "Heavy Army",
+		"uniques": ["Can only heal by pillaging <for [Melee] units>",
+		"[+200]% Strength <for [Melee] units> <when defending>",
+		"[-1] Sight <for [Melee] units>",
+		"No penalty for Wounded units <for [Melee] units>"],
+		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
+	},
+	{
 		"name": "Imp",
 		"adjective": ["Lukes"],
 		"cityStateType": "Militaristic",
@@ -184,7 +272,7 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
-		"cities": ["Caucasus"]
+		"cities": ["Patmos"]
 	},
 	{
 		"name": "Oni",
