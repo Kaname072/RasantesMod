@@ -30,7 +30,8 @@
 		"favoredReligion": "Mozarism",
 		"uniqueName": "Just War",
 		"uniques": ["[+100]% [Sheep] resource production",
-		"[+20]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
+			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+25]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
 		"cities": ["Crown of Prophet","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -143,7 +144,7 @@
 		"uniqueName": "Feed the world",
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
 			"[+1 Food] from [Plantation] tiles [in this city]",
-			"[+50]% Growth [in all cities] <during a Golden Age>"],
+			"[+50]% growth [in all cities] <during a Golden Age>"],
 		"cities": ["Carrotinopla","Teetholia","Noellis","Melon","Pineapple","Strawberry"],
 	},
 	{
@@ -195,7 +196,7 @@
 
 		"tradeRequest": "And?",
 
-		"outerColor": [255,0,195],
+		"outerColor": [255,0,215],
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+50]% Strength <vs cities>",
@@ -227,8 +228,8 @@
 		"outerColor": [143,206,238],
 		"innerColor": [0,69,129],
 		"uniqueName": "Justice of Asopo",
-		"uniques": ["[Military] units gain the [Devout to Protect] promotion",
-			"[-10]% Culture cost of adopting new policies"],
+		"uniques": ["[Military] units gain the [Protect Devout] promotion",
+			"[-10]% Culture cost of adopting new Policies"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -256,8 +257,7 @@
 		"innerColor": [255,228,107],
 		"uniqueName": "Heavy Army",
 		"uniques": ["No damage penalty for wounded units <for [Melee] units>",
-		"[Melee] units gain the [Ork Instinct] promotion",
-		"[20]% of the damage done to [Military] unit as [Culture]"],
+		"[Melee] units gain the [Ork Chest] promotion"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
