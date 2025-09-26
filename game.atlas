@@ -144,7 +144,7 @@ UnitIcons/Black Corps
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rabbit Scout
+UnitIcons/Bunny Scout
   rotate: false
   xy: 900, 200
   size: 100, 100
