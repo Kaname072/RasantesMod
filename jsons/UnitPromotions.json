@@ -730,8 +730,8 @@
 		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
 	},
 	{
-		"name": "[Janissary] ability",
-		"uniques": ["Heals [50] damage if it kills a unit", "[+25]% Strength <when attacking>"]
+		"name": "Ork Instinct",
+		"uniques": ["Heals [50] damage if it kills a unit", "[+250]% Strength <when defending>","Can only heal by pillaging"]
 	},
 	{
 		"name": "[Junissary] ability",
