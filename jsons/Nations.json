@@ -15,15 +15,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "You heresy and blasfemous nation will fall!",
+		"attacked": "I dont forget this!",
+		"defeated": "This is imposible!",
+		"introduction": "Has people in here?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "You nation need this, brother.",
 
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
@@ -43,15 +43,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "We give more democracy for your lands!",
+		"attacked": "What!? Ok!",
+		"defeated": "Me fall, universe fall. Goodbye...",
+		"introduction": "Hello friend!",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Hey!",
+		"hateHello": "Ah, is you...",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Let's make our relantionship more better!?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
@@ -70,15 +70,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "Your lands is mine!",
+		"attacked": "I presume this! HAHA!",
+		"defeated": "WAIT WAIT WAIT! HOW!?",
+		"introduction": "Dont mess with me!",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Nice friend.",
+		"hateHello": "ARGH!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Accept my offer?",
 
 		"outerColor": [32,32,32],
 		"innerColor": [0,52,136],
@@ -97,21 +97,49 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "You are just a imperialism puppet! prepare your mens!",
+		"attacked": "You i've made a mistake",
+		"defeated": "It's over?...",
+		"introduction": "Eclipses Union! what your name?",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"hateHello": "...",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Brother! your lands need my offer?",
 
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+20]% [Food] [in all cities connected to capital]"],
 		"cities": ["Lukningrad"],
+	},
+	{
+		"name": "Rabbits",
+		"leaderName": "William",
+		"adjective": ["rabbit"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		"personality": "William",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You force me do this! >:(",
+		"attacked": "Oh! what you doing? 0-0",
+		"defeated": "Why you make this? why? you're a monster! D:",
+		"introduction": "Hello for your nation :D",
+
+		"neutralHello": "Hallo! :D",
+		"hateHello": ">:(",
+
+		"tradeRequest": "You people need this!",
+
+		"outerColor": [0,0,235],
+		"innerColor": [255,255,255],
+		"uniqueName": "Feed the world",
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
+			"[+1 Food] from [Plantation] tiles [in this city]"],
+		"cities": ["Carrotinopla"],
 	},
 	{
 		"name": "Barbarians",
