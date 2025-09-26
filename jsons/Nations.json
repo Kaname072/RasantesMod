@@ -86,7 +86,6 @@
 		"innerColor": [0,52,136],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+2] Movement <for [Embarked] units>",
-			"No movement cost to embarkation for land units",
 			"[+20]% Strength <for [Military] units> <when fighting in [Water] tiles>"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
@@ -114,7 +113,8 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[+25]% [Production] [in all cities connected to capital]"],
+		"uniques": ["[+25]% [Production] [in all cities connected to capital]",
+		"[-75]% maintenance cost <for [Civilian] units>"],
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -197,8 +197,8 @@
 		"outerColor": [255,0,195],
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
-		"uniques": ["[+50]% <vs cities>",
-			"When defeating a [Military] unit's, earn [10] Gold and recruit it <with [25]% chance>",
+		"uniques": ["[+50]% Strength <vs cities>",
+			"When defeating a [Military] units, earn [10] Gold and recruit it <with [25]% chance>",
 			"Cannot build [Settler] units"],
 		"cities": ["Navi Mother","Nepturn"]
 	},
@@ -227,7 +227,6 @@
 		"innerColor": [0,69,129],
 		"uniqueName": "Justice of Asopo",
 		"uniques": ["[Military] units gain the [Devout to Protect] promotion",
-			"No movement cost to embarkation for land units",
 			"[+1 Culture] from [Coast] tiles [in this city]",
 			"[+2 Culture] from [Ocean] tiles [in this city]"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
@@ -259,7 +258,7 @@
 		"uniques": ["Can only heal by pillaging <for [Melee] units>",
 		"[+200]% Strength <for [Melee] units> <when defending>",
 		"[-1] Sight <for [Melee] units>",
-		"No penalty for wounded units <for [Melee] units>"],
+		"No damage penalty for Wounded units <for [Melee] units>"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
