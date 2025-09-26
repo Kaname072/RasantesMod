@@ -686,7 +686,7 @@
 		"uniques": ["[+50]% XP gained from combat"]
 	},
 	{
-		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
+		"name": "[Spike Catapult] ability", // only for Spike Catapult and subsequent upgrades
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
 	},
 	{
