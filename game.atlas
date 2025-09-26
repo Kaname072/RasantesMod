@@ -32,7 +32,7 @@ NationIcons/Fishes
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Rabbits
+NationIcons/Bunnies
   rotate: false
   xy: 0, 200
   size: 100, 100
