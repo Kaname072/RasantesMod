@@ -734,12 +734,12 @@
 		"uniques": ["Heals [50] damage if it kills a unit", "[+25]% Strength <when attacking>"]
 	},
 	{
-		"name": "[Sipahi] ability",
+		"name": "[Junissary] ability",
 		"uniques": ["No movement cost to pillage"]
 	},
 	{
-		"name": "[Cossack] ability",
-		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
+		"name": "[Goat Rider] ability",
+		"uniques": ["Can pass through impassable tiles"]
 	},
 	{
 		"name": "[Hussar] ability",
