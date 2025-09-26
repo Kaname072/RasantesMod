@@ -746,17 +746,13 @@
 		"uniques": ["[+50]% to Flank Attack bonuses"]
 	},
 	{
-		"name": "[Norwegian Ski Infantry] ability",
+		"name": "[Sprinkles] ability",
 		"uniques": ["[+25]% Strength <when fighting in [Snow] tiles>",
-			"[+25]% Strength <when fighting in [Tundra] tiles>",
-			"[+25]% Strength <when fighting in [Hill] tiles>",
-			"Double movement in [Snow]",
-			"Double movement in [Tundra]",
-			"Double movement in [Hill]"]
+			"[+25]% Strength <when fighting in [Tundra] tiles>"]
 	},
 	{
-		"name": "[Hakkapeliitta] ability",
-		"uniques": ["Transfer Movement to [Great General]", "[+15]% Strength <when stacked with a [Great General] unit>"]
+		"name": "Devout to Protect",
+		"uniques": ["Transfer Movement to [Civilian]", "[+15]% Strength <when stacked with a [Civilian] unit>"]
 	},
 	{
 		"name": "[Zero] ability",
