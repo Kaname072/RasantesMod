@@ -48,35 +48,35 @@ NationIcons/Franice
   index: -1
 NationIcons/Drows
   rotate: false
-  xy: 1400, 0
+  xy: 1200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Orks
   rotate: false
-  xy: 1400, 100
+  xy: 1200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Atlantis
   rotate: false
-  xy: 1500, 100
+  xy: 1300, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Tribalks
   rotate: false
-  xy: 1400, 200
+  xy: 1200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Caprines
   rotate: false
-  xy: 1500, 200
+  xy: 1300, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
