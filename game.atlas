@@ -13,28 +13,28 @@ NationIcons/Rasantes
   index: -1
 NationIcons/Cataclysm
   rotate: false
-  xy: 200, 300
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eclipses
   rotate: false
-  xy: 300, 300
+  xy: 0, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Fishes
   rotate: false
-  xy: 400, 300
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Saint Tree
   rotate: false
-  xy: 100, 100
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -67,16 +67,30 @@ LeaderIcons/Lord Puff
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/William
+  rotate: false
+  xy: 863, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lemonady
+  rotate: false
+  xy: 1023, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Junissary
   rotate: false
-  xy: 100, 0
+  xy: 800, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Goat Rider
   rotate: false
-  xy: 0, 100
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -84,6 +98,34 @@ UnitIcons/Goat Rider
 UnitIcons/Ballista Rasante
   rotate: false
   xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/White Corps
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mechanized Fish
+  rotate: false
+  xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Red Army
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Black Corps
+  rotate: false
+  xy: 700, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -97,26 +139,12 @@ ReligionIcons/Mozarism
   index: -1
 TileSets/FantasyHex/Units/Junissary
   rotate: false
-  xy: 35, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Goat Rider
-  rotate: false
-  xy: 135, 233
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Goat Galley
-  rotate: false
   xy: 35, 333
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Goat Ship
+TileSets/FantasyHex/Units/Goat Rider
   rotate: false
   xy: 135, 333
   size: 31, 31
