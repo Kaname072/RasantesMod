@@ -46,6 +46,41 @@ NationIcons/Franice
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Drows
+  rotate: false
+  xy: 1400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orks
+  rotate: false
+  xy: 1400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Atlantis
+  rotate: false
+  xy: 1500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tribalks
+  rotate: false
+  xy: 1400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Caprines
+  rotate: false
+  xy: 1500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saint Tree
   rotate: false
   xy: 200, 400
@@ -56,6 +91,20 @@ BuildingIcons/Saint Tree
 BuildingIcons/Carrot Market
   rotate: false
   xy: 300, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coldness Castle
+  rotate: false
+  xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Monument Oceanic
+  rotate: false
+  xy: 500, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -98,6 +147,27 @@ LeaderIcons/William
 LeaderIcons/Lemonady
   rotate: false
   xy: 1023, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ares
+  rotate: false
+  xy: 223, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Marigod
+  rotate: false
+  xy: 383, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Asopo
+  rotate: false
+  xy: 543, 501
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -161,6 +231,20 @@ UnitIcons/Bunny Scout
 UnitIcons/Sprinkles
   rotate: false
   xy: 1000, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Demonic Warrior
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rezantes
+  rotate: false
+  xy: 400, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
