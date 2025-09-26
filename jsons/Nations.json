@@ -86,7 +86,7 @@
 		"innerColor": [0,52,136],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+2] Movement <for [Embarked] units>",
-			"[+2] Sight <for [Embarked] units>",
+			"No movement cost to embarkation for land units",
 			"[+20]% Strength <for [Military] units> <when fighting in [Water] tiles>"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
@@ -198,7 +198,7 @@
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+50]% <vs cities>",
-			"When defeating a [Military] unit's, Earn [10] Gold and recruit it <with [25]% chance>",
+			"When defeating a [Military] unit's, earn [10] Gold and recruit it <with [25]% chance>",
 			"Cannot build [Settler] units"],
 		"cities": ["Navi Mother","Nepturn"]
 	},
@@ -227,8 +227,9 @@
 		"innerColor": [0,69,129],
 		"uniqueName": "Justice of Asopo",
 		"uniques": ["[Military] units gain the [Devout to Protect] promotion",
-		"[+1 Culture] from [Coast] tiles [in this city]",
-		"[+2 Culture] from [Ocean] tiles [in this city]"],
+			"No movement cost to embarkation for land units",
+			"[+1 Culture] from [Coast] tiles [in this city]",
+			"[+2 Culture] from [Ocean] tiles [in this city]"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -258,7 +259,7 @@
 		"uniques": ["Can only heal by pillaging <for [Melee] units>",
 		"[+200]% Strength <for [Melee] units> <when defending>",
 		"[-1] Sight <for [Melee] units>",
-		"No penalty for Wounded units <for [Melee] units>"],
+		"No penalty for wounded units <for [Melee] units>"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
