@@ -730,7 +730,7 @@
 		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
 	},
 	{
-		"name": "Ork Instinct",
+		"name": "Ork Chest",
 		"uniques": ["[+100]% Strength <when defending>","Can only heal by pillaging <when in [Foreign Land] tiles>"]
 	},
 	{
@@ -751,7 +751,7 @@
 			"[+25]% Strength <when fighting in [Tundra] tiles>"]
 	},
 	{
-		"name": "Devout to Protect",
+		"name": "Protect Devout",
 		"uniques": ["Transfer Movement to [Civilian]", "[+15]% Strength <when stacked with a [Civilian] unit>"]
 	},
 	{
