@@ -30,7 +30,8 @@
 		"favoredReligion": "Mozarism",
 		"uniqueName": "Just War",
 		"uniques": ["[+100]% [Sheep] resource production",
-		"[+20]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
+		"[+20]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>",
+		"May capture killed [Land] units <for [Military] units>"],
 		"cities": ["Crown of Prophet","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -114,7 +115,7 @@
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+25]% [Production] [in all cities connected to capital]",
-		"[-75]% maintenance cost <for [Civilian] units>"],
+		"[+1] Movement <for [Worker] units>"],
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -142,7 +143,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Feed the world",
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
-			"[+1 Food] from [Plantation] tiles [in this city]"],
+			"[+1 Food] from [Plantation] tiles [in this city]","[+50] growth [in all cities] <during a Golden Age>"],
 		"cities": ["Carrotinopla","Teetholia","Noellis","Melon","Pineapple","Strawberry"],
 	},
 	{
@@ -198,7 +199,7 @@
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+50]% Strength <vs cities>",
-			"When defeating a [Military] units, earn [10] Gold and recruit it <with [25]% chance>",
+			"When defeating a [Military] unit, earn [25] Gold and recruit it <with [25]% chance>",
 			"Cannot build [Settler] units"],
 		"cities": ["Navi Mother","Nepturn"]
 	},
@@ -255,10 +256,9 @@
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
 		"uniqueName": "Heavy Army",
-		"uniques": ["Can only heal by pillaging <for [Melee] units>",
-		"[+200]% Strength <for [Melee] units> <when defending>",
-		"[-1] Sight <for [Melee] units>",
-		"No damage penalty for Wounded units <for [Melee] units>"],
+		"uniques": ["No damage penalty for wounded units <for [Melee] units>",
+		"[Melee] units gain the [Ork Instinct] promotion",
+		"[20]% of the damage done to [Military] units as [Culture]"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
