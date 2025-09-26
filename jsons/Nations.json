@@ -58,7 +58,7 @@
 		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
 		"uniques": ["[+50]% [Science] [in all cities] <during a Golden Age>",
-		"[+1 Science] from [Mine] [in this city]"],
+		"[+1 Science] from [Mine] tiles [in this city]"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
@@ -138,7 +138,7 @@
 
 		"tradeRequest": "You people need this!",
 
-		"outerColor": [128,128,255],
+		"outerColor": [108,108,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Feed the world",
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
@@ -146,7 +146,7 @@
 		"cities": ["Carrotinopla","Teetholia","Noellis","Merry"],
 	},
 	{
-		"name": "Francice",
+		"name": "Franice",
 		"leaderName": "Lemonady",
 		"adjective": ["icepeople"],
 		"startBias": ["Tundra"],
@@ -169,7 +169,7 @@
 		"outerColor": [198,255,213],
 		"innerColor": [0,197,121],
 		"uniqueName": "People Pride",
-		"uniques": ["+[50]% [Food] [in all cities] <during a Golden Age>",
+		"uniques": ["[+50]% [Food] [in all cities] <during a Golden Age>",
 			"[Great Engineer] is earned [50]% faster"],
 		"cities": ["Parice","Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
 	},
