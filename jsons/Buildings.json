@@ -41,6 +41,17 @@
 		"uniques": ["Only available <when religion is enabled>"]
 	},
 	{
+		"name": "Saint Tree",
+		"replaces": "Shrine",
+		"uniqueTo": "Rasantes",
+		"food": 2,
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
+	{
 		"name": "Temple of Artemis",
 		"culture": 1,
 		"isWonder": true,
