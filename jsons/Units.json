@@ -53,6 +53,19 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
+		"name": "Demonic Warrior",
+		"uniqueTo": "Imp"
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 6,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects","No movement cost to pillage"],
+		"attackSound": "nonmetalhit",
+	},
+	{
 		"name": "Brute",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
