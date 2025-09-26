@@ -21,6 +21,17 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"],
 	},
+	{
+		"name": "Monument Oceanic",
+		"uniqueTo": "Atlantis",
+		"replaces": "Monument",
+		"science": 1,
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"],
+	},
 	// Column 1
 	{
 		"name": "Granary",
@@ -495,6 +506,7 @@
 		"name": "Coldness Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Franice",
+		"percentStatBonus": {"culture": 25},
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
