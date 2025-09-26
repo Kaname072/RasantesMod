@@ -330,7 +330,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Janissary",
+		"name": "Junissary",
 		"uniqueTo": "Rasantes",
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
@@ -338,11 +338,11 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"promotions": ["[Janissary] ability"],
+		"promotions": ["[Junissary] ability"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"attackSound": "janissary"
+		"attackSound": "junissary"
 	},
 
 	// Rennaisance Era
@@ -854,6 +854,19 @@
 		"strength": 90,
 		"cost": 375,
 		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Black Corps",
+		"uniqueTo": "Cataclysm",
+		"replaces": "Mechanized Infantry",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 100,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": "[+20]% Strength <when fighting in [Enemy Land] tiles>"],
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
