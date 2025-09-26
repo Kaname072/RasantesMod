@@ -53,6 +53,13 @@ BuildingIcons/Saint Tree
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Carrot Market
+  rotate: false
+  xy: 300, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Junior346
   rotate: false
   xy: 223, 21
