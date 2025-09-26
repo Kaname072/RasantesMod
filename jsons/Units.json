@@ -29,7 +29,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Rabbit Scout",
+		"name": "Bunny Scout",
 		"uniqueTo": "Rabbits",
 		"replaces": "Scout",
 		"unitType": "Scout",
@@ -866,8 +866,7 @@
 		"strength": 100,
 		"cost": 375,
 		"requiredTech": "Mobile Tactics",
-		"uniques": "[+20]% Strength <when fighting in [Enemy Land] tiles>"],
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": "[+20]% Strength <when fighting in [Enemy Land] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
 	{
