@@ -242,9 +242,30 @@ UnitIcons/Demonic Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rezantes
+UnitIcons/Cisplatinos
   rotate: false
   xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Besorker
+  rotate: false
+  xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Trident
+  rotate: false
+  xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spike Catapult
+  rotate: false
+  xy: 600, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
