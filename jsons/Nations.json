@@ -31,7 +31,7 @@
 		"uniqueName": "Just War",
 		"uniques": ["[+100]% [Sheep] resource production",
 			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+25]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
+			"[+30]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
 		"cities": ["Crown of Prophet","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -256,8 +256,7 @@
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
 		"uniqueName": "Heavy Army",
-		"uniques": ["No damage penalty for wounded units <for [Melee] units>",
-		"[Melee] units gain the [Ork Chest] promotion"],
+		"uniques": ["[Melee] units gain the [Ork Chest] promotion"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
@@ -283,9 +282,38 @@
 
 		"outerColor": [255,231,225],
 		"innerColor": [62,1,1],
-		"uniqueName": "Caprine Whrate",
-		"uniques": ["No damage penalty for wounded units <for [Mounted] units>"],
+		"uniqueName": "Caprine Wrath",
+		"uniques": ["[+1] Movement <for [Mounted] units>",
+		"[+30]% Strength <for [Wounded] units>"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
+	},
+	{
+		"name": "Skulls",
+		"leaderName": "Junior066",
+		"adjective": ["skull"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		"personality": "Junior066",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "My patient is over, is war!",
+		"attacked": "Savages never lose!",
+		"defeated": "Oh goddess why you're abadon us!?",
+		"introduction": "Hello stranger",
+
+		"neutralHello": "Hello.",
+		"hateHello": "My people dont like you",
+
+		"tradeRequest": "A trade quest for you.",
+
+		"outerColor": [224,0,195],
+		"innerColor": [23,129,0],
+		"uniqueName": "Antropophagy",
+		"uniques": ["[50]% of killed [Military] unit's [Cost] as [Food]",
+		"[+1 Faith] from [Jungle] tiles [in this city]"],
+		"cities": ["Scarlattis","La'Lazuli","Ergmerald","Sitalver","Colal","Tiron","Diamonad","Brimstonia","Copperina"]
 	},
 	{
 		"name": "Imp",
