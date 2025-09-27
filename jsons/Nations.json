@@ -196,7 +196,7 @@
 
 		"tradeRequest": "And?",
 
-		"outerColor": [255,0,215],
+		"outerColor": [255,0,235],
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+50]% Strength <vs cities>",
@@ -259,6 +259,33 @@
 		"uniques": ["No damage penalty for wounded units <for [Melee] units>",
 		"[Melee] units gain the [Ork Chest] promotion"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
+	},
+	{
+		"name": "Caprines",
+		"leaderName": "Lucas602",
+		"adjective": ["caprine"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		"personality": "Lucas602",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I dont have choice!",
+		"attacked": "My caprines will smash you!",
+		"defeated": "The sky punished me?",
+		"introduction": "You have sheep's?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Dont look at me!",
+
+		"tradeRequest": "Accept the offer from Caprine brother.",
+
+		"outerColor": [255,231,225],
+		"innerColor": [62,1,1],
+		"uniqueName": "Caprine Whrate",
+		"uniques": ["No damage penalty for wounded units <for [Mounted] units>"],
+		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
 		"name": "Imp",
