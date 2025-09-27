@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Ork Chest",
-		"uniques": ["[+100]% Strength <when defending>","Can only heal by pillaging <when in [Foreign Land] tiles>"]
+		"uniques": ["[+50]% Strength <when defending>"]
 	},
 	{
 		"name": "[Junissary] ability",
