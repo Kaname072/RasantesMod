@@ -910,6 +910,15 @@
 		"attackSound": "torpedo"
 	},
 	{
+		"name": "Extrator Robot",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 220,
+		"requiredTech": "Lasers",
+		"uniques": ["Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Uncapturable"]
+	},
+	{
 		"name": "Mechanized Infantry",
 		"unitType": "Gunpowder",
 		"movement": 3,
