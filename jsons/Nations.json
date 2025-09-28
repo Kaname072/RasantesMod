@@ -306,8 +306,8 @@
 
 		"tradeRequest": "A trade quest for you.",
 
-		"outerColor": [224,0,195],
-		"innerColor": [23,129,0],
+		"outerColor": [16,16,16],
+		"innerColor": [0,0,255],
 		"uniqueName": "Demon Hungry",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Food]",
 		"[+1 Food] from [Sheep] tiles [in this city]",
