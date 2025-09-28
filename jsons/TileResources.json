@@ -207,6 +207,23 @@
 		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Crystal Ore",
+		"resourceType": "Strategic",
+		"revealedBy": "Lasers",
+		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
+		"production": 1,
+		"improvement": "Extrator",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated with weight [35] <in [Marsh] tiles> <in tiles without [Hill]>",
+					"Generated with weight [50] <in [Jungle] tiles> <in tiles without [Hill]>",
+					"Generated with weight [50] <in [Forest] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [10] <in [Forest] tiles>",
+					"Minor deposits generated with weight [10] <in [{Featureless} {Tundra}] tiles>",
+					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
+		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 8},
+		"minorDepositAmount": {"sparse": 2, "default": 4, "abundant": 6}
+	},
 
 	// Luxury resources
 	{
