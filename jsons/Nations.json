@@ -58,8 +58,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
-		"uniques": ["[+25]% [Science] [in all cities] <during a Golden Age>",
-		"[+1 Science] from [Mine] tiles [in this city] <after discovering [Chemistry]",
+		"uniques": ["[+30]% [Science] [in all cities] <during a Golden Age>",
+		"When declaring friendship, both parties gain a [10]% boost to great person generation",
 		"[+1] Movement <for [Gunpowder] units>"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
@@ -115,8 +115,9 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[+25]% [Production] [in all cities connected to capital]",
-		"[+1] Movement <for [Worker] units>"],
+		"uniques": ["[+50]% [Production] [in all cities] <during a Golden Age>",
+			"[-25]% maintenance costs <for [Land] units>",
+			"[+1] Movement <for [Civilian] units>"],
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -196,12 +197,12 @@
 
 		"tradeRequest": "And?",
 
-		"outerColor": [255,0,235],
+		"outerColor": [255,0,245],
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+50]% Strength <vs cities>",
 			"[+1] Range <for [Archery] units>",
-			"Cannot build [Settler] units"],
+			"[+25]% [Production] [in annexed cities]"],
 		"cities": ["Navi Mother","Nepturn"]
 	},
 	{
@@ -309,9 +310,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,0,0],
-		"uniqueName": "Steal and Burn",
-		"uniques": ["Earn [100]% of killed [non-[Barbarian]] unit's [Strength] as [Gold]",
-			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
+		"uniqueName": "Converting Infidels",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Patmos","Caucasus","Scarlattis","Madentium","Balkans"]
 	},
@@ -339,8 +339,8 @@
 		"outerColor": [255,255,255],
 		"innerColor": [128,128,255],
 		"uniqueName": "Prayer for Peace",
-		"uniques": ["[+1 Faith] per [2] population [in all cities]",
-		"City-State territory always counts as friendly territory"],
+		"uniques": ["[+1 Faith] per [5] population [in all cities] <when not at war>",
+		"[+33]% Strength <When fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Crown of Queen","Mesha","Camebbes","Zupur","Pentro","Tepes","Salazino"],
 	},
 	{
@@ -381,6 +381,19 @@
 		"outerColor": [0,0,0],
 		"innerColor": [16,128,16],
 		"cities": ["Magmatropolis"]
+	},
+	{
+		"name": "Crying Kingdom",
+		"adjective": ["Chorante"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "Dont make this hard!",
+		"attacked": "You faith is false!",
+		"defeated": "Oh no, that's a shame...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Cinopolis"]
 	},
 	{
 		"name": "Barbarians",
