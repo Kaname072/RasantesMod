@@ -969,8 +969,8 @@
 		"cost": 1500,
 		"isNationalWonder": true,
 		"uniques": ["Triggers a global alert upon completion", 
-			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Galaxies"
+			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried", "Triggers a global alert upon build start"],
+		"requiredTech": "Globalization"
 	},
     {
         "name": "Great Firewall",
