@@ -914,11 +914,11 @@
 		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
 	},
 	{
-		"name": "Manhattan Project",
+		"name": "War Satellite",
 		"cost": 750,
 		"isNationalWonder": true,
 		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
-		"requiredTech": "Atomic Theory"
+		"requiredTech": "Satellites"
 	},
 	{
 		"name": "Pentagon",
@@ -1005,21 +1005,9 @@
 		"name": "Hubble Space Telescope",
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 1},
-		"uniques": ["[2] free [Great Scientist] units appear",
-			"[+25]% Production when constructing [Spaceship part] units [in this city]",
-			"Gain a free [Spaceship Factory] [in this city]"],
+		"uniques": ["[2] free [Great Scientist] units appear"],
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
-	},
-	{
-		"name": "Spaceship Factory",
-		"production": 3,
-        "maintenance": 3,
-		"requiredResource": "Aluminum",
-		"cost": 360,
-		"requiredBuilding": "Factory",
-		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]"],
-		"requiredTech": "Robotics"
 	},
 	// Column 16
 	{
