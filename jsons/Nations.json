@@ -261,11 +261,11 @@
 	},
 	{
 		"name": "Caprines",
-		"leaderName": "Lucas602",
+		"leaderName": "Oni Khan",
 		"adjective": ["caprine"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
-		"personality": "Lucas602",
+		"personality": "Oni Khan",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -288,19 +288,19 @@
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
-		"name": "Skulls",
-		"leaderName": "Junior066",
-		"adjective": ["skull"],
-		"startBias": ["Jungle"],
+		"name": "Imp",
+		"leaderName": "Luke001",
+		"adjective": ["imp"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
-		"personality": "Junior066",
+		"personality": "Luke001",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "My patient is over, is war!",
-		"attacked": "Savages never lose!",
-		"defeated": "Oh goddess why you're abadon us!?",
+		"declaringWar": "Prepare to war, infidel!!",
+		"attacked": "Imps never lose!",
+		"defeated": "Oh god why you're abadon us!?",
 		"introduction": "Hello stranger",
 
 		"neutralHello": "Hello.",
@@ -311,22 +311,22 @@
 		"outerColor": [224,0,195],
 		"innerColor": [23,129,0],
 		"uniqueName": "Antropophagy",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Food]",
-		"[+1 Faith] from [Jungle] tiles [in this city]"],
-		"cities": ["Scarlattis","La'Lazuli","Ergmerald","Sitalver","Colal","Tiron","Diamonad","Brimstonia","Copperina"]
+		"uniques": ["Earn [200]% of killed [Military] unit's [Cost] as [Food]",
+		"[+2 Faith] from [Mountain] tiles [in this city]"],
+		"cities": ["Patmos","Caucasus","Scarlattis","Madentium","Balkans"]
 	},
 	{
-		"name": "Imp",
-		"adjective": ["Lukes"],
+		"name": "Tribalks",
+		"adjective": ["Savages"],
 		"cityStateType": "Militaristic",
 
-		"declaringWar": "Prepare your army, infidel!",
+		"declaringWar": "Prepare yourself!",
 		"attacked": "I DONT FORGET THIS!",
 		"defeated": "Go away from me!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
-		"cities": ["Patmos"]
+		"innerColor": [0,255,0],
+		"cities": ["Jungle Whrath"]
 	},
 	{
 		"name": "Oni",
@@ -338,7 +338,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [32,32,64],
+		"innerColor": [64,64,128],
 		"cities": ["Shintilla"]
 	},
 	{
