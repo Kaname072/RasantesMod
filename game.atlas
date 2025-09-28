@@ -109,6 +109,20 @@ BuildingIcons/Monument Oceanic
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Dyson Sphere
+  rotate: false
+  xy: 300, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Black Hole
+  rotate: false
+  xy: 200, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Junior346
   rotate: false
   xy: 223, 21
@@ -258,14 +272,35 @@ UnitIcons/Besorker
   index: -1
 UnitIcons/Trident
   rotate: false
-  xy: 500, 300
+  xy: 600, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spike Catapult
   rotate: false
-  xy: 600, 300
+  xy: 700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Extrator Robot
+  rotate: false
+  xy: 100, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Death Laser
+  rotate: false
+  xy: 400, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Death Laser
+  rotate: false
+  xy: 500, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -274,6 +309,27 @@ ReligionIcons/Mozarism
   rotate: false
   xy: 200, 200
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Crystal Ore
+  rotate: false
+  xy: 0, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Crystal Ore
+  rotate: false
+  xy: 34, 634
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extrator
+  rotate: false
+  xy: 34, 534
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
