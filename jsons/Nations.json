@@ -336,7 +336,7 @@
 		"tradeRequest": "You have choices, and i respect it",
 
 		"outerColor": [255,255,255],
-		"innerColor": [128,128,256],
+		"innerColor": [128,128,255],
 		"uniqueName": "Prayer for Peace",
 		"uniques": ["[-75]% City-State Influence degradation",
 		"City-State territory always counts as friendly territory"],
