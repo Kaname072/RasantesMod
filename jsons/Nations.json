@@ -311,7 +311,7 @@
 		"outerColor": [224,0,195],
 		"innerColor": [23,129,0],
 		"uniqueName": "Antropophagy",
-		"uniques": ["[50]% of killed [Military] unit's [Cost] as [Food]",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Food]",
 		"[+1 Faith] from [Jungle] tiles [in this city]"],
 		"cities": ["Scarlattis","La'Lazuli","Ergmerald","Sitalver","Colal","Tiron","Diamonad","Brimstonia","Copperina"]
 	},
