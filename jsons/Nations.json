@@ -59,7 +59,7 @@
 		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
 		"uniques": ["[+30]% [Science] [in all cities] <during a Golden Age>",
-		"When declaring friendship, both parties gain a [10]% boost to great person generation",
+		"When declaring friendship, both parties gain a [20]% boost to great person generation",
 		"[+1] Movement <for [Gunpowder] units>"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
@@ -116,7 +116,7 @@
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+50]% [Production] [in all cities] <during a Golden Age>",
-			"[-25]% maintenance costs <for [Land] units>",
+			"[+1 Production] from [Mine] tiles [in this city]",
 			"[+1] Movement <for [Civilian] units>"],
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
@@ -203,7 +203,7 @@
 		"uniques": ["[+50]% Strength <vs cities>",
 			"[+1] Range <for [Archery] units>",
 			"[+25]% [Production] [in annexed cities]"],
-		"cities": ["Navi Mother","Nepturn"]
+		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
 	{
 		"name": "Atlantis",
@@ -229,7 +229,8 @@
 		"outerColor": [143,206,238],
 		"innerColor": [0,69,129],
 		"uniqueName": "Justice of Asopo",
-		"uniques": ["[+33]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+33]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -256,7 +257,8 @@
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
 		"uniqueName": "Heavy Army",
-		"uniques": ["[+50]% Strength <for [Melee] units> <when defending>"],
+		"uniques": ["[+50]% Strength <for [Melee] units> <when defending>",
+		"[-1] Movement <for [{Water} {Military}] units>"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
@@ -284,7 +286,8 @@
 		"innerColor": [62,1,1],
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1] Movement <for [Mounted] units>",
-		"[+30]% Strength <vs [Wounded] units>"],
+		"[+30]% Strength <vs [Wounded] units>",
+		"[+1] Range <for [Siege] units>"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
@@ -312,6 +315,7 @@
 		"innerColor": [255,0,0],
 		"uniqueName": "Converting Infidels",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
+			"[-25]% maintenance costs <for [Land] units>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Patmos","Caucasus","Scarlattis","Madentium","Balkans"]
 	},
@@ -338,10 +342,11 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [128,128,255],
-		"uniqueName": "Prayer for Peace",
+		"uniqueName": "Pray for Peace",
 		"uniques": ["[+1 Faith] per [5] population [in all cities] <when not at war>",
-		"[+33]% Strength <When fighting units from a Civilization with more Cities than you>"],
-		"cities": ["Crown of Queen","Mesha","Camebbes","Zupur","Pentro","Tepes","Salazino"],
+		"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+		"Cannot build [Settler] units"],
+		"cities": ["Crown of Queen","Old Crown of Prophet"],
 	},
 	{
 		"name": "Tribalks",
