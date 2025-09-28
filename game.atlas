@@ -312,6 +312,13 @@ ReligionIcons/Mozarism
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Extrator
+  rotate: false
+  xy: 100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Crystal Ore
   rotate: false
   xy: 0, 700
