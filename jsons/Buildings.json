@@ -965,12 +965,12 @@
 		"uniques": ["Only available <in cities without a [Solar Plant]>"]
 	},
 	{
-		"name": "Apollo Program",
-		"cost": 750,
+		"name": "Black Hole",
+		"cost": 1500,
 		"isNationalWonder": true,
-		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
+		"uniques": ["Triggers a global alert upon completion", 
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
-		"requiredTech": "Rocketry"
+		"requiredTech": "Galaxies"
 	},
     {
         "name": "Great Firewall",
