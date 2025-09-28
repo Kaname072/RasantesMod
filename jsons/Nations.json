@@ -171,8 +171,7 @@
 		"outerColor": [198,255,213],
 		"innerColor": [0,197,121],
 		"uniqueName": "People Pride",
-		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>",
-			"[+2 Culture] from [{Tundra} {Forest}] tiles [in this city]"],
+		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Parice","Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
 	},
 	{
@@ -228,8 +227,7 @@
 		"outerColor": [143,206,238],
 		"innerColor": [0,69,129],
 		"uniqueName": "Justice of Asopo",
-		"uniques": ["[Military] units gain the [Protect Devout] promotion",
-			"[-10]% Culture cost of adopting new Policies"],
+		"uniques": ["[-25]% Culture cost of adopting new Policies"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -284,7 +282,7 @@
 		"innerColor": [62,1,1],
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1] Movement <for [Mounted] units>",
-		"[+30]% Strength <for [Wounded] units>"],
+		"[+30]% Strength <vs [Wounded] units>"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
@@ -310,10 +308,39 @@
 
 		"outerColor": [224,0,195],
 		"innerColor": [23,129,0],
-		"uniqueName": "Antropophagy",
-		"uniques": ["Earn [200]% of killed [Military] unit's [Cost] as [Food]",
-		"[+2 Faith] from [Mountain] tiles [in this city]"],
+		"uniqueName": "Demon Hungry",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Food]",
+		"[+1 Food] from [Sheep] tiles [in this city]",
+		"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Patmos","Caucasus","Scarlattis","Madentium","Balkans"]
+	},
+	{
+		"name": "Rezantes",
+		"leaderName": "Wanessa",
+		"adjective": ["rezante"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Wanessa",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "No choices for you!",
+		"attacked": "Will not have perdon!",
+		"defeated": "The goddess will remember all you made",
+		"introduction": "The goddess bless you nation",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You are disgusting",
+
+		"tradeRequest": "You have choices, and i respect it",
+
+		"outerColor": [255,255,255],
+		"innerColor": [128,128,256],
+		"uniqueName": "Prayer for Peace",
+		"uniques": ["[-75]% City-State Influence degradation",
+		"City-State territory always counts as friendly territory"],
+		"cities": ["Crown of Queen","Mesha","Camebbes","Zupur","Pentro","Tepes","Salazino"],
 	},
 	{
 		"name": "Tribalks",
