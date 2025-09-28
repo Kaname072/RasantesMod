@@ -67,9 +67,16 @@ NationIcons/Atlantis
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Skulls
+NationIcons/Imp
   rotate: false
   xy: 1200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rezantes
+  rotate: false
+  xy: 200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -119,6 +126,13 @@ BuildingIcons/Dyson Sphere
 BuildingIcons/Black Hole
   rotate: false
   xy: 200, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/War Satellite
+  rotate: false
+  xy: 600, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -182,6 +196,27 @@ LeaderIcons/Marigod
 LeaderIcons/Asopo
   rotate: false
   xy: 543, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Wanessa
+  rotate: false
+  xy: 703, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Luke001
+  rotate: false
+  xy: 863, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Oni Khan
+  rotate: false
+  xy: 1023, 501
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
