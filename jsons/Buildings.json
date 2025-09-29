@@ -1022,6 +1022,10 @@
 	},
 	{
 		"name": "Dyson Sphere",
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 3},
+		"uniques": ["[2] free [Great Engineer] units appear"],
+		"requiredTech": "Particle Physics"
 	//Column 16
 	{
 		"name": "Galaxies Union",
