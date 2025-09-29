@@ -1024,8 +1024,11 @@
 		"name": "Dyson Sphere",
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 3},
-		"uniques": ["[2] free [Great Engineer] units appear"],
+		"percentStatBonus": {"production": 50},
+		"uniques": ["[2] free [Great Engineer] units appear","Consumes [8] [Aluminum]"],
 		"requiredTech": "Particle Physics"
+		"quote": "This sphere can make solar energy in energy for a solar system"
+	},
 	//Column 16
 	{
 		"name": "Galaxies Union",
