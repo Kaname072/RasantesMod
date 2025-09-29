@@ -345,7 +345,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [128,128,255],
-		"favoredReligion": "Sacrificie",
+		"favoredReligion": "Martyr",
 		"uniqueName": "Peregrineer's",
 		"uniques": ["[+1 Faith] per [2] population [in all cities] <when not at war>",
 			"[-75]% maintenance on road & railroads",
@@ -375,7 +375,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [64,64,256],
+		"innerColor": [64,64,255],
 		"cities": ["Shintilla"]
 	},
 	{
