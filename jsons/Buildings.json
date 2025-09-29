@@ -1020,7 +1020,9 @@
 		"requiredTech": "Satellites",
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},
-	// Column 16
+	{
+		"name": "Dyson Sphere",
+	//Column 16
 	{
 		"name": "Galaxies Union",
 		"isWonder": true,
