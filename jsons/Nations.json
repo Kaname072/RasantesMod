@@ -8,7 +8,7 @@
     "name": "Rasantes",
 		"leaderName": "Junior346",
 		"adjective": ["rasante"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"personality": "Junior346",
 
@@ -27,7 +27,7 @@
 
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Mozarism",
+		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Just War",
 		"uniques": ["[+100]% [Sheep] resource production",
 			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
@@ -228,6 +228,7 @@
 
 		"outerColor": [143,206,238],
 		"innerColor": [0,69,129],
+		"favoredReligion": "Poseidonism",
 		"uniqueName": "Justice of Asopo",
 		"uniques": ["[+33]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
@@ -284,6 +285,7 @@
 
 		"outerColor": [255,231,225],
 		"innerColor": [62,1,1],
+		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1] Movement <for [Mounted] units>",
 		"[+30]% Strength <vs [Wounded] units>",
@@ -313,6 +315,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,0,0],
+		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Converting Infidels",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
 			"[-25]% maintenance costs <for [Land] units>",
@@ -342,6 +345,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [128,128,255],
+		"favoredReligion": "Sacrificie",
 		"uniqueName": "Pray for Peace",
 		"uniques": ["[+1 Faith] per [5] population [in all cities] <when not at war>",
 		"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
