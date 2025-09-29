@@ -730,8 +730,8 @@
 		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
 	},
 	{
-		"name": "Ork Chest",
-		"uniques": ["[+50]% Strength <when defending>"]
+		"name": "[Pillager] ability",
+		"uniques": ["[+25]% Strength <when attacking>","No movement cost to pillage"]
 	},
 	{
 		"name": "[Junissary] ability",
