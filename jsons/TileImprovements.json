@@ -95,7 +95,7 @@
 	},
 	{
 		"name": "Extrator",
-		"terrainsCanBeBuiltOn": "Land",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 1,
 		"techRequired": "Lasers",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+40 Gold]"],
