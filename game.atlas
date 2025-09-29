@@ -139,7 +139,7 @@ BuildingIcons/War Satellite
   index: -1
 BuildingIcons/Donation Center
   rotate: false
-  xy: 300, 400
+  xy: 600, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -347,9 +347,86 @@ UnitIcons/Great Death Laser
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Mozarism
+UnitIcons/Spear
+  rotate: false
+  xy: 1000, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pillager
+  rotate: false
+  xy: 1100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hisagi
+  rotate: false
+  xy: 900, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Monk
+  rotate: false
+  xy: 800, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tech Archer
+  rotate: false
+  xy: 1100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mother Navi
+  rotate: false
+  xy: 1200, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bunny Legion
+  rotate: false
+  xy: 1300, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Leviathan
+  rotate: false
+  xy: 1200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Cult of Rasantes
   rotate: false
   xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Shintonism
+  rotate: false
+  xy: 1300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Poseidonism
+  rotate: false
+  xy: 1300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Sacrificie
+  rotate: false
+  xy: 1300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
