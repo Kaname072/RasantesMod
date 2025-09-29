@@ -438,6 +438,15 @@
 		"attackSound": "throw"
 	},
 	{
+		"name": "Extrator Robot",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 100,
+		"requiredTech": "Steel",
+		"uniques": ["Can instantly construct a [Extrator] improvement <by consuming this unit>",
+            "Uncapturable"]
+	},
+	{
 		"name": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -501,6 +510,20 @@
 		"cost": 125,
 		"requiredTech": "Gunpowder",
 		"promotions": ["[Sprinkles] ability"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Bunny Legion",
+		"uniqueTo": "Bunnies",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 22,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"uniques": ["Can move after attacking"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
@@ -574,6 +597,22 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Tech Archer",
+		"uniqueTo": "Drows",
+		"replaces": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"uniques": ["[+33]% Strength <when attacking> <vs cities>"],
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -609,6 +648,20 @@
 		"obsoleteTech": "Combustion",
 		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
+	},
+	{
+		"name": "Leviathan",
+		"uniqueTo": "Atlantis",
+		"replaces": "Ironclad",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 45,
+		"cost": 250,
+		"requiredTech": "Steam Power",
+		"upgradesTo": "Destroyer",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]"],
+		"attackSound": "elephant"
 	},
 	{
 		"name": "Artillery",
@@ -968,15 +1021,6 @@
 		"attackSound": "torpedo"
 	},
 	{
-		"name": "Extrator Robot",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 220,
-		"requiredTech": "Lasers",
-		"uniques": ["Can instantly construct a [Extrator] improvement <by consuming this unit>",
-            "Uncapturable"]
-	},
-	{
 		"name": "Mechanized Infantry",
 		"unitType": "Gunpowder",
 		"movement": 3,
@@ -1075,6 +1119,20 @@
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
+	},
+	{
+		"name": "Mother Navi",
+		"uniqueTo": "Drows",
+		"replaces": "Stealth Bomber",
+		"unitType": "Bomber",
+		"movement": 2,
+		"strength": 125,
+		"rangedStrength": 100,
+		"range": 24,
+		"cost": 425,
+		"requiredTech": "Stealth",
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Consumes [4] [Crystal Ore]","Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 
