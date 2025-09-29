@@ -144,6 +144,13 @@ BuildingIcons/Donation Center
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Galaxies Union
+  rotate: false
+  xy: 700, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Junior346
   rotate: false
   xy: 223, 21
@@ -424,7 +431,7 @@ ReligionIcons/Poseidonism
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Sacrificie
+ReligionIcons/Martyr
   rotate: false
   xy: 1300, 0
   size: 100, 100
