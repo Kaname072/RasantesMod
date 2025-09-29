@@ -31,7 +31,7 @@
 		"uniqueName": "Just War",
 		"uniques": ["[+100]% [Sheep] resource production",
 			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+50]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
+			"[+20]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
 		"cities": ["Crown of Prophet","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -88,6 +88,7 @@
 		"innerColor": [0,52,156],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+2] Movement <for [Embarked] units>",
+			"[+100]% Strength <for [All] units> <when defending> <when [Embarked]>",
 			"[+30]% Strength <for [Military] units> <when fighting in [Water] tiles>"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
@@ -147,7 +148,7 @@
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
 			"[+1 Food] from [Plantation] tiles [in this city]",
 			"[+50]% [Food] [in all cities] <during a Golden Age>"],
-		"cities": ["Carrotinopla","Teetholia","Noellis","Melon","Pineapple","Strawberry"],
+		"cities": ["Carrotnopla","Teetholia","Noellis","Melon","Pineapple","Strawberry"],
 	},
 	{
 		"name": "Franice",
@@ -202,7 +203,7 @@
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+50]% Strength <vs cities>",
 			"[+1] Range <for [Ranged] units>",
-			"[+25]% [Production] [in annexed cities]"],
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
 	{
@@ -287,8 +288,8 @@
 		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1] Movement <for [Mounted] units>",
-		"[+30]% Strength <vs [Wounded] units>",
-		"[+1] Range <for [Siege] units>"],
+			"[+1] Range <for [Siege] units>",
+			"[+15]% Strength <vs [Wounded] units>"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
@@ -346,9 +347,9 @@
 		"outerColor": [255,255,255],
 		"innerColor": [128,128,255],
 		"favoredReligion": "Martyr",
-		"uniqueName": "Peregrineer's",
-		"uniques": ["[+1 Faith] per [2] population [in all cities] <when not at war>",
-			"[-75]% maintenance on road & railroads",
+		"uniqueName": "Bunny Dinasty",
+		"uniques": ["[+1 Faith] per [2] population [in capital] <when not at war>",
+			"[-50]% Culture cost of natural border growth [in capital]",
 			"Cannot build [Settler] units"],
 		"cities": ["Crown of Queen","Old Crown of Prophet"],
 	},
@@ -375,7 +376,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [64,64,255],
+		"innerColor": [64,64,205],
 		"cities": ["Shintilla"]
 	},
 	{
