@@ -57,12 +57,13 @@
 		"uniqueTo": "Imp"
 		"replaces": "Warrior",
 		"unitType": "Sword",
-		"movement": 1,
+		"movement": 2,
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
+		"promotions": ["[Demonic Warrior] ability"],
 		"upgradesTo": "Swordsman",
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects","[1] additional attacks per turn","No movement cost to pillage"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
 	},
 	{
