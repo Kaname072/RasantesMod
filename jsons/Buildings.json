@@ -241,7 +241,7 @@
 		"name": "Donation Center",
 		"replaces": "Colosseum",
 		"uniqueTo": "Rezantes"
-		"PercentStatBonus": {"food": 25},
+		"percentStatBonus": {"food": 25},
 		"maintenance": 1,
 		"faith": 2,
 		"happiness": 2,
