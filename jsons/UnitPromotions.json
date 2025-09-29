@@ -726,8 +726,8 @@
 		"uniques": ["[+10] HP when healing"]
 	},
 	{
-		"name": "[Conquistador] ability",
-		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
+		"name": "[Demonic Warrior] ability",
+		"uniques": ["[1] additional attacks per turn","No movement cost to pillage"]
 	},
 	{
 		"name": "[Pillager] ability",
