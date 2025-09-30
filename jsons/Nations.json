@@ -324,50 +324,34 @@
 		"cities": ["Patmos","Caucasus","Scarlattis","Madentium","Balkans"]
 	},
 	{
-		"name": "Rezantes",
-		"leaderName": "Wanessa",
-		"adjective": ["rezante"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
-		"personality": "Wanessa",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "No choices for you!",
-		"attacked": "Will not have perdon!",
-		"defeated": "The goddess will remember all you made",
-		"introduction": "The goddess bless you nation",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "You are disgusting",
-
-		"tradeRequest": "You have choices, and i respect it",
-
-		"outerColor": [255,255,255],
-		"innerColor": [128,128,255],
-		"favoredReligion": "Martyr",
-		"uniqueName": "Bunny Dinasty",
-		"uniques": ["[+1 Faith] per [2] population [in capital] <when not at war>",
-			"[-75]% Culture cost of natural border growth [in capital]",
-			"Cannot build [Settler] units"],
-		"cities": ["Crown of Queen"],
-	},
-	{
-		"name": "Tribalks",
-		"adjective": ["Savages"],
+		"name": "Golden Wings",
+		"leaderName": "Lunior444",
+		"adjective": ["goldenios"],
 		"cityStateType": "Militaristic",
 
-		"declaringWar": "Prepare yourself!",
-		"attacked": "I DONT FORGET THIS!",
-		"defeated": "Go away from me!",
-
+		"declaringWar": "Prepare yourself, or... prepare world...",
+		"attacked": "The pain dont make sense, you will pay.",
+		"defeated": "Nothing is important",
 		"outerColor": [0,0,0],
-		"innerColor": [0,255,0],
-		"cities": ["Jungle Whrath"]
+		"innerColor": [255,255,0],
+		"cities": ["Au"]
+	},
+	{
+		"name": "Risantes",
+		"leaderName": "Junior746",
+		"adjective": ["rasantes"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "My lord have mercy but me dont have!",
+		"attacked": "Oh lord!",
+		"defeated": "Oh lord! why you abadon us?",
+		"outerColor": [0,0,0],
+		"innerColor": [128,128,128],
+		"cities": ["Iszahel"]
 	},
 	{
 		"name": "Oni",
+		"leaderName": "Oni Chan",
 		"adjective": ["Onis"],
 		"cityStateType": "Religious",
 
@@ -376,7 +360,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [128,128,205],
+		"innerColor": [32,32,128],
 		"cities": ["Shintilla"]
 	},
 	{
@@ -390,37 +374,40 @@
 		"defeated": "That's definitely not my day...",
 
 		"outerColor": [0,0,0],
-		"innerColor": [16,128,16],
+		"innerColor": [16,188,16],
 		"cities": ["Magmatropolis"]
 	},
 	{
-		"name": "Martyres",
+		"name": "Rezantes",
+		"leaderName": "Wanessa",
 		"adjective": ["Chorante"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "Dont make this hard!",
+		"declaringWar": "No choices for you!",
 		"attacked": "You faith is false!",
 		"defeated": "Oh no, that's a shame...",
 
 		"outerColor": [0,0,0],
-		"innerColor": [255,255,255],
-		"cities": ["Cinopolis"]
+		"innerColor": [128,128,255],
+		"cities": ["Ul'Mesha"]
 	},
 	{
-		"name": "Refuges Drows",
-		"adjective": ["Drows"],
-		"cityStateType": "Maritime",
+		"name": "Rebel Franice",
+		"leaderName": "Bonaparte",
+		"adjective": ["icepeople"],
+		"cityStateType": "Militaristic",
 
-		"declaringWar": "We are not coward's more!",
+		"declaringWar": "Viva le revolucion!",
 		"attacked": "You made a mistake!",
 		"defeated": "No! no! no! you dont have right to do is!",
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,245],
-		"cities": ["Andromeda"]
+		"cities": ["Brigadeiro"]
 	},
 	{
 		"name": "Sunmales",
+		"leaderName": "Sunday",
 		"adjective": ["suns"],
 		"cityStateType": "Militaristic",
 
