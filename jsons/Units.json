@@ -146,7 +146,7 @@
 		"rangedStrength": 10,
 		"cost": 56,
 		"requiredTech": "The Wheel",
-		"requiredResource": "Horses",
+		"requiredResource": "Goat",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
