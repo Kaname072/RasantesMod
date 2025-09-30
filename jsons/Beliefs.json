@@ -79,6 +79,11 @@
             "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]"]
     },
     {
+        "name": "Monks Shrine",
+        "type": "Pantheon",
+        "uniques": ["May buy [Monk] units with [Faith] for [2] times their normal Production cost <before the [Medieval era]>"]
+    },
+    {
         "name": "One with Nature",
         "type": "Pantheon",
         "uniques": ["[+4 Faith] from every [Natural Wonder]"]
