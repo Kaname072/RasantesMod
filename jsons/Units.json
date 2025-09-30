@@ -180,16 +180,14 @@
 	},
 	{
 		"name": "Monk",
-		"uniqueTo": "Rezantes",
-		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,
-		"cost": 56,
+		"cost": 25,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>"],
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>","Unbuildable"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -473,6 +471,19 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "junissary"
+	},
+	{
+		"name": "Cisplatinos",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"uniques": ["Unbuildable","Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
 	},
 
 	// Rennaisance Era
