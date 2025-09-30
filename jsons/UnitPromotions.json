@@ -731,14 +731,14 @@
 	},
 	{
 		"name": "[Pillager] ability",
-		"uniques": ["[+25]% Strength <when attacking>","No movement cost to pillage"]
+		"uniques": ["[+25]% Strength <when attacking>"]
 	},
 	{
 		"name": "[Junissary] ability",
 		"uniques": ["No movement cost to pillage"]
 	},
 	{
-		"name": "[Goat Rider] ability",
+		"name": "[Goat Rasante] ability",
 		"uniques": ["Can pass through impassable tiles"]
 	},
 	{
