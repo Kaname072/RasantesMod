@@ -87,7 +87,7 @@
 
 	// Strategic resources
 	{
-		"name": "Horses",
+		"name": "Goat",
 		"resourceType": "Strategic",
 		"revealedBy": "Animal Husbandry",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
