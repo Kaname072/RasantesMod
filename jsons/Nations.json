@@ -352,7 +352,7 @@
 	},
 	{
 		"name": "Oni",
-		"leaderName": "Oni Chan",
+		"leaderName": "OniChan",
 		"adjective": ["Onis"],
 		"cityStateType": "Religious",
 
@@ -410,7 +410,7 @@
 		"name": "Sunmales",
 		"leaderName": "Sunday",
 		"adjective": ["suns"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Religious",
 
 		"declaringWar": "You dont deserve honor!",
 		"attacked": "The sky will fall in you",
