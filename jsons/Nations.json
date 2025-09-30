@@ -12,8 +12,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Junior346",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "In the Andromeda Galaxy, the Rasantes tribe (or religion) birth to make the Universe our colony. In the name of the Great Prophet 346th, The Rasantes dominated every planet in Via Lactea, enslaved and destroyed every race or empire when attacking the truly religion",
+		"startIntroPart2": "Great Prophet 346th, you can make this nation great again?",
 
 		"declaringWar": "You heresy and blasfemous nation will fall!",
 		"attacked": "I dont forget this!",
@@ -28,11 +28,12 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Cult of Rasantes",
-		"uniqueName": "Just War",
-		"uniques": ["[+100]% [Sheep] resource production",
-			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+20]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
-		"cities": ["Crown of Prophet","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
+		"uniqueName": "The Prophecy",
+		"uniques": ["[+100]% [Sheep] resource production <hidden from users>",
+			"May choose [1] additional belief(s) of any type when [founding] a religion",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+33]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
+		"cities": ["Ul'Messiah","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
 		"name": "Cataclysm",
@@ -42,8 +43,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Junior073",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "After the revolution, Junior073 up in the crown and governate the great Cataclysm Empire, domination and diplacy is your bias. The Great Junior089 is birth in this empire",
+		"startIntroPart2": "Oh Great Emperor Junior073, you can transform the Science in a 4th dimention power?",
 
 		"declaringWar": "We give more democracy for your lands!",
 		"attacked": "What!? Ok!",
@@ -71,8 +72,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Lord Puff",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The Land races dominate everything in the universe. Lord Puff with you greatest glory, dominate every planet trying to destroy us. But ONE boy, destroyed everything us made.",
+		"startIntroPart2": "Lord Puff! God hail you and you nation, we back to show this land races how to make a empire",
 
 		"declaringWar": "Your lands is mine!",
 		"attacked": "I presume this! HAHA!",
@@ -117,8 +118,7 @@
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+50]% [Production] [in all cities] <during a Golden Age>",
-			"[+1 Production] from [Snow] tiles [in this city]",
-			"[+1] Movement <for [Worker] units>"],
+			"[+1 Production] from [Snow] tiles [in this city]"],
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -144,7 +144,7 @@
 
 		"outerColor": [108,108,255],
 		"innerColor": [255,255,255],
-		"uniqueName": "Feed the world",
+		"uniqueName": "Feed the Universe",
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
 			"[+1 Food] from [Plantation] tiles [in this city]",
 			"[+50]% [Food] [in all cities] <during a Golden Age>"],
@@ -328,7 +328,6 @@
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
 		"cityStateType": "Militaristic",
-		"personality": "Hostile",
 
 		"declaringWar": "Prepare yourself, or... prepare world...",
 		"attacked": "The pain dont make sense, you will pay.",
@@ -352,7 +351,7 @@
 	},
 	{
 		"name": "Oni",
-		"leaderName": "OniChan",
+		"leaderName": "Oni chan",
 		"adjective": ["Onis"],
 		"cityStateType": "Religious",
 
