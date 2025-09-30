@@ -179,18 +179,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Monk",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 11,
-		"cost": 25,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>","Unbuildable"],
-		"attackSound": "nonmetalhit"
-	},
-	{
 		"name": "Marauder",
 		"unitType": "Sword",
 		"replaces": "Spearman",
@@ -471,19 +459,6 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "junissary"
-	},
-	{
-		"name": "Cisplatinos",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 21,
-		"cost": 120,
-		"requiredTech": "Steel",
-		"uniques": ["Unbuildable","Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"requiredResource": "Iron",
-		"attackSound": "metalhit"
 	},
 
 	// Rennaisance Era
@@ -1238,5 +1213,26 @@
 			"[+1] Sight", "Only available <when religion is enabled>", "Unbuildable", "Religious Unit"
 		],
 		"movement": 3
+	},
+	{
+		"name": "Monk",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 25,
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>","Earn [50]% of killed [Barbarian] unit's [Strength] as [Faith]","Unbuildable"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Cisplatinos",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 60,
+		"requiredTech": "Steel",
+		"uniques": ["Unbuildable","Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
+		"upgradesTo": "Musketman",
+		"attackSound": "metalhit"
 	}
 ]
