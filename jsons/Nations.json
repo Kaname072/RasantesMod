@@ -58,8 +58,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
-		"uniques": ["[+50]% [Science] [in all cities] <during a Golden Age>",
-		"When declaring friendship, both parties gain a [20]% boost to great person generation",
+		"uniques": ["[+100]% [Science] [in all cities] <during a Golden Age>",
+		"When declaring friendship, both parties gain a [25]% boost to great person generation",
 		"[+1] Movement <for [Gunpowder] units>"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
@@ -117,8 +117,8 @@
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+50]% [Production] [in all cities] <during a Golden Age>",
-			"[+1 Production] from [Mine] tiles [in this city]",
-			"[+1] Movement <for [Civilian] units>"],
+			"[+1 Production] from [Snow] tiles [in this city]",
+			"[+1] Movement <for [Worker] units>"],
 		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -201,7 +201,7 @@
 		"outerColor": [255,0,245],
 		"innerColor": [255,0,110],
 		"uniqueName": "Conquistadoras",
-		"uniques": ["[+50]% Strength <vs cities>",
+		"uniques": ["[+25]% Strength <vs cities>",
 			"[+1] Range <for [Ranged] units>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
@@ -231,7 +231,7 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Justice of Asopo",
-		"uniques": ["[+33]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+		"uniques": ["[+33]% Strength <for [Military] units> <when attacking> <when fighting in [Friendly Land] tiles>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
@@ -349,9 +349,9 @@
 		"favoredReligion": "Martyr",
 		"uniqueName": "Bunny Dinasty",
 		"uniques": ["[+1 Faith] per [2] population [in capital] <when not at war>",
-			"[-50]% Culture cost of natural border growth [in capital]",
+			"[-75]% Culture cost of natural border growth [in capital]",
 			"Cannot build [Settler] units"],
-		"cities": ["Crown of Queen","Old Crown of Prophet"],
+		"cities": ["Crown of Queen"],
 	},
 	{
 		"name": "Tribalks",
@@ -376,7 +376,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [64,64,205],
+		"innerColor": [128,128,205],
 		"cities": ["Shintilla"]
 	},
 	{
@@ -428,7 +428,7 @@
 		"defeated": "The defeat is not the end!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [128,128,0],
+		"innerColor": [228,228,0],
 		"cities": ["Solar"]
 	},
 	{
