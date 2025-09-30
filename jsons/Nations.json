@@ -381,6 +381,7 @@
 	},
 	{
 		"name": "Lizardos",
+		"leaderName": "Sandro",
 		"adjective": ["Lizards"],
 		"cityStateType": "Mercantile",
 
