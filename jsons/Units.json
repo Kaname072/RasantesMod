@@ -195,21 +195,21 @@
 
 	/* Classical Era */
 	{
-		"name": "Horseman",
+		"name": "Goat Rider",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
-		"requiredResource": "Horses",
+		"requiredResource": "Goat",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"attackSound": "goatrider"
 	},
 	{
-		"name": "Goat Rider",
+		"name": "Goat Rasante",
 		"uniqueTo": "Rasantes",
 		"replaces": "Horseman",
 		"unitType": "Mounted",
@@ -221,7 +221,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
-		"promotions": ["[Goat Rider] ability"],
+		"promotions": ["[Goat Rasante] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "goatrider"
 	},
@@ -365,9 +365,9 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
+		"requiredResource": "Goat",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"attackSound": "goatrider"
 	},
 	{
 		"name": "Hisagi",
@@ -380,9 +380,9 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
+		"requiredResource": "Goat",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"attackSound": "horse"
+		"attackSound": "goatrider"
 	},
 	{
 		"name": "Crossbowman",
@@ -547,12 +547,12 @@
 		"strength": 25,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
-		"requiredResource": "Horses",
+		"requiredResource": "Goat",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"promotions": ["Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
-		"attackSound": "horse"
+		"attackSound": "goatrider"
 	},
 	{
 		"name": "Cannon",
@@ -618,10 +618,10 @@
 		"cost": 225,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
-		"requiredResource": "Horses",
+		"requiredResource": "Goat",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"attackSound": "goatrider"
 	},
 	{
 		"name": "Ironclad",
@@ -1230,7 +1230,6 @@
 		"movement": 2,
 		"strength": 21,
 		"cost": 60,
-		"requiredTech": "Steel",
 		"uniques": ["Unbuildable","Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"upgradesTo": "Musketman",
 		"attackSound": "metalhit"
