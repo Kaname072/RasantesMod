@@ -151,6 +151,27 @@ BuildingIcons/Galaxies Union
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Gate Heaven
+  rotate: false
+  xy: 800, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holy Coral
+  rotate: false
+  xy: 900, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Idol
+  rotate: false
+  xy: 1000, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Junior346
   rotate: false
   xy: 223, 21
@@ -231,6 +252,48 @@ LeaderIcons/Luke001
 LeaderIcons/Oni Khan
   rotate: false
   xy: 1023, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Oni chan
+  rotate: false
+  xy: 223, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sunday
+  rotate: false
+  xy: 383, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lunior444
+  rotate: false
+  xy: 543, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Junior746
+  rotate: false
+  xy: 703, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sandro
+  rotate: false
+  xy: 863, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Bonaparte
+  rotate: false
+  xy: 1023, 1001
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -454,35 +517,35 @@ ResourceIcons/Crystal Ore
   index: -1
 TileSets/FantasyHex/Tiles/Crystal Ore
   rotate: false
-  xy: 34, 634
+  xy: 34, 1134
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Extrator
   rotate: false
-  xy: 34, 534
+  xy: 34, 1034
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Junissary
   rotate: false
-  xy: 35, 333
+  xy: 35, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Goat Rider
   rotate: false
-  xy: 135, 333
+  xy: 135, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ballista Rasante
   rotate: false
-  xy: 35, 433
+  xy: 35, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
