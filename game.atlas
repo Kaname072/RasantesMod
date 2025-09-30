@@ -473,6 +473,13 @@ UnitIcons/Leviathan
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Goat Rasante
+  rotate: false
+  xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Cult of Rasantes
   rotate: false
   xy: 200, 200
@@ -515,6 +522,13 @@ ResourceIcons/Crystal Ore
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Goat
+  rotate: false
+  xy: 100, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Crystal Ore
   rotate: false
   xy: 34, 1134
@@ -525,6 +539,13 @@ TileSets/FantasyHex/Tiles/Crystal Ore
 TileSets/FantasyHex/Tiles/Extrator
   rotate: false
   xy: 34, 1034
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Goat
+  rotate: false
+  xy: 134, 1034
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
