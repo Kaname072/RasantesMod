@@ -420,6 +420,21 @@
 		"cities": ["Solar"]
 	},
 	{
+		"name": "Martyres Kingdom",
+		"leaderName": "Junior778",
+		"adjective": ["martyres"],
+		"cityStateType": "Religious"
+		"cityStateType": "Friendly",
+
+		"declaringWar": "A soldier without honor, is a dead soldier",
+		"attacked": "You afront the people of God, this dont be forget!",
+		"defeated": "The end is just a new begin!",
+
+		"outerColor": [0,0,0],
+		"innerColor": [225,225,255],
+		"cities": ["Yeshua"]
+	},
+	{
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
 		"innerColor": [185,12,12],
