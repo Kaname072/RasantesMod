@@ -54,12 +54,15 @@
     },
     {
         "name": "Religious Fanatic",
-        "friendBonusUniques": ["Provides military units every ≈[20] turns",
-            "[+2 Faith] <before the [Medieval era]>",
+        "friendBonusUniques": ["[+2 Faith] <before the [Medieval era]>",
             "[+5 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+10 Faith] <starting from the [Industrial era]>"
         ],
-        "allyBonusUniques": ["Provides military units every ≈[17] turns"],
+        "allyBonusUniques": ["Provides military units every ≈[15] turns",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+10 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+20 Faith] <starting from the [Industrial era]>"
+        ],
         "color": [255, 255, 206]
     },
     {
