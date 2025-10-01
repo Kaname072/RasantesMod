@@ -51,5 +51,29 @@
             "[+26 Faith] <starting from the [Industrial era]>"
         ],
         "color": [255, 255, 255]
+    },
+    {
+        "name": "Religious Fanatic",
+        "friendBonusUniques": ["Provides military units every ≈[20] turns",
+            "[+2 Faith] <before the [Medieval era]>",
+            "[+5 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+10 Faith] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": ["Provides military units every ≈[17] turns"],
+        "color": [255, 255, 206]
+    },
+    {
+        "name": "Revolucionary",
+        "friendBonusUniques": ["Provides military units every ≈[40] turns",
+        "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": ["Provides military units every ≈[20] turns",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>"
+        ],
+        "color": [255, 0, 0]
     }
 ]
