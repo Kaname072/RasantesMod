@@ -269,9 +269,16 @@
 	{
 		"name": "Altar",
 		"isWonder": true,
-		"faith": 4,
+		"faith": 6,
 		"requiredTech": "Philosophy",
-		"uniques": ["Free Social Policy","Only available <when religion is enabled>"],
+		"uniques": ["Only available <when religion is enabled>"],
+	},
+	{
+		"name": "Rayssa Temple",
+		"isWonder": true,
+		"faith": 6,
+		"requiredTech": "Theology",
+		"uniques": ["[+1 Faith] from [Forest] tiles [in this city]","Must be next to [Saint Rayssa]"],
 	},
 	{
 		"name": "Grand Temple",
@@ -300,8 +307,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
-	},
-	{
+	},{
 		"name": "Forge",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
