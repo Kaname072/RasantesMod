@@ -335,7 +335,7 @@
 	{
 		"name": "Saint Rayssa",
 		"type": "NaturalWonder",
-		"culture": 5,
+		"faith": 8,
 		"overrideStats": true,
 		"occursOn": ["Grassland"],
 		"turnsInto": "Grassland",
