@@ -130,9 +130,79 @@ BuildingIcons/War Satellite
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Donation Center
+BuildingIcons/Dolmen
   rotate: false
-  xy: 600, 400
+  xy: 200, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/False Moon
+  rotate: false
+  xy: 300, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Poseidon Statue
+  rotate: false
+  xy: 400, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Altar
+  rotate: false
+  xy: 500, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rayssa Temple
+  rotate: false
+  xy: 600, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Golden Bunnies
+  rotate: false
+  xy: 700, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Darius Library
+  rotate: false
+  xy: 800, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Chocolate Wall
+  rotate: false
+  xy: 900, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/King Achish Statue
+  rotate: false
+  xy: 1000, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Telescope
+  rotate: false
+  xy: 1100, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Forge Magma
+  rotate: false
+  xy: 1200, 800
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
