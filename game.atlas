@@ -160,14 +160,14 @@ BuildingIcons/Altar
   index: -1
 BuildingIcons/Rayssa Temple
   rotate: false
-  xy: 600, 800
+  xy: 700, 800
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Golden Bunnies
   rotate: false
-  xy: 700, 800
+  xy: 600, 800
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -615,15 +615,15 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 135, 934
-  size: 31, 31
+  xy: 135, 932
+  size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 1134
-  size: 31, 31
+  xy: 135, 1132
+  size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
