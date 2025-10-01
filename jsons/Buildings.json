@@ -307,7 +307,17 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
-	},{
+	},
+    {
+		"name": "Golden Bunnies",
+		"isWonder": true,
+		"faith": 4,
+		"culture": 4,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+10]% growth [in all cities]"],
+	},
+    {
 		"name": "Forge",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -345,6 +355,14 @@
 		"uniques": ["Only available <if [University] is constructed in all [non-[Puppeted]] cities>", "Free Technology", "Cost increases by [30] per owned city"],
 		"requiredTech": "Education"
 	},
+    {
+		"name": "Darius Library",
+		"isWonder": true,
+		"science": 8,
+		"culture": 4,
+		"requiredTech": "Education",
+		"uniques": ["Free Technology"],
+	},
 	{
 		"name": "Castle",
 		"cityStrength": 7,
@@ -366,6 +384,16 @@
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+    {
+		"name": "Great Chocolate Wall",
+		"isWonder": true,
+		"food": 8,
+		"happiness": 4,
+		"cityHealth": 25,
+		"hurryCostModifier": 30,
+		"requiredTech": "Philosophy",
+		"uniques": ["Gain a free [Castle] [in this city]"],
+	},
 	{
 		"name": "Ironworks",
 		"cost": 125,
@@ -383,6 +411,14 @@
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
 	},
+    {
+		"name": "King Achish Statue",
+		"isWonder": true,
+		"culture": 4,
+		"hurryCostModifier": 25,
+		"requiredTech": "Steel",
+		"uniques": ["[+15]% Strength <for [Melee] units>"],
+	},
 
 	// Renaissance Era
 
@@ -395,6 +431,14 @@
 		"requiredBuilding": "Library",
 		"uniques": ["Must be next to [Mountain]"],
 		"requiredTech": "Astronomy"
+	},
+    {
+		"name": "Telescope",
+		"isWonder": true,
+		"science": 8,
+		"hurryCostModifier": 25,
+		"requiredTech": "Astronomy",
+		"uniques": ["Free Great Person"],
 	},
 	{
 		"name": "Opera House",
@@ -468,6 +512,14 @@
 		"requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+    {
+		"name": "Forge Magma",
+		"isWonder": true,
+		"production": 6,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metallurgy",
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
 	},
 
 	// Industrial Era
