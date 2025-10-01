@@ -340,7 +340,7 @@
 		"name": "Risantes",
 		"leaderName": "Junior746",
 		"adjective": ["rasantes"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Religious Fanatic",
 
 		"declaringWar": "My lord have mercy but me dont have!",
 		"attacked": "Oh lord!",
@@ -395,7 +395,7 @@
 		"name": "Rebel Franice",
 		"leaderName": "Bonaparte",
 		"adjective": ["icepeople"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Revolucionary",
 
 		"declaringWar": "Viva le revolucion!",
 		"attacked": "You made a mistake!",
