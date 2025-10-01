@@ -74,13 +74,6 @@ NationIcons/Imp
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Rezantes
-  rotate: false
-  xy: 200, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Caprines
   rotate: false
   xy: 1300, 200
@@ -160,14 +153,14 @@ BuildingIcons/Gate Heaven
   index: -1
 BuildingIcons/Holy Coral
   rotate: false
-  xy: 900, 700
+  xy: 1000, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Idol
   rotate: false
-  xy: 1000, 700
+  xy: 900, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -305,7 +298,7 @@ UnitIcons/Junissary
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Goat Rider
+UnitIcons/Goat Rasante
   rotate: false
   xy: 200, 300
   size: 100, 100
