@@ -278,7 +278,7 @@
 		"isWonder": true,
 		"faith": 6,
 		"requiredTech": "Theology",
-		"uniques": ["[+1 Faith] from [Forest] tiles [in this city]","Must be next to [Saint Rayssa]"],
+		"uniques": ["[+1 Faith] from [Grassland] tiles [in this city]","Must have an owned [Saint Rayssa] within [3] tiles"],
 	},
 	{
 		"name": "Grand Temple",
@@ -391,7 +391,7 @@
 		"happiness": 4,
 		"cityHealth": 25,
 		"hurryCostModifier": 30,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Chivalry",
 		"uniques": ["Gain a free [Castle] [in this city]"],
 	},
 	{
