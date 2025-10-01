@@ -51,6 +51,14 @@
 		"requiredTech": "Pottery",
 		"uniques": ["Only available <when religion is enabled>"]
 	},
+	{
+		
+		"name": "Dolmen",
+		"isWonder": true,
+		"culture": 8,
+		"uniques": ["[+15]% Strength <for [Wounded] units>"],
+		"requiredTech": "Mining",
+	},
 	// Column 2
 	{
 		"name": "Stone Works",
@@ -101,6 +109,14 @@
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "False Moon",
+		"isWonder": true,
+		"science": 6,
+		"maintenance": 1,
+		"requiredTech": "Construction",
+		"uniques": ["Free Technology"],
 	},
 
 	// Classical Era
@@ -159,6 +175,13 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
+	},
+	{
+		"name": "Poseidon Statue",
+		"isWonder": true,
+		"culture": 5,
+		"requiredTech": "Philosophy",
+		"uniques": ["Empire enters golden age"],
 	},
 	{
 		"name": "National College",
@@ -242,6 +265,13 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology"
+	},
+	{
+		"name": "Altar",
+		"isWonder": true,
+		"faith": 4,
+		"requiredTech": "Philosophy",
+		"uniques": ["Free Social Policy","Only available <when religion is enabled>"],
 	},
 	{
 		"name": "Grand Temple",
