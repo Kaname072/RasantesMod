@@ -659,6 +659,7 @@
 		"uniques": ["Unbuildable"],
 		"quote": "just a placeholder, ignore this"
 	},
+	{
 		"name": "Utopia Project",
 		"cost": 1500,
 		"isNationalWonder": true,
