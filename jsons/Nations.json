@@ -29,8 +29,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "The Prophecy",
-		"uniques": ["[+100]% [Sheep] resource production <hidden from users>",
-			"May choose [1] additional belief(s) of any type when [founding] a religion",
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
 			"Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+33]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"],
 		"cities": ["Ul'Messiah","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
@@ -101,8 +100,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Lucas094",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "After the socialistic revolution in a feudal kingdom, the Eclipses turn the simple Kingdom in a truly emperor in the Galaxy. The people love your Emperior!",
+		"startIntroPart2": "Great Lucas094! you finally show this universe how to make a empire",
 
 		"declaringWar": "You are just a imperialism puppet! prepare your mens!",
 		"attacked": "You i've made a mistake",
@@ -118,8 +117,8 @@
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
 		"uniques": ["[+50]% [Production] [in all cities] <during a Golden Age>",
-			"[+1 Production] from [Snow] tiles [in this city]"],
-		"cities": ["Lukningrad","Noskaw","Juntersburg","Kremlion","Saturn","Bieluke"],
+			"[+1 Production] from every [Mine]"],
+		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
 		"name": "Bunnies",
@@ -129,8 +128,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "William",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The Bunnies is the most pacefull races in the universe! The bunnies love will get the universe to show to all Nations, how to make a empire without violence or destruction",
+		"startIntroPart2": "War is bad! cruelity is bad! the universe need something to make everyone love everyone",
 
 		"declaringWar": "You force me do this! >:(",
 		"attacked": "Oh! what you doing? 0-0",
