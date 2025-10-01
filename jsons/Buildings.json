@@ -653,6 +653,12 @@
 	// All Eras
 
 	{
+		"name": "placeholder",
+		"isWonder": true,
+		"culture": 1,
+		"uniques": ["Unbuildable"],
+		"quote": "just a placeholder, ignore this"
+	},
 		"name": "Utopia Project",
 		"cost": 1500,
 		"isNationalWonder": true,
