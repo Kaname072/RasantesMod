@@ -1,11 +1,11 @@
 [
     {
-        "name": "Tradition",
+        "name": "Diplomacy",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
-            "Diplomatic": 5,
+            "Diplomatic": 10,
             "Domination": 5,
             "Scientific": 5
         },
@@ -75,8 +75,8 @@
         "priorities": {
             "Neutral": 10,
             "Cultural": 10,
-            "Diplomatic": 10,
-            "Domination": 10,
+            "Diplomatic": 5,
+            "Domination": 5,
             "Scientific": 10
         },
         "uniques": ["[+1 Culture] [in all cities]"],
@@ -138,14 +138,14 @@
         ]
     },
     {
-        "name": "Honor",
+        "name": "Domination",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 10,
+            "Scientific": 10
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
