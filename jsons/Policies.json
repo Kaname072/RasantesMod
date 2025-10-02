@@ -29,7 +29,7 @@
                     "[+1 Culture] per [2] population [in all cities]"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Reformation",
@@ -37,7 +37,7 @@
                     "[+1 Science] from every specialist [in all cities]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Constabulary",
@@ -45,7 +45,7 @@
                     "[-5]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "Piety",
@@ -53,7 +53,7 @@
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 6
             },
             {
                 "name": "Diplomacy Complete",
