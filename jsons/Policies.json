@@ -37,15 +37,15 @@
                     "[+1 Science] from every specialist [in all cities]"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
             {
-                "name": "Constabulary",
+                "name": "Constitution",
                 "uniques": [
                     "[-5]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 7
             },
             {
                 "name": "Piety",
@@ -53,7 +53,7 @@
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
                 "row": 1,
-                "column": 6
+                "column": 9
             },
             {
                 "name": "Diplomacy Complete",
