@@ -615,14 +615,14 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 135, 932
+  xy: 135, 934
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 1132
+  xy: 135, 1134
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
@@ -645,6 +645,20 @@ TileSets/FantasyHex/Units/Ballista Rasante
   rotate: false
   xy: 35, 833
   size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Revolucionary
+  rotate: false
+  xy: 200, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Religious Fanatic
+  rotate: false
+  xy: 300, 900
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
