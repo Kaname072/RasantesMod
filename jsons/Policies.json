@@ -33,7 +33,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+2 Science] from every specialist [in all cities]"
+                    "[+2 Culture] from every [Luxury resource]"
                 ],
                 "row": 1,
                 "column": 5
@@ -95,6 +95,7 @@
                 "name": "Patronage",
                 "uniques": [
                     "[+2 Gold] from each Trade Route",
+                    "Gifts of Gold to City-States generate [25]% more Influence",
                     "Free [Great Merchant] appears"
                 ],
                 "requires": ["Tradition"],
@@ -126,7 +127,7 @@
                 "uniques": [
                     "[-25]% City-State Influence degradation"
                 ],
-                "requires": ["Citizenship"],
+                "requires": ["Humanism"],
                 "row": 3,
                 "column": 5
             },
@@ -189,10 +190,10 @@
                 "column": 3
             },
             {
-                "name": "Supremacy",
+                "name": "Total War",
                 "uniques": [
                     "[+33]% Strength <vs [Barbarian] units>",
-                    "Earn [100]% of killed [Barbarian] unit's as [Culture]",
+                    "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
                 ],
                 "row": 1,
                 "column": 5
@@ -200,7 +201,8 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>"
+                    "[+50]% XP gained from combat <for [Military] units>",
+                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
                 ],
                 "row": 1,
                 "column": 7
@@ -208,8 +210,7 @@
             {
                 "name": "Cruelity",
                 "uniques": [
-                    "[+25]% Strength <vs [Wounded] units> <when attacking>",
-                    "No movement cost to pillage tiles <for [Melee] units>"
+                    "[Melee] units gain the [Charge] promotion"
                 ],
                 "row": 1,
                 "column": 9
@@ -217,7 +218,9 @@
             {
                 "name": "Slave Commerce",
                 "uniques": [
-                    "Comment [Unlocks the Slave Commerce]",
+                    "Comment [Unlocks the Slave Commerce bonus]",
+                    "[-1 Happiness] [in annexed cities]",
+                    "[-2 Happines] [in puppeted cities]"
                 ],
                 "requires": ["Cruelity"],
                 "row": 2,
@@ -244,7 +247,7 @@
             {
                 "name": "Populism",
                 "uniques": [
-                    "[+33]% [Culture] [in cities with a world wonder]"
+                    "[+33]% [Culture] [in all cities with a world wonder]"
                 ],
                 "requires": ["Militarism"],
                 "row": 2,
@@ -264,9 +267,10 @@
                 "name": "Fascism",
                 "uniques": [
                     "[+20]% Strength <for [Military] units>",
-                    "[+1] Movement <for {[Military] [Land]} units>",
+                    "[+1] Movement <for [{Military} {Land}] units>",
+                    "[+50]% Golden Age length"
                 ],
-                "requires": ["Oligarchy"],
+                "requires": ["Nationalism"],
                 "row": 3,
                 "column": 1
             },
@@ -274,17 +278,17 @@
                 "name": "Doutrination",
                 "uniques": [
                     "Units in cities cost no Maintenance",
-                    "[+1 Science] from all [Faith] buildings"
+                    "[+2 Science] from all [Faith] buildings"
                 ],
-                "requires": ["Discipline"],
+                "requires": ["Censorship"],
                 "row": 3,
                 "column": 3
             },
             {
                 "name": "Colonization",
                 "uniques": [
-                    "[+50]% [Production] [in annexed cities]",
-                    "[+50]% [Production] [in puppeted cities"
+                    "[+15]% [Production] [in annexed cities]",
+                    "[+30]% [Production] [in puppeted cities]"
                 ],
                 "requires": ["Slave Commerce"],
                 "row": 3,
@@ -294,14 +298,14 @@
                 "name": "Conquistador",
                 "uniques": [
                     "Gain a free [Courthouse] [in annexed cities]",
-                    "Gain a free [Courthouse] [in puppeted cities]",
+                    "Gain a free [Courthouse] [in puppeted cities]"
                 ],
                 "requires": ["Nationalism"],
                 "row": 3,
                 "column": 7
             },
             {
-                "name": "Total War",
+                "name": "Imperialism",
                 "uniques": [
                     "[+50]% Strength <vs [City-State]>"
                 ],
