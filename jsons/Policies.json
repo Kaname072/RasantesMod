@@ -50,7 +50,7 @@
                 "name": "Piety",
                 "uniques": [
                     "[-10]% Strength <vs [Wounded] units> <when attacking>",
-                    "[+25]% Strength <vs [non-[Wounded]> <when attacking>"
+                    "[+25]% Strength <vs [non-[Wounded] units> <when attacking>"
                 ],
                 "row": 1,
                 "column": 9
@@ -220,7 +220,7 @@
                 "uniques": [
                     "Comment [Unlocks the Slave Commerce bonus]",
                     "[-1 Happiness] [in annexed cities]",
-                    "[-2 Happines] [in puppeted cities]"
+                    "[-2 Happiness] [in puppeted cities]"
                 ],
                 "requires": ["Cruelity"],
                 "row": 2,
@@ -238,7 +238,7 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+10]% Strength <for [Military] units> <when adjacent to a [Military] units>"
+                    "[+10]% Strength <for [Military] units> <when adjacent to a [Military] unit>"
                 ],
                 "requires": ["Nationalism"],
                 "row": 2,
