@@ -33,7 +33,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+1 Science] from every specialist [in all cities]"
+                    "[+2 Science] from every specialist [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -41,7 +41,7 @@
             {
                 "name": "Constitution",
                 "uniques": [
-                    "[-5]% Culture cost of adopting new Policies"
+                    "[-10]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
                 "column": 7
@@ -49,7 +49,8 @@
             {
                 "name": "Piety",
                 "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                    "[-10]% Strength <vs [Wounded] units> <when attacking>",
+                    "[+25]% Strength <vs [non-[Wounded]> <when attacking>"
                 ],
                 "row": 1,
                 "column": 9
@@ -66,7 +67,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[+50]% Production when constructing [Worker] units [in all cities]"
+                    "[+50]% Production when constructing [Civilian] units [in all cities]"
                 ],
                 "requires": ["Constitution"],
                 "row": 2,
@@ -84,7 +85,7 @@
             {
                 "name": "Tradition",
                 "uniques": [
-                    "[+1 Culture] from every [Faith] buildings"
+                    "[+1 Culture] from all [Faith] buildings"
                 ],
                 "requires": ["Civil Society"],
                 "row": 2,
@@ -93,7 +94,8 @@
             {
                 "name": "Patronage",
                 "uniques": [
-                    "[+2 Gold] from each Trade Route"
+                    "[+2 Gold] from each Trade Route",
+                    "Free [Great Merchant] appears"
                 ],
                 "requires": ["Tradition"],
                 "row": 2,
@@ -105,14 +107,15 @@
                     "[+10]% Strength for cities",
                     "[+1 Culture] [in all cities]",
                 ],
-                "requires": ["Civil Society"],
+                "requires": ["Tradition"],
                 "row": 3,
                 "column": 1
             },
             {
                 "name": "Order",
                 "uniques": [
-                    "Units in cities cost no Maintenance"
+                    "Units in cities cost no Maintenance",
+                    "Free [Great Engineer] appears"
                 ],
                 "requires": ["Honor"],
                 "row": 3,
@@ -130,7 +133,8 @@
             {
                 "name": "Patriotism",
                 "uniques": [
-                    "[+25]% Strength <for [Military] units> <when defending>"
+                    "[+25]% Strength <for [Military] units> <when defending>",
+                    "Free [Great General] appears"
                 ],
                 "requires": ["Union"],
                 "row": 3,
