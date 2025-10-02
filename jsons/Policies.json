@@ -49,8 +49,8 @@
             {
                 "name": "Piety",
                 "uniques": [
-                    "[-10]% Strength <vs [Wounded] units> <when attacking>",
-                    "[+25]% Strength <vs [non-[Wounded] units> <when attacking>"
+                    "[+50]% Production when constructing [Faith] buildings [in all cities]",
+                    "[+50]% Production when constructing [Culture] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 9
