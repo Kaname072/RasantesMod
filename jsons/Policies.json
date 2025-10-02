@@ -157,5 +157,165 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Domination",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 10,
+            "Scientific": 10
+        },
+        "uniques": [
+            "Free Social Policy"
+        ],
+        "policies": [
+            {
+                "name": "Oligarchy",
+                "uniques": [
+                    "[+4 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Militarism",
+                "uniques": [
+                    "[+25]% Production when constructing [Melee] units [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Supremacy",
+                "uniques": [
+                    "[+33]% Strength <vs [Barbarian] units>",
+                    "Earn [100]% of killed [Barbarian] unit's as [Culture]",
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Warrior Code",
+                "uniques": [
+                    "[+50]% XP gained from combat <for [Military] units>"
+                ],
+                "row": 1,
+                "column": 7
+            },
+            {
+                "name": "Cruelity",
+                "uniques": [
+                    "[+25]% Strength <vs [Wounded] units> <when attacking>",
+                    "No movement cost to pillage tiles <for [Melee] units>"
+                ],
+                "row": 1,
+                "column": 9
+            },
+            {
+                "name": "Slave Commerce",
+                "uniques": [
+                    "Comment [Unlocks the Slave Commerce]",
+                ],
+                "requires": ["Cruelity"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Nationalism",
+                "uniques": [
+                    "[+10]% Production when constructing [All] buildings [in all cities]"
+                ],
+                "requires": ["Supremacy"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Discipline",
+                "uniques": [
+                    "[+10]% Strength <for [Military] units> <when adjacent to a [Military] units>"
+                ],
+                "requires": ["Nationalism"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Populism",
+                "uniques": [
+                    "[+33]% [Culture] [in cities with a world wonder]"
+                ],
+                "requires": ["Militarism"],
+                "row": 2,
+                "column": 7
+            },
+            {
+                "name": "Censorship",
+                "uniques": [
+                    "[+2 Culture] from each Trade Route",
+                    "Free [Great General] appears"
+                ],
+                "requires": ["Oligarchy"],
+                "row": 2,
+                "column": 9
+            },
+            {
+                "name": "Fascism",
+                "uniques": [
+                    "[+20]% Strength <for [Military] units>",
+                    "[+1] Movement <for {[Military] [Land]} units>",
+                ],
+                "requires": ["Oligarchy"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Doutrination",
+                "uniques": [
+                    "Units in cities cost no Maintenance",
+                    "[+1 Science] from all [Faith] buildings"
+                ],
+                "requires": ["Discipline"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Colonization",
+                "uniques": [
+                    "[+50]% [Production] [in annexed cities]",
+                    "[+50]% [Production] [in puppeted cities"
+                ],
+                "requires": ["Slave Commerce"],
+                "row": 3,
+                "column": 5
+            },
+            {
+                "name": "Conquistador",
+                "uniques": [
+                    "Gain a free [Courthouse] [in annexed cities]",
+                    "Gain a free [Courthouse] [in puppeted cities]",
+                ],
+                "requires": ["Nationalism"],
+                "row": 3,
+                "column": 7
+            },
+            {
+                "name": "Total War",
+                "uniques": [
+                    "[+50]% Strength <vs [City-State]>"
+                ],
+                "requires": ["Conquistador"],
+                "row": 3,
+                "column": 9
+            },
+            {
+                "name": "Domination Complete",
+                "uniques": [
+                    "Free Great Person",
+                    "Free Technology"
+                ]
+            }
+        ]
     }
 ]
