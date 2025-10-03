@@ -664,21 +664,21 @@ TileSets/FantasyHex/Units/Ballista Rasante
   index: -1
 TileSets/FantasyHex/Units/Slave
   rotate: false
-  xy: 1535, 1133
+  xy: 1335, 1133
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cisplatinos
   rotate: false
-  xy: 1435, 1133
+  xy: 1235, 1133
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monk
   rotate: false
-  xy: 1535, 1233
+  xy: 1335, 1033
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
