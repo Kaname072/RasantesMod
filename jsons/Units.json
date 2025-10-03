@@ -11,10 +11,11 @@
 	{
 		"name": "Slave",
 		"unitType": "Civilian",
-		"movement": 3,
+		"movement": 2,
 		"requiredResource": "Slaves",
-		"uniques": ["Can build [Land] improvements on tiles", "[-100]% maintenance costs", "Automation is a primary action", "Can instantly construct a [Plantation] improvement <by consuming this unit>"],
-		"cost": 50
+		"uniques": ["Can build [Land] improvements on tiles <[3] times> <after which this unit is consumed>", "[-100]% maintenance costs", "Uncapturable", "[+60 Gold] <by consuming this unit>"],
+		"promotions": ["Ignore terrain cost"],
+		"cost": 1
 	},
 	{
 		"name": "Settler",
