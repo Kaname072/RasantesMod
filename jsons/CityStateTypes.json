@@ -81,15 +81,15 @@
     },
     {
         "name": "Enslaving",
-        "friendBonusUniques": ["Provides [3] [Slaves]",
-        "[+3 Production] <before the [Medieval era]>",
-            "[+6 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+13 Production] <starting from the [Industrial era]>"
+        "friendBonusUniques": ["Provides [3] [Slaves] <after adopting [Slave Commerce]>",
+        "[+1 Production] <before the [Medieval era]>",
+            "[+3 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+5 Production] <starting from the [Industrial era]>"
         ],
-        "allyBonusUniques": ["Provides [6] [Slaves]",
-            "[+6 Production] <before the [Medieval era]>",
-            "[+12 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Production] <starting from the [Industrial era]>"
+        "allyBonusUniques": ["Provides [6] [Slaves] <after adopting [Slave Commerce]",
+            "[+2 Production] <before the [Medieval era]>",
+            "[+6 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+10 Production] <starting from the [Industrial era]>"
         ],
         "color": [200, 100, 0]
     }
