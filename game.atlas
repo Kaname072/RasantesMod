@@ -228,6 +228,13 @@ BuildingIcons/The Idol
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Enslave
+  rotate: false
+  xy: 500, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Junior346
   rotate: false
   xy: 223, 21
@@ -571,6 +578,13 @@ ImprovementIcons/Extrator
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Mine via Slave
+  rotate: false
+  xy: 500, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Crystal Ore
   rotate: false
   xy: 0, 700
@@ -666,6 +680,13 @@ TileSets/FantasyHex/Units/Monk
   rotate: false
   xy: 1535, 1233
   size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Slave Commerce
+  rotate: false
+  xy: 400, 900
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
