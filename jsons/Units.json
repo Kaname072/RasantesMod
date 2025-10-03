@@ -9,6 +9,14 @@
 		"cost": 70
 	},
 	{
+		"name": "Slave",
+		"unitType": "Civilian",
+		"movement": 3,
+		"requiredResource": "Slaves",
+		"uniques": ["Can build [Land] improvements on tiles", "[-100]% maintenance costs", "Automation is a primary action", "Can instantly construct a [Plantation] improvement <by consuming this unit>"],
+		"cost": 50
+	},
+	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
