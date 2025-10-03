@@ -224,6 +224,11 @@
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 8},
 		"minorDepositAmount": {"sparse": 2, "default": 4, "abundant": 6}
 	},
+	{
+		"name": "Slaves",
+		"resourceType": "Strategic",
+		"production": 1
+	},
 
 	// Luxury resources
 	{
