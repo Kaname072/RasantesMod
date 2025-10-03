@@ -293,37 +293,6 @@
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
-		"name": "Imp",
-		"leaderName": "Luke001",
-		"adjective": ["imp"],
-		"startBias": ["Hill"],
-		"preferredVictoryType": "Domination",
-		"personality": "Luke001",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "Prepare to war, infidel!!",
-		"attacked": "Imps never lose!",
-		"defeated": "Oh god why you're abadon us!?",
-		"introduction": "Hello stranger",
-
-		"neutralHello": "Hello.",
-		"hateHello": "My people dont like you",
-
-		"tradeRequest": "A trade quest for you.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [225,0,0],
-		"favoredReligion": "Cult of Rasantes",
-		"uniqueName": "Converting Infidels",
-		"uniques": ["When conquering an encampment, earn [0] Gold and recruit a Barbarian unit <hidden from users>",
-			"Comment [When conquering an encampment, recruit a Barbarian unit]",
-			"[-50]% maintenance costs <for [Sword] units>",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
-		"cities": ["Patmos","Caucasus","Scarlattis","Madentium","Balkans"]
-	},
-	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
@@ -340,7 +309,7 @@
 		"name": "Risantes",
 		"leaderName": "Junior746",
 		"adjective": ["rasantes"],
-		"cityStateType": "Religious Fanatic",
+		"cityStateType": "Enslaving",
 
 		"declaringWar": "My lord have mercy but me dont have!",
 		"attacked": "Oh lord!",
@@ -348,6 +317,19 @@
 		"outerColor": [0,0,0],
 		"innerColor": [128,128,128],
 		"cities": ["Iszahel"]
+	},
+	{
+		"name": "Imp",
+		"leaderName": "Luke001",
+		"adjective": ["rasantes"],
+		"cityStateType": "Religious Fanatic",
+
+		"declaringWar": "You existence is a blasfemous for god!",
+		"attacked": "This will not we forget! Infidel",
+		"defeated": "That's is imposible!",
+		"outerColor": [0,0,0],
+		"innerColor": [225,0,0],
+		"cities": ["Patmos"]
 	},
 	{
 		"name": "Oni",
