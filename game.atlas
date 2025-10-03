@@ -67,13 +67,6 @@ NationIcons/Atlantis
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Imp
-  rotate: false
-  xy: 1200, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Caprines
   rotate: false
   xy: 1300, 200
@@ -487,9 +480,9 @@ UnitIcons/Spear
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pillager
+UnitIcons/Slave
   rotate: false
-  xy: 1100, 200
+  xy: 400, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -585,6 +578,13 @@ ResourceIcons/Crystal Ore
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Slaves
+  rotate: false
+  xy: 500, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Goat
   rotate: false
   xy: 100, 500
@@ -615,14 +615,14 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 135, 934
+  xy: 135, 932
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 1134
+  xy: 135, 1132
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
@@ -648,6 +648,27 @@ TileSets/FantasyHex/Units/Ballista Rasante
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Slave
+  rotate: false
+  xy: 1535, 1133
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cisplatinos
+  rotate: false
+  xy: 1435, 1133
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Monk
+  rotate: false
+  xy: 1535, 1233
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Revolucionary
   rotate: false
   xy: 200, 900
@@ -658,6 +679,13 @@ CityStateIcons/Revolucionary
 CityStateIcons/Religious Fanatic
   rotate: false
   xy: 300, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Enslaving 
+  rotate: false
+  xy: 400, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
