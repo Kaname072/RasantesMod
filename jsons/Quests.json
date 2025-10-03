@@ -7,7 +7,8 @@
         "Friendly": 2,
         "Hostile": 0.2,
         "Maritime": 1.2,
-        "Mercantile": 1.5
+        "Mercantile": 1.5,
+        "Enslaving": 1.2
     }
   },
   {
@@ -53,7 +54,8 @@
       "weightForCityStateType": {
           "Hostile": 2,
           "Friendly": 0.2,
-          "Militaristic": 2
+          "Militaristic": 2,
+          "Enslaving": 0.5
       }
   },
   {
@@ -111,7 +113,8 @@
           "Maritime": 0.5,
           "Mercantile": 0.5,
           "Militaristic": 0.5,
-          "Religious": 0.5
+          "Religious": 0.5,
+          "Revolucionary": 1
       }
   },
   {
@@ -125,7 +128,8 @@
           "Maritime": 0.5,
           "Mercantile": 0.5,
           "Militaristic": 0.5,
-          "Religious": 2
+          "Religious": 2,
+          "Religious Fanatic": 2
       }
   },
   {
@@ -135,7 +139,8 @@
     "duration": 30,
     "minimumCivs": 3,
       "weightForCityStateType": {
-          "Religious": 0.5
+          "Religious": 0.5,
+          "Revolucionary": 1
       }
   },
   {
@@ -175,7 +180,8 @@
     "name": "Spread Religion",
     "description": "We have heard the tenets of [religionName] and are most curious. Will you send missionaries to teach us about your religion?",
       "weightForCityStateType": {
-          "Religious": 3
+          "Religious": 3,
+          "Religious Fanatic": 3
       }
   }
   /* BNW */
