@@ -13,9 +13,9 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"requiredResource": "Slaves",
-		"uniques": ["Can build [Land] improvements on tiles <[3] times> <after which this unit is consumed>", "[-100]% maintenance costs", "Uncapturable", "[+60 Gold] <by consuming this unit>"],
+		"uniques": ["Can build [Production] improvements on tiles", "Can instantly construct a [Road] improvement <by consuming this unit>", "[-100]% maintenance costs", "Uncapturable", "Earn [+30 Gold] <by consuming this unit>"],
 		"promotions": ["Ignore terrain cost"],
-		"cost": 1
+		"cost": 30
 	},
 	{
 		"name": "Settler",
