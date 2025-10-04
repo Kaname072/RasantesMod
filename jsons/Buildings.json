@@ -160,6 +160,14 @@
 		"requiredTech": "Mathematics"
 	},
 	{
+		"name": "Enslave",
+		"gold": 2,
+		"happiness": -1,
+		"hurryCostModifier": 20,
+		"uniques": ["Provides [2] [Slaves]","Limited to [5] per Civilization",
+			"Can only be built <in [Annexed] cities>","Destroyed when the city is captured","Only available <after adopting [Slave Commerce]>"]
+	},
+	{
 		"name": "Colosseum",
 		"maintenance": 1,
 		"happiness": 2,
