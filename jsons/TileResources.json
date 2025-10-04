@@ -228,6 +228,7 @@
 		"name": "Slaves",
 		"resourceType": "Strategic",
 		"production": 1
+		"uniques": ["Only available <after adopting [Slave Commerce]>"]
 	},
 
 	// Luxury resources
