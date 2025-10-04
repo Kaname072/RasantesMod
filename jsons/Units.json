@@ -301,7 +301,7 @@
 		"cost": 50,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Can move immediately once bought", "Earn [50]% of the damage done to [Military] units as [Gold","No movement cost to pillage"],
+		"uniques": ["Can move immediately once bought", "Earn [50]% of the damage done to [Military] units as [Gold]","No movement cost to pillage"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Slaves",
 		"hurryCostModifier": 20,
