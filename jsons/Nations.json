@@ -152,31 +152,31 @@
 	},
 	{
 		"name": "Franice",
-		"leaderName": "Lemonady",
+		"leaderName": "Bonaparte",
 		"adjective": ["icepeople"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Cultural",
-		"personality": "Lemonady",
+		"preferredVictoryType": "Domination",
+		"personality": "Bonaparte",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You are the worst king i've see!",
+		"declaringWar": "Is war! little boy!",
 		"attacked": "Huh? you wanna play!?",
-		"defeated": "*Sniff sniff* You are mad! *Sniff sniff*",
-		"introduction": "Huh?",
+		"defeated": "Wow, you are awesome. You victory we explending!",
+		"introduction": "Hello.",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"hateHello": "Pfff! is YOU",
 
 		"tradeRequest": "You look need this.",
 
-		"outerColor": [198,255,213],
-		"innerColor": [0,197,121],
+		"outerColor": [255,0,245],
+		"innerColor": [255,125,245],
 		"uniqueName": "People Pride",
 		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>",
 		"[+1] Movement <for [All] units> <during a Golden Age>"],
-		"cities": ["Parice","Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
+		"cities": ["Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
 	},
 	{
 		"name": "Drows",
@@ -375,18 +375,18 @@
 		"cities": ["Ul'Mesha"]
 	},
 	{
-		"name": "Rebel Franice",
-		"leaderName": "Bonaparte",
+		"name": "Franice Kingdom",
+		"leaderName": "Lemonady",
 		"adjective": ["icepeople"],
-		"cityStateType": "Revolucionary",
+		"cityStateType": "Cultural",
 
-		"declaringWar": "Viva le revolucion!",
-		"attacked": "You made a mistake!",
-		"defeated": "No! no! no! you dont have right to do is!",
+		"declaringWar": "For my people pride!",
+		"attacked": "You are messing with a Queen!",
+		"defeated": "*Sniff* *Sniff* this is not a defeat! *Sniff* *Sniff*",
 
 		"outerColor": [0,0,0],
-		"innerColor": [255,0,245],
-		"cities": ["Brigadeiro"]
+		"innerColor": [0,197,21],
+		"cities": ["Parice"]
 	},
 	{
 		"name": "Sunmales",
