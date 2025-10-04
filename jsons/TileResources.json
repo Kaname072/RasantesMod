@@ -428,15 +428,16 @@
 					"Generated near City States with weight [15]"]
 	},
 	{
-		"name": "Jewelry",
+		"name": "Cocoa",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"food": 1,
+		"gold": 1,
 		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{
-		"name": "Porcelain",
+		"name": "Ice Cream",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"food": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
 	},
 	{
@@ -471,16 +472,6 @@
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]> <in tiles without [Tundra]>"]
 	},
-	/*
-	{
-		"name": "Cocoa",
-		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest"], // Forest only if flat, non-tundra
-		"food": 1,
-		"gold": 1,
-		"improvement": "Plantation"
-	},
-	*/
 	{
 		"name": "Crab",
 		"resourceType": "Luxury",
