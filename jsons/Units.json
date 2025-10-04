@@ -293,6 +293,20 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Pillager",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 12,
+		"cost": 50,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["Can move immediately once bought", "Earn [50]% of the damage done to [Military] units as [Gold","No movement cost to pillage"],
+		"obsoleteTech": "Steel",
+		"requiredResource": "Slaves",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 
 	// Medieval Era
 	{
