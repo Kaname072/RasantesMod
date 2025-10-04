@@ -13,7 +13,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"requiredResource": "Slaves",
-		"uniques": ["Can build [Mine] improvements on tiles", "Can instantly construct a [Road] improvement <by consuming this unit>", "[-100]% maintenance costs", "Uncapturable", "Earn [+30 Gold] <by consuming this unit>"],
+		"uniques": ["Can build [Mine] improvements on tiles", "Can instantly construct a [Road] improvement <by consuming this unit>", "[-100]% maintenance costs", "Uncapturable", "Gain [+30 Gold] <by consuming this unit>","Only available <after adopting [Slave Commerce]>"],
 		"promotions": ["Ignore terrain cost"],
 		"cost": 30
 	},
@@ -301,7 +301,7 @@
 		"cost": 50,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Can move immediately once bought", "Earn [50]% of the damage done to [Military] units as [Gold]","No movement cost to pillage"],
+		"uniques": ["Can move immediately once bought", "Earn [50]% of the damage done to [Military] units as [Gold]","No movement cost to pillage","Only available <after adopting [Slave Commerce]>"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Slaves",
 		"hurryCostModifier": 20,
