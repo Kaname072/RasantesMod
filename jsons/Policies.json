@@ -10,7 +10,8 @@
             "Scientific": 5
         },
         "uniques": [
-            "Free Social Policy"
+            "Free Social Policy",
+            "Only available <before adopting [Domination]>"    
         ],
         "policies": [
             {
@@ -78,7 +79,7 @@
             {
                 "name": "Humanism",
                 "uniques": [
-                    "[+2 Happiness] [in all cities]"
+                    "[+1 Happiness] [in all cities]"
                 ],
                 "requires": ["Reformation"],
                 "row": 2,
@@ -172,13 +173,14 @@
             "Scientific": 10
         },
         "uniques": [
-            "Free Social Policy"
+            "Free Social Policy",
+            "Only available <before adopting [Diplomacy]>"
         ],
         "policies": [
             {
                 "name": "Oligarchy",
                 "uniques": [
-                    "[+4 Production] [in capital]"
+                    "[+3 Production] [in capital]"
                 ],
                 "row": 1,
                 "column": 1
@@ -186,7 +188,7 @@
             {
                 "name": "Militarism",
                 "uniques": [
-                    "[+25]% Production when constructing [Melee] units [in all cities]"
+                    "[+20]% Production when constructing [Melee] units [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -241,7 +243,7 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+10]% Strength <for [Military] units> <when adjacent to a [Military] unit>"
+                    "[+10]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
                 ],
                 "requires": ["Nationalism"],
                 "row": 2,
@@ -259,7 +261,7 @@
             {
                 "name": "Censorship",
                 "uniques": [
-                    "[+2 Culture] from each Trade Route",
+                    "[+2 Science] from every specialist",
                     "Free [Great General] appears"
                 ],
                 "requires": ["Oligarchy"],
@@ -269,7 +271,6 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "[+20]% Strength <for [Military] units>",
                     "[+1] Movement <for [{Military} {Land}] units>",
                     "[+50]% Golden Age length"
                 ],
@@ -290,8 +291,8 @@
             {
                 "name": "Colonization",
                 "uniques": [
-                    "[+15]% [Production] [in annexed cities]",
-                    "[+30]% [Production] [in puppeted cities]"
+                    "[+10]% [Production] [in annexed cities]",
+                    "[+20]% [Production] [in puppeted cities]"
                 ],
                 "requires": ["Slave Commerce"],
                 "row": 3,
