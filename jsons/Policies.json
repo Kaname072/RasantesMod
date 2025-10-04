@@ -111,7 +111,7 @@
                     "[+10]% Strength for cities",
                     "[+1 Culture] [in all cities]",
                 ],
-                "requires": ["Piety"],
+                "requires": ["Humanism"],
                 "row": 3,
                 "column": 1
             },
@@ -254,17 +254,17 @@
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]"
                 ],
-                "requires": ["Militarism"],
+                "requires": ["Nationalism"],
                 "row": 2,
                 "column": 7
             },
             {
                 "name": "Censorship",
                 "uniques": [
-                    "[+2 Science] from every specialist",
+                    "[+2 Science] from every specialist [in all cities]",
                     "Free [Great General] appears"
                 ],
-                "requires": ["Oligarchy"],
+                "requires": ["Discipline"],
                 "row": 2,
                 "column": 9
             },
