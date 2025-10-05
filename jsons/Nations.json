@@ -17,7 +17,7 @@
 
 		"declaringWar": "You heresy and blasfemous nation will fall!",
 		"attacked": "I dont forget this!",
-		"defeated": "This is imposible!",
+		"defeated": "This is imposible! I AM THE PROPHET!",
 		"introduction": "Has people in here?",
 
 		"neutralHello": "Greetings.",
@@ -28,11 +28,11 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Cult of Rasantes",
-		"uniqueName": "Just War",
+		"uniqueName": "Rasantes Cult",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
-			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+20]% Strength <vs [Holy cities]>"],
-		"cities": ["Ul'Messiah","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
+			"Earn [50]% of the damage done to [Military] unit's [Strength] as [Faith]",
+			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
+		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
 		"name": "Cataclysm",
@@ -87,9 +87,8 @@
 		"outerColor": [32,32,32],
 		"innerColor": [0,52,156],
 		"uniqueName": "Aquatic Supremacy",
-		"uniques": ["[+2] Movement <for [Embarked] units>",
-			"[+100]% Strength <for [All] units> <when defending> <when [Embarked]>",
-			"[+30]% Strength <for [Military] units> <when fighting in [Water] tiles>"],
+		"uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Water] tiles>",
+			"[{Military} {Land}] units gain the [Amphibious] promotion"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
 	{
@@ -171,8 +170,8 @@
 
 		"tradeRequest": "You look need this.",
 
-		"outerColor": [255,125,245],
-		"innerColor": [235,0,225],
+		"outerColor": [255,217,242],
+		"innerColor": [255,104,179],
 		"uniqueName": "People Pride",
 		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>",
 		"[+1] Movement <for [All] units> <during a Golden Age>"],
@@ -199,8 +198,8 @@
 
 		"tradeRequest": "And?",
 
-		"outerColor": [255,0,245],
-		"innerColor": [255,0,110],
+		"outerColor": [154,52,116],
+		"innerColor": [255,212,230],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+20]% Strength <vs cities>",
 			"[+1] Range <for [Ranged] units>",
