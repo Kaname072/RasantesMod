@@ -231,8 +231,9 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Justice of Asopo",
-		"uniques": ["[+20]% Strength <for [Military] units> <when attacking> <when fighting in [Friendly Land] tiles>",
-			"[{Water} {Military}] units gain the [Supply] promotion",],
+		"uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+			"[{Water} {Military}] units gain the [Supply] promotion",
+			"[1] Movement point cost to disembark <for [All] units>"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -259,7 +260,7 @@
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
 		"uniqueName": "Heavy Army",
-		"uniques": ["[+20]% Strength <for [Military] units> <when defending>"],
+		"uniques": ["[+30]% Strength <for [Military] units> <when defending>"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
