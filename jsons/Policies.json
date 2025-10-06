@@ -221,11 +221,9 @@
                 "column": 9
             },
             {
-                "name": "Slave Commerce",
-                "uniques": [
-                    "Comment [Unlocks the Slave Commerce bonus]",
-                    "[-1 Happiness] [in annexed cities]",
-                    "[-2 Happiness] [in puppeted cities]"
+                "name": "Autocracy",
+                "uniques": ["[+2 Happiness, +1 Culture] [in annexed cities]",
+                    "[+1 Happiness] [in puppeted cities]"
                 ],
                 "requires": ["Cruelity"],
                 "row": 2,
@@ -294,7 +292,7 @@
                     "[+10]% [Production] [in annexed cities]",
                     "[+20]% [Production] [in puppeted cities]"
                 ],
-                "requires": ["Slave Commerce"],
+                "requires": ["Autocracy"],
                 "row": 3,
                 "column": 5
             },
