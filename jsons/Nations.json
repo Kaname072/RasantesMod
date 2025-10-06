@@ -311,14 +311,14 @@
 		"name": "Risantes",
 		"leaderName": "Junior746",
 		"adjective": ["rasantes"],
-		"cityStateType": "Enslaving",
+		"cityStateType": "Religious Fanatic",
 
 		"declaringWar": "My lord have mercy but me dont have!",
 		"attacked": "Oh lord!",
 		"defeated": "Oh lord! why you abadon us?",
 		"outerColor": [0,0,0],
 		"innerColor": [128,128,128],
-		"cities": ["Iszahel"]
+		"cities": ["Aszael"]
 	},
 	{
 		"name": "Imp",
