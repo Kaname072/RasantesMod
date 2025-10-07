@@ -228,7 +228,7 @@
 	},
 	{
 		"name": "Spike Catapult",
-		"uniqueTo": "Orks",
+		"uniqueTo": "Ork Empire",
 		"replaces": "Catapult",
 		"unitType": "Siege",
 		"movement": 2,
@@ -271,7 +271,7 @@
 	},
 	{
 		"name": "Besorker",
-		"uniqueTo": "Orks",
+		"uniqueTo": "Ork Empire",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -359,7 +359,7 @@
 		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 20,
+		"strength": 23,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
@@ -745,6 +745,20 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Jack Infantry",
+		"uniqueTo": "Supernova",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"promotions": ["[Jack Infantry] ability"],
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Carrier",
 		"unitType": "Aircraft Carrier",
 		"movement": 5,
@@ -1104,6 +1118,21 @@
 		"cost": 425,
 		"requiredTech": "Stealth",
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Consumes [4] [Crystal Ore]","Can see over obstacles"],
+		"attackSound": "bombing"
+	},
+	{
+		"name": "Night Flame",
+		"replaces": "Stealth Bomber",
+		"uniqueTo": "Supernova",
+		"unitType": "Bomber",
+		"movement": 2,
+		"strength": 95,
+		"rangedStrength": 95,
+		"range": 20,
+		"cost": 425,
+		"requiredTech": "Stealth",
+		"requiredResource": "Aluminum",
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+100]% Strength <when attacking> <vs cities>", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 
