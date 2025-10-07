@@ -751,8 +751,8 @@
 			"[+25]% Strength <when fighting in [Tundra] tiles>"]
 	},
 	{
-		"name": "Protect Devout",
-		"uniques": ["Transfer Movement to [Civilian]", "[+15]% Strength <when stacked with a [Civilian] unit>"]
+		"name": "[Jack Infantry] ability",
+		"uniques": ["[1] additional attacks per turn","[+25]% Strength <when stacked with a [Civilian] unit>"]
 	},
 	{
 		"name": "[Zero] ability",
