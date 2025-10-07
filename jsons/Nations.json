@@ -291,7 +291,7 @@
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1 Food] from every [Sheep]",
 			"[+1] Movement <for [Mounted] units>",
-			"[+20]% Strength <for [Wounded] units>"],
+			"[+25]% Strength <for [Mounted] units>"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
@@ -317,7 +317,9 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "Discipline",
-		"uniques": ["\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
+			"[Great General] is earned [50]% faster",
+			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Ultimato"]
 	},
 	{
