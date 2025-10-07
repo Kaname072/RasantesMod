@@ -312,6 +312,34 @@ LeaderIcons/Oni Khan
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Metatron
+  rotate: false
+  xy: 1183, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Junior110
+  rotate: false
+  xy: 1343, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Wagner II
+  rotate: false
+  xy: 1503, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Junior778
+  rotate: false
+  xy: 1163, 501
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Oni chan
   rotate: false
   xy: 223, 1001
@@ -433,7 +461,7 @@ UnitIcons/Cisplatinos
   index: -1
 UnitIcons/Besorker
   rotate: false
-  xy: 500, 300
+  xy: 1200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -529,6 +557,20 @@ UnitIcons/Goat Rasante
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Jack Infantry
+  rotate: false
+  xy: 700, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Night Flame
+  rotate: false
+  xy: 800, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Cult of Rasantes
   rotate: false
   xy: 200, 200
@@ -558,6 +600,13 @@ ReligionIcons/Martyr
   offset: 0, 0
   index: -1
 ImprovementIcons/Extrator
+  rotate: false
+  xy: 100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Rasante Camp
   rotate: false
   xy: 100, 700
   size: 100, 100
