@@ -238,12 +238,12 @@
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
-		"name": "Orks",
-		"leaderName": "Ares",
+		"name": "Ork Empire",
+		"leaderName": "Metatron",
 		"adjective": ["ork"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
-		"personality": "Ares",
+		"personality": "Metatron",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
