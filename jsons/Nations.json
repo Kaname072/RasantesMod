@@ -5,7 +5,7 @@
 //	  "innerColor": [255,255,255],
   },
   {
-    "name": "Rasantes",
+	    "name": "Rasantes",
 		"leaderName": "Junior346",
 		"adjective": ["rasante"],
 		"startBias": ["Desert"],
@@ -295,6 +295,32 @@
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
 	},
 	{
+		"name": "Supernova",
+		"leaderName": "Junior110",
+		"adjective": ["idk"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		"personality": "Junior110",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "Little boy, you are in my way!",
+		"attacked": "You will learn, be didn't play with fire!",
+		"defeated": "I'm waiting for my execution.",
+		"introduction": "Hello, Little boy.",
+
+		"neutralHello": "What you need?.",
+		"hateHello": "Go away!",
+
+		"tradeRequest": "Well?",
+
+		"outerColor": [32,32,32],
+		"innerColor": [255,255,255],
+		"uniqueName": "Discipline",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Ultimato"]
+	},
+	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
@@ -306,6 +332,19 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,0],
 		"cities": ["Au"]
+	},
+	{
+		"name": "Orks",
+		"leaderName": "Ares",
+		"adjective": ["orks"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Put yourself to fight!",
+		"attacked": "This is not for you!",
+		"defeated": "So shame... for the warrior race...",
+		"outerColor": [0,0,0],
+		"innerColor": [200,100,0],
+		"cities": ["Khalifa"]
 	},
 	{
 		"name": "Risantes",
@@ -330,7 +369,7 @@
 		"attacked": "This will not we forget! Infidel",
 		"defeated": "That's is imposible!",
 		"outerColor": [0,0,0],
-		"innerColor": [225,0,0],
+		"innerColor": [125,0,0],
 		"cities": ["Patmos"]
 	},
 	{
