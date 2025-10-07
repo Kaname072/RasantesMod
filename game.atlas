@@ -18,6 +18,13 @@ NationIcons/Cataclysm
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Supernova
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Eclipses
   rotate: false
   xy: 0, 100
@@ -53,7 +60,7 @@ NationIcons/Drows
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Orks
+NationIcons/Ork Empire
   rotate: false
   xy: 1200, 100
   size: 100, 100
@@ -608,7 +615,7 @@ ImprovementIcons/Extrator
   index: -1
 ImprovementIcons/Rasante Camp
   rotate: false
-  xy: 100, 700
+  xy: 300, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -641,6 +648,13 @@ TileSets/FantasyHex/Tiles/Extrator
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Rasantes Camp
+  rotate: false
+  xy: 234, 934
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Goat
   rotate: false
   xy: 134, 1034
@@ -650,14 +664,14 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 135, 932
+  xy: 135, 933
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 1132
+  xy: 135, 1133
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
@@ -672,6 +686,13 @@ TileSets/FantasyHex/Units/Junissary
 TileSets/FantasyHex/Units/Goat Rasante
   rotate: false
   xy: 135, 833
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goat Rider
+  rotate: false
+  xy: 435, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
@@ -697,30 +718,9 @@ TileSets/FantasyHex/Units/Monk
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Slave Commerce
-  rotate: false
-  xy: 400, 900
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Revolucionary
-  rotate: false
-  xy: 200, 900
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 CityStateIcons/Religious Fanatic
   rotate: false
   xy: 300, 900
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Enslaving 
-  rotate: false
-  xy: 400, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
