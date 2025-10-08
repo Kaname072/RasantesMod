@@ -648,7 +648,7 @@ TileSets/FantasyHex/Tiles/Extrator
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Rasantes Camp
+TileSets/FantasyHex/Tiles/Rasante Camp
   rotate: false
   xy: 234, 934
   size: 31, 31
