@@ -665,14 +665,14 @@ TileSets/FantasyHex/Tiles/Goat
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
   xy: 135, 933
-  size: 31, 29
+  size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
   xy: 135, 1133
-  size: 31, 29
+  size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
