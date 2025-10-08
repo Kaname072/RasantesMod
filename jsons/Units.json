@@ -381,21 +381,6 @@
 		"attackSound": "crossbow"
 	},
 	{
-		"name": "Ballista Rasante",
-		"uniqueTo": "Rasantes",
-		"replaces": "Crossbowman",
-		"unitType": "Archery",
-		"movement": 2,
-		"strength": 13,
-		"rangedStrength": 16,
-		"cost": 120,
-		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
-		"uniques": ["[+100]% Strength <when attacking> <vs cities>","No defensive terrain bonus"]
-		"obsoleteTech": "Industrialization",
-		"attackSound": "throwonfire"
-	},
-	{
 		"name": "Trebuchet",
 		"unitType": "Siege",
 		"movement": 2,
