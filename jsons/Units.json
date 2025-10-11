@@ -79,6 +79,22 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Junissary",
+		"replaces": "Laser Swordsman",
+		"uniqueTo": "Rasantes",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 60,
+		"obsoleteTech": "Gunpowder",
+		"requiredTech": "Iron Working",
+		"requiredResource": "Crystal Ore",
+		"upgradesTo": "Infantry",
+		"attackSound": "metalhit"
+		"promotions": ["[Junissary] ability"],
+		"attackSound": "junissary"
+	},
+	{
 		"name": "Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -87,6 +103,21 @@
 		"obsoleteTech": "Rifling",
 		"requiredTech": "Gunpowder",
 		"requiredResource": "Iron",
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Bunny Legion",
+		"uniqueTo": "Bunnies",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 20,
+		"cost": 80,
+		"obsoleteTech": "Rifling",
+		"requiredTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["[Bunny Legion] ability"],
 		"upgradesTo": "Laser Gunner",
 		"attackSound": "shot"
 	},
@@ -101,6 +132,20 @@
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Red Army"
+		"uniqueTo": "Eclipses",
+		"replaces": "Laser Gunner",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 38,
+		"cost": 100,
+		"obsoleteTech": "Lasers",
+		"requiredTech": "Rifling",
+		"requiredResource": "Iron",
+		"upgradesTo": "Laser Rifleman",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Laser Rifleman",
