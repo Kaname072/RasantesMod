@@ -67,6 +67,19 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Besorker",
+		"uniqueTo": "Ork Empire",
+		"replaces": "Primitive Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"obsoleteTech": "Iron Working",
+		"promotions": ["Ork Instinct"],
+		"upgradesTo": "Laser Swordsman",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Laser Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -122,6 +135,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Sprinkles",
+		"uniqueTo": "Franice",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 21,
+		"cost": 80,
+		"obsoleteTech": "Rifling",
+		"requiredTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["[Sprinkles] ability"],
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Laser Gunner",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -129,6 +157,21 @@
 		"cost": 100,
 		"obsoleteTech": "Lasers",
 		"requiredTech": "Rifling",
+		"requiredResource": "Crystal Ore",
+		"upgradesTo": "Laser Rifleman",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "White Corps",
+		"uniqueTo": "Cataclysm",
+		"replaces": "Laser Gunner",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 100,
+		"obsoleteTech": "Lasers",
+		"requiredTech": "Rifling",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phasers"
@@ -144,9 +187,24 @@
 		"obsoleteTech": "Lasers",
 		"requiredTech": "Rifling",
 		"requiredResource": "Iron",
-		"promotions": ["Marsh"],
+		"promotions": ["March"],
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Jack Infantry",
+		"uniqueTo": "Supernova",
+		"replaces": "Laser Gunner",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 40,
+		"cost": 100,
+		"obsoleteTech": "Lasers",
+		"requiredTech": "Rifling",
+		"uniques": ["[+30]% Strength <when attacking> <vs cities>"],
+		"requiredResource": "Crystal Ore",
+		"upgradesTo": "Laser Rifleman",
+		"attackSound": "phasers"
 	},
 	{
 		"name": "Laser Rifleman",
@@ -155,6 +213,18 @@
 		"strength": 48,
 		"cost": 120,
 		"requiredTech": "Lasers",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Black Corps",
+		"uniqueTo": "Cataclysm",
+		"replaces": "Laser Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 52,
+		"cost": 120,
+		"requiredTech": "Lasers",
+		"uniques": ["[+10]% Strength <when fighting in [Enemy Land] tiles>"],
 		"attackSound": "phasers"
 	},
 	{
