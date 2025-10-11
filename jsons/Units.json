@@ -69,7 +69,7 @@
 		"obsoleteTech": "Rifling",
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Laser Rifleman",
-		"attackSound": "phaser"
+		"attackSound": "phasers"
 	},
 	{
 		"name": "Laser Rifleman",
@@ -78,7 +78,7 @@
 		"strength": 40,
 		"cost": 140,
 		"requiredTech": "Rifling",
-		"attackSound": "phaser"
+		"attackSound": "phasers"
 	},
 
 	/* Great people */
