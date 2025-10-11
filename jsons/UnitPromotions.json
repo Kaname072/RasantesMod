@@ -735,15 +735,15 @@
 	},
 	{
 		"name": "[Junissary] ability",
-		"uniques": ["No movement cost to pillage"]
+		"uniques": ["No movement cost to pillage","Heals [5] damage if it kills a unit"]
 	},
 	{
 		"name": "[Goat Rasante] ability",
 		"uniques": ["Can pass through impassable tiles"]
 	},
 	{
-		"name": "[Hussar] ability",
-		"uniques": ["[+50]% to Flank Attack bonuses"]
+		"name": "[Bunny Legion] ability",
+		"uniques": ["[+25]% to Flank Attack bonuses","Can move after attacking"]
 	},
 	{
 		"name": "[Sprinkles] ability",
