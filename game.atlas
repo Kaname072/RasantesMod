@@ -812,7 +812,7 @@ TileSets/FantasyHex/Units/White Corps
 TileSets/FantasyHex/Units/Extrator Robot
   rotate: false
   xy: 1835, 1033
-  size: 31, 31
+  size: 34, 32
   orig: 100, 100
   offset: 0, 0
   index: -1
