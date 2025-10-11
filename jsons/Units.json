@@ -1,5 +1,5 @@
 [
-		{
+	{
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
@@ -96,7 +96,7 @@
 		"movement": 2,
 		"strength": 30,
 		"cost": 100,
-		"obsoleteTech": "Laser",
+		"obsoleteTech": "Lasers",
 		"requiredTech": "Rifling",
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
@@ -110,6 +110,33 @@
 		"cost": 120,
 		"requiredTech": "Lasers",
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Goat Rider",
+		"unitType": "Mounted",
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Goat",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "goatrider"
+	},
+	{
+		"name": "Goat Rasante",
+		"uniqueTo": "Rasantes",
+		"replaces": "Goat Rider",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Goat",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"promotions": ["[Goat Rasante] ability"],
+		"hurryCostModifier": 20,
+		"attackSound": "goatrider"
 	},
 
 	/* Great people */
