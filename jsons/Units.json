@@ -68,7 +68,7 @@
 		"cost": 100,
 		"obsoleteTech": "Rifling",
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Laser Gunner",
+		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phaser"
 	},
 	{
