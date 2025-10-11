@@ -727,7 +727,7 @@ TileSets/FantasyHex/Units/Goat Rider
   index: -1
 TileSets/FantasyHex/Units/Bunny Scout
   rotate: false
-  xy: 1235, 1133
+  xy: 1335, 1133
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
@@ -748,49 +748,49 @@ TileSets/FantasyHex/Units/Monk
   index: -1
 TileSets/FantasyHex/Units/Primitive Warrior
   rotate: false
-  xy: 1135, 1033
+  xy: 1235, 1033
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Corps
   rotate: false
-  xy: 1335, 1033
+  xy: 1435, 1033
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Swordsman
   rotate: false
-  xy: 1435, 1133
+  xy: 1535, 1133
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Gunner
   rotate: false
-  xy: 1435, 1133
+  xy: 1535, 1133
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Red Army
   rotate: false
-  xy: 1535, 1033
+  xy: 1635, 1033
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Rifleman
   rotate: false
-  xy: 1535, 1133
+  xy: 1635, 1133
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jack Infantry
   rotate: false
-  xy: 1635, 1033
+  xy: 1735, 1033
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
