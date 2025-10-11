@@ -144,10 +144,10 @@
 
 		"outerColor": [108,108,255],
 		"innerColor": [255,255,255],
-		"uniqueName": "Feed the Universe",
+		"uniqueName": "Bunnies Sovereignty",
 		"uniques": ["[+1 Food] from every [Farm]",
 			"[+1 Food] from every [Plantation]",
-			"[+50]% [Food] [in all cities] <during a Golden Age>"],
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Carrotnopla","Teetholia","Noellis","Melon","Pineapple","Strawberry"],
 	},
 	{
@@ -233,7 +233,7 @@
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Justice of Asopo",
 		"uniques": ["[+1] Movement <for [Embarked] units>",
-			"[1] Movement point cost to disembark <for [All] units>",
+			"[0] Movement point cost to disembark <for [All] units>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
@@ -385,7 +385,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [32,32,128],
+		"innerColor": [32,32,194],
 		"cities": ["Shintilla"]
 	},
 	{
