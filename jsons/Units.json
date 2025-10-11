@@ -72,8 +72,8 @@
 		"replaces": "Primitive Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 10,
-		"cost": 40,
+		"strength": 8,
+	 	"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"promotions": ["Ork Instinct"],
 		"upgradesTo": "Laser Swordsman",
@@ -256,6 +256,28 @@
 		"attackSound": "goatrider"
 	},
 	/* Range Units */
+	{
+	    "name": "Slinger",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Archer",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 16,
+		"cost": 60,
+		"requiredTech": "Construction",
+		"attackSound": "arrow"
+	},
 
 	/* Great people */
 
