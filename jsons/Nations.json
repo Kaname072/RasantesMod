@@ -29,8 +29,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Rasantes Cult",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
-			"Earn [10]% of the damage done to [Military] units as [Faith]",
+		"uniques": ["May choose [2] additional belief(s) of any type when [founding] a religion",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
@@ -88,7 +87,7 @@
 		"innerColor": [0,52,156],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Water] tiles>",
-			"[+10]% Production when constructing [Military] units [in all cities] <when at war>",
+			"[+10]% Production when constructing [Military] units [in all cities]",
 			"[{Military} {Land}] units gain the [Amphibious] promotion"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
@@ -260,10 +259,10 @@
 
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
-		"uniqueName": "Heavy Army",
-		"uniques": ["[+50]% Strength <for [{Military} {Land}] units> <when defending>",
-		"[+100]% maintenance costs <for [{Military} {Land}] units>",
-		"[-50]% Production when constructing [{Military} {Land}] units [in all cities]"],
+		"uniqueName": "Raid & Fire",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
+			"No Maintenance costs for improvements in [Desert] tiles",
+			"No movement cost to pillage <for [Melee] units>"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
