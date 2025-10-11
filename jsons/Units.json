@@ -35,9 +35,50 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit", "May enter foreign tiles without open borders"],
+		"uniques": ["Never appears as a Barbarian unit", "May enter foreign tiles without open borders"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Primitive Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"obsoleteTech": "Iron Working",
+		"upgradesTo": "Laser Swordsman",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Laser Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 20,
+		"cost": 70,
+		"obsoleteTech": "Gunpowder",
+		"requiredTech": "Steel",
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Laser Gunner",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 100,
+		"obsoleteTech": "Rifling",
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "phaser"
+	},
+	{
+		"name": "Laser Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 40,
+		"cost": 140,
+		"requiredTech": "Rifling",
+		"attackSound": "phaser"
 	},
 
 	/* Great people */
