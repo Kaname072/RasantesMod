@@ -30,7 +30,7 @@
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Rasantes Cult",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
-			"Earn [50]% of the damage done to [Military] units as [Faith]",
+			"Earn [10]% of the damage done to [Military] units as [Faith]",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
@@ -261,7 +261,9 @@
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
 		"uniqueName": "Heavy Army",
-		"uniques": ["[+30]% Strength <for [Military] units> <when defending>"],
+		"uniques": ["[+50]% Strength <for [{Military} {Land}] units> <when defending>",
+		"[+100]% maintenance costs <for [{Military} {Land}] units>",
+		"[-50]% Production when constructing [{Military} {Land}] units"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
