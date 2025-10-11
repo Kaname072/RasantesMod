@@ -715,7 +715,7 @@
     },
 	{
 		"name": "Ork Instinct",
-		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","Heals [10] damage if it kills a unit"]
+		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+50]% Strength <when defending>"]
 	},
 	{
 		"name": "[Jaguar] ability",
