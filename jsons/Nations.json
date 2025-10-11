@@ -263,7 +263,7 @@
 		"uniqueName": "Heavy Army",
 		"uniques": ["[+50]% Strength <for [{Military} {Land}] units> <when defending>",
 		"[+100]% maintenance costs <for [{Military} {Land}] units>",
-		"[-50]% Production when constructing [{Military} {Land}] units"],
+		"[-50]% Production when constructing [{Military} {Land}] units [in all cities]"],
 		"cities": ["Ukagalah","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
