@@ -139,11 +139,12 @@
 		"replaces": "Laser Gunner",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 38,
+		"strength": 36,
 		"cost": 100,
 		"obsoleteTech": "Lasers",
 		"requiredTech": "Rifling",
 		"requiredResource": "Iron",
+		"promotions": ["Marsh"],
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "shot"
 	},
