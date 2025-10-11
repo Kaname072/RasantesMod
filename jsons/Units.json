@@ -114,6 +114,7 @@
 	{
 		"name": "Goat Rider",
 		"unitType": "Mounted",
+		"movement": 3,
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
@@ -128,7 +129,7 @@
 		"uniqueTo": "Rasantes",
 		"replaces": "Goat Rider",
 		"unitType": "Mounted",
-		"movement": 4,
+		"movement": 3,
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
