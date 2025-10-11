@@ -16,6 +16,15 @@
 		"hurryCostModifier": 20
 	},
 	{
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
+	{
 		"name": "Extrator Robot",
 		"unitType": "Civilian",
 		"cost": 70,
@@ -51,8 +60,8 @@
 		"name": "Primitive Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 10,
-		"cost": 50,
+		"strength": 7,
+		"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
@@ -61,13 +70,25 @@
 		"name": "Laser Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 20,
-		"cost": 70,
+		"strength": 13,
+		"cost": 60,
 		"obsoleteTech": "Gunpowder",
 		"requiredTech": "Iron Working",
 		"requiredResource": "Crystal Ore",
-		"upgradesTo": "Laser Gunner",
+		"upgradesTo": "Infantry",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 21,
+		"cost": 80,
+		"obsoleteTech": "Rifling",
+		"requiredTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Laser Gunner",
@@ -75,8 +96,8 @@
 		"movement": 2,
 		"strength": 30,
 		"cost": 100,
-		"obsoleteTech": "Rifling",
-		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Laser",
+		"requiredTech": "Rifling",
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phasers"
@@ -85,9 +106,9 @@
 		"name": "Laser Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 40,
-		"cost": 140,
-		"requiredTech": "Rifling",
+		"strength": 48,
+		"cost": 120,
+		"requiredTech": "Lasers",
 		"attackSound": "phasers"
 	},
 
