@@ -714,8 +714,8 @@
         "uniques": ["Can Spread Religion <[1] additional time(s)>"]
     },
 	{
-		"name": "[Mohawk Warrior] ability",
-		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>"]
+		"name": "Ork Instinct",
+		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","Heal [15] damage if it kills a unit"]
 	},
 	{
 		"name": "[Jaguar] ability",
