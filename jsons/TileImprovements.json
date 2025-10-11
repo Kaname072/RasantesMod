@@ -113,7 +113,7 @@
 	},
 	{
 		"name": "Rasante Camp",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"uniqueTo": "Rasantes",
 		"production": 1,
 		"turnsToBuild": 3,
