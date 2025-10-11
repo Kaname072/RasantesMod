@@ -389,6 +389,34 @@ LeaderIcons/Bonaparte
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Primitive Warrior
+  rotate: false
+  xy: 1100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Laser Swordsman
+  rotate: false
+  xy: 1200, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Laser Gunner
+  rotate: false
+  xy: 1300, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Laser Rifleman
+  rotate: false
+  xy: 1400, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Junissary
   rotate: false
   xy: 800, 200
