@@ -104,6 +104,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Pillager",
+		"uniqueTo": "Lizardinia",
+		"replaces": "Laser Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 60,
+		"obsoleteTech": "Gunpowder",
+		"requiredTech": "Iron Working",
+		"uniques": ["Can move after attacking"],
+		"requiredResource": "Crystal Ore",
+		"upgradesTo": "Infantry",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Junissary",
 		"replaces": "Laser Swordsman",
 		"uniqueTo": "Rasantes",
@@ -244,6 +259,21 @@
 		"unitType": "Mounted",
 		"movement": 3,
 		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Goat",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "goatrider"
+	},
+	{
+		"name": "Hisagi",
+		"replaces": "Goat Rider",
+		"uniqueTo": "Caprines",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 17,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Goat",
