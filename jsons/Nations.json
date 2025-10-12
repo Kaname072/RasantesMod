@@ -322,6 +322,34 @@
 		"cities": ["Ultimato"]
 	},
 	{
+		"name": "Lizardinia",
+		"leaderName": "Salazar I",
+		"adjective": ["lizardos"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Salazar I",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "War is War, Dust is Dust!",
+		"attacked": "I'm waiting for this!",
+		"defeated": "Oh lord! the destruction get me? Oh, it's there...",
+		"introduction": "Greetings, stranger",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You're a disgusting!",
+
+		"tradeRequest": "May respect for you. You can make this posible?",
+
+		"outerColor": [0,208,0],
+		"innerColor": [64,64,0],
+		"favoredReligion": "Cult of Rasantes",
+		"uniqueName": "Hotland Richness",
+		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
+	},
+	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
