@@ -203,7 +203,7 @@
 		"innerColor": [255,212,230],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+1] Range <for [Ranged] units>",
-			"Upon capturing a city, receive [20] times its [Science] production as [Science] immediately",
+			"Free [Great Scientist] appears <upon conquering a city>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
@@ -347,7 +347,9 @@
 		"innerColor": [64,64,0],
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Assasin Squad",
-		"uniques": ["[+100]% XP gained from combat <for [Military] units>"],
+		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
+			"Units ignore terrain costs when moving into any tile with Hills",
+			"Free [Great General] appears <<upon declaring war with a major Civilization>"],
 		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
