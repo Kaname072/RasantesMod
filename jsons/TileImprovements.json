@@ -98,7 +98,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 1,
 		"techRequired": "Iron Working",
-		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+40 Gold]","Unbuildable <for [Worker] units>"],
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+40 Gold]","Does not need removal of [Forest]","Does not need removal of [Jungle]","Unbuildable <for [Worker] units>"],
 		"shortcutKey": "M"
 	},
 
