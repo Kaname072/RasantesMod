@@ -46,6 +46,13 @@ NationIcons/Bunnies
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Lizardinia
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Franice
   rotate: false
   xy: 100, 200
@@ -55,21 +62,21 @@ NationIcons/Franice
   index: -1
 NationIcons/Drows
   rotate: false
-  xy: 1200, 0
+  xy: 1400, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ork Empire
   rotate: false
-  xy: 1200, 100
+  xy: 1400, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Atlantis
   rotate: false
-  xy: 1300, 100
+  xy: 1500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -105,6 +112,13 @@ BuildingIcons/Coldness Castle
 BuildingIcons/Monument Oceanic
   rotate: false
   xy: 500, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Greatest University
+  rotate: false
+  xy: 1200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -273,6 +287,13 @@ LeaderIcons/William
 LeaderIcons/Lemonady
   rotate: false
   xy: 1023, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Salazar I
+  rotate: false
+  xy: 1183, 21
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -629,7 +650,7 @@ ReligionIcons/Poseidonism
   index: -1
 ReligionIcons/Martyr
   rotate: false
-  xy: 1300, 0
+  xy: 1500, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -727,91 +748,91 @@ TileSets/FantasyHex/Units/Goat Rider
   index: -1
 TileSets/FantasyHex/Units/Bunny Scout
   rotate: false
-  xy: 1335, 1133
+  xy: 1335, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cisplatinos
   rotate: false
-  xy: 1235, 1133
+  xy: 1235, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monk
   rotate: false
-  xy: 1335, 1033
+  xy: 1335, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Besorker
   rotate: false
-  xy: 1435, 1133
+  xy: 1435, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Primitive Warrior
   rotate: false
-  xy: 1235, 1033
+  xy: 1235, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Corps
   rotate: false
-  xy: 1435, 1033
+  xy: 1435, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Swordsman
   rotate: false
-  xy: 1535, 1133
+  xy: 1535, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Gunner
   rotate: false
-  xy: 1535, 1133
+  xy: 1535, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Red Army
   rotate: false
-  xy: 1635, 1033
+  xy: 1635, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Rifleman
   rotate: false
-  xy: 1635, 1133
+  xy: 1635, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jack Infantry
   rotate: false
-  xy: 1735, 1033
+  xy: 1735, 833
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/White Corps
   rotate: false
-  xy: 1735, 1133
+  xy: 1735, 933
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Extrator Robot
   rotate: false
-  xy: 1835, 1033
+  xy: 1835, 833
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
