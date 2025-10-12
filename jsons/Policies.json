@@ -214,7 +214,7 @@
             {
                 "name": "Cruelity",
                 "uniques": [
-                    "[Melee] units gain the [Charge] promotion"
+                    "[+20]% Strength <when attacking> <vs [Wounded] units>"
                 ],
                 "row": 1,
                 "column": 9
@@ -231,8 +231,8 @@
             {
                 "name": "Nationalism",
                 "uniques": [
-                    "[+10]% Production when constructing [All] buildings [in all cities]"
-                ],
+                    "[+10]% Production when constructing [All] buildings [in all cities]",
+                    "[+1 Culture] [in all cities]"                ],
                 "requires": ["Militarism"],
                 "row": 2,
                 "column": 3
@@ -249,7 +249,7 @@
             {
                 "name": "Populism",
                 "uniques": [
-                    "[+33]% [Culture] [in all cities with a world wonder]"
+                    "[+2 Culture] from every [Luxury resource]"
                 ],
                 "requires": ["Nationalism"],
                 "row": 2,
@@ -268,7 +268,7 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "[+1] Movement <for [{Military} {Land}] units>",
+                    "[+1] Movement <for [{Military} {Land}] units> <for [50] turns>",
                     "[+50]% Golden Age length"
                 ],
                 "requires": ["Censorship"],
@@ -288,8 +288,8 @@
             {
                 "name": "Colonization",
                 "uniques": [
-                    "[+10]% [Production] [in annexed cities]",
-                    "[+20]% [Production] [in puppeted cities]"
+                    "[+1 Production] [in annexed cities]",
+                    "[+2 Production] [in puppeted cities]"
                 ],
                 "requires": ["Autocracy"],
                 "row": 3,
@@ -298,8 +298,7 @@
             {
                 "name": "Conquistador",
                 "uniques": [
-                    "Gain a free [Courthouse] [in annexed cities]",
-                    "Gain a free [Courthouse] [in puppeted cities]"
+                    "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"
                 ],
                 "requires": ["Colonization"],
                 "row": 3,
