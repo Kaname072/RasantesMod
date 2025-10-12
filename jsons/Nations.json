@@ -346,7 +346,8 @@
 		"innerColor": [64,64,0],
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Hotland Richness",
-		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
+			"[+2 Gold] from every [Great Improvement"],
 		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
