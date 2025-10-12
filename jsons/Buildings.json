@@ -351,7 +351,7 @@
 	{
 		"name": "Greatest University",
 		"uniqueTo": "Lizardinia",
-		"name": "University",
+		"replaces": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
