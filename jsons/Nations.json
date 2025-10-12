@@ -349,7 +349,7 @@
 		"uniqueName": "Assasin Squad",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
 			"Units ignore terrain costs when moving into any tile with Hills",
-			"Free [Great General] appears <<upon declaring war with a major Civilization>"],
+			"Free [Great General] appears <upon declaring war with a major Civilization>"],
 		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
