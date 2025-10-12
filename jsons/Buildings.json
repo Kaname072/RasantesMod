@@ -354,11 +354,11 @@
 		"replaces": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
+		"percentStatBonus": {"science": 44},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Philosophy"
+		"uniques": ["[+1 Science] from [Mine] tiles [in this city]"],
+		"requiredTech": "Education"
 	},
     {
 		"name": "Oxford University",
