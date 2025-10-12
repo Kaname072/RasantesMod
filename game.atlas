@@ -657,7 +657,7 @@ ReligionIcons/Shintonism
   index: -1
 ReligionIcons/Poseidonism
   rotate: false
-  xy: 1300, 100
+  xy: 1500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
