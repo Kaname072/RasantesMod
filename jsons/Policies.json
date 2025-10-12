@@ -26,7 +26,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[+1 Culture] per [2] population [in all cities]"
+                    "[+1 Happiness] per [4] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -34,7 +34,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+2 Culture] from every [Luxury resource]"
+                    "[+2 Culture] from every [Wonder]"
                 ],
                 "row": 1,
                 "column": 5
@@ -42,7 +42,7 @@
             {
                 "name": "Constitution",
                 "uniques": [
-                    "[-10]% Culture cost of adopting new Policies"
+                    "[+1 Culture] [in all cities]"
                 ],
                 "row": 1,
                 "column": 7
@@ -108,8 +108,7 @@
             {
                 "name": "Honor",
                 "uniques": [
-                    "[+10]% Strength for cities",
-                    "[+1 Culture] [in all cities]",
+                    "[+33]% Strength <vs [Barbarian]>"
                 ],
                 "requires": ["Humanism"],
                 "row": 3,
@@ -147,7 +146,7 @@
             {
                 "name": "Guilds",
                 "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in all cities]"
+                    "[+1 Gold, +1 Happiness] per [6] population [in all cities]"
                 ],
                 "requires": ["Patronage"],
                 "row": 3,
