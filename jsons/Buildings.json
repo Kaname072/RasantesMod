@@ -349,6 +349,18 @@
 		"requiredTech": "Education"
 	},
 	{
+		"name": "Greatest University",
+		"uniqueTo": "Lizardinia",
+		"name": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+    {
 		"name": "Oxford University",
 		"cost": 125,
 		"science": 3,
