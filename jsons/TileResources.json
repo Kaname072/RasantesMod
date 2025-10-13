@@ -108,7 +108,7 @@
 	{
 		"name": "Iron",
 		"resourceType": "Strategic",
-		"revealedBy": "Bronze Working",
+		"revealedBy": "Iron Working",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
@@ -210,7 +210,7 @@
 	{
 		"name": "Crystal Ore",
 		"resourceType": "Strategic",
-		"revealedBy": "Iron Working",
+		"revealedBy": "Crystal Extracing",
 		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow","Hill","Desert"],
 		"production": 1,
 		"improvement": "Extrator",
@@ -222,7 +222,7 @@
 			"Minor deposits generated with weight [15] <in [Forest] tiles>",
 			"Minor deposits generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
 			"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>",
-		    "Minor deposits generated with weight [20] <in [{Featureless} {Desert}] tiles>"],
+		    "Minor deposits generated with weight [15] <in [{Featureless} {Desert}] tiles>"],
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 8},
 		"minorDepositAmount": {"sparse": 2, "default": 4, "abundant": 6}
 	},
