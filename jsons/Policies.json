@@ -1,7 +1,7 @@
 [
     {
         "name": "Diplomacy",
-        "era": "Ancient era",
+        "era": "Colonization era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -96,9 +96,7 @@
             },
             {
                 "name": "Patronage",
-                "uniques": [
-                    "[+2 Gold] from each Trade Route",
-                    "Gifts of Gold to City-States generate [25]% more Influence",
+                "uniques": ["Gifts of Gold to City-States generate [25]% more Influence",
                     "Free [Great Merchant] appears"
                 ],
                 "requires": ["Tradition"],
@@ -163,7 +161,7 @@
     },
     {
         "name": "Domination",
-        "era": "Ancient era",
+        "era": "Colonization era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -196,8 +194,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+33]% Strength <vs [Barbarian] units>",
-                    "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
-                    "Notified of new Barbarian encampments"
+                    "Earn [200]% of killed [Barbarian] unit's [Strength] as [Culture]"
                 ],
                 "row": 1,
                 "column": 5
