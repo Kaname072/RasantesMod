@@ -92,6 +92,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Pacefull Warrior",
+		"uniqueTo": "Eden",
+		"replaces": "Primitive Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 6,
+		"cost": 40,
+		"obsoleteTech": "Crystal Extracing",
+		"upgradesTo": "Laser Swordsman",
+		"uniques": ["Can build [Road] improvements on tiles","Invisible to others <when in [Jungle] tiles>"],
+		"promotions": ["Woodsman"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Laser Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
