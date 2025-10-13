@@ -108,7 +108,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
+		"requiredTech": "Iron Working"
 	},
 	{
 		"name": "Subterrain Barracks",
@@ -118,7 +118,7 @@
 		"production": 4,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
+		"requiredTech": "Iron Working"
 	},
 	{
 		"name": "False Moon",
@@ -264,7 +264,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
-		"requiredTech": "Iron Working"
+		"requiredTech": "Crystal Working"
 	},
 
 	// Medieval Era
