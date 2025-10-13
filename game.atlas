@@ -88,6 +88,13 @@ NationIcons/Caprines
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Eden
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saint Tree
   rotate: false
   xy: 200, 400
@@ -298,6 +305,13 @@ LeaderIcons/Salazar I
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Junior777
+  rotate: false
+  xy: 1343, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Ares
   rotate: false
   xy: 223, 501
@@ -413,6 +427,13 @@ LeaderIcons/Bonaparte
 UnitIcons/Primitive Warrior
   rotate: false
   xy: 1100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pacefull Warrior
+  rotate: false
+  xy: 500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -704,6 +725,13 @@ ImprovementIcons/Rasante Camp
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Treehouse
+  rotate: false
+  xy: 900, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Crystal Ore
   rotate: false
   xy: 0, 700
@@ -735,6 +763,13 @@ TileSets/FantasyHex/Tiles/Extrator
 TileSets/FantasyHex/Tiles/Rasante Camp
   rotate: false
   xy: 234, 934
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Treehouse
+  rotate: false
+  xy: 34, 634
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
