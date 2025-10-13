@@ -25,7 +25,7 @@
 		"name": "Monument Oceanic",
 		"uniqueTo": "Atlantis",
 		"replaces": "Monument",
-		"science": 1,
+		"science": 2,
 		"culture": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -56,7 +56,7 @@
 		"name": "Dolmen",
 		"isWonder": true,
 		"culture": 2,
-		"uniques": ["[+15]% Strength <for [Wounded] units>"],
+		"uniques": ["Free Social Policy"],
 		"requiredTech": "Mining",
 	},
 	// Column 2
@@ -115,8 +115,9 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Lizardinia",
 		"hurryCostModifier": 25,
+		"production": 4,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured","Doubles Gold given to enemy if city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
