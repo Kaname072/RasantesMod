@@ -87,7 +87,7 @@
 		"movement": 2,
 		"strength": 6,
 		"cost": 40,
-		"obsoleteTech": "Iron Working",
+		"obsoleteTech": "Crystal Extracing",
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
 	},
@@ -98,7 +98,7 @@
 		"strength": 13,
 		"cost": 60,
 		"obsoleteTech": "Gunpowder",
-		"requiredTech": "Iron Working",
+		"requiredTech": "Crystal Extracing",
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
 		"attackSound": "metalhit"
@@ -112,7 +112,7 @@
 		"strength": 13,
 		"cost": 60,
 		"obsoleteTech": "Gunpowder",
-		"requiredTech": "Iron Working",
+		"requiredTech": "Crystal Extracing",
 		"uniques": ["Can move after attacking"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
@@ -127,7 +127,7 @@
 		"strength": 13,
 		"cost": 60,
 		"obsoleteTech": "Gunpowder",
-		"requiredTech": "Iron Working",
+		"requiredTech": "Crystal Extracing",
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
 		"attackSound": "metalhit"
@@ -254,6 +254,8 @@
 		"uniques": ["[+10]% Strength <when fighting in [Enemy Land] tiles>"],
 		"attackSound": "phasers"
 	},
+	/* Mounted Units */
+	
 	{
 		"name": "Goat Rider",
 		"unitType": "Mounted",
@@ -332,8 +334,21 @@
 		"rangedStrength": 9,
 		"uniques": ["Never appears as a Barbarian unit"],
 		"cost": 50,
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Rifleman",
 		"requiredTech": "Construction",
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Rifleman",
+		"unitType": "Ranged Gunpowder",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 15,
+		"uniques": ["Never appears as a Barbarian unit"],
+		"cost": 80,
+		"requiredTech": "Machinery",
+		"attackSound": "shot"
 	},
 	/* Siege Units */
 
@@ -451,6 +466,29 @@
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+	},
+	/* Water Units */
+	{
+		"name": "Galley",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Mermaid",
+		"uniqueTo": "Barbarians",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 8,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles","Invisible to non-adjacent units <when [non-[Wounded]]>"]
+		"attackSound": "mermaid"
 	},
 
 	/* Religious units */
