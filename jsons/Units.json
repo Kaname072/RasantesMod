@@ -62,7 +62,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 40,
-		"obsoleteTech": "Iron Working",
+		"obsoleteTech": "Crystal Extracing",
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
 	},
@@ -74,7 +74,7 @@
 		"movement": 2,
 		"strength": 8,
 	 	"cost": 40,
-		"obsoleteTech": "Iron Working",
+		"obsoleteTech": "Crystal Extracing",
 		"promotions": ["Ork Instinct"],
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
@@ -425,6 +425,30 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
+	/* Water Units */
+	
+	{
+		"name": "Galley",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Mermaid",
+		"uniqueTo": "Barbarians",
+		"replaces": "Galley",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 8,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles","Invisible to non-adjacent units <when [non-[Wounded]]>"]
+		"attackSound": "mermaid"
+	},
 
 		/* Great people */
 
@@ -492,29 +516,6 @@
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
-	},
-	/* Water Units */
-	{
-		"name": "Galley",
-		"unitType": "Melee Water",
-		"movement": 4,
-		"strength": 10,
-		"cost": 45,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles"],
-		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Mermaid",
-		"uniqueTo": "Barbarians",
-		"replaces": "Trireme",
-		"unitType": "Melee Water",
-		"movement": 3,
-		"strength": 8,
-		"cost": 45,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles","Invisible to non-adjacent units <when [non-[Wounded]]>"]
-		"attackSound": "mermaid"
 	},
 
 	/* Religious units */
