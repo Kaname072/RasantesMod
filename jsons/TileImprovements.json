@@ -97,7 +97,7 @@
 		"name": "Extrator",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 1,
-		"techRequired": "Iron Working",
+		"techRequired": "Crystal Extracing",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+40 Gold]","Does not need removal of [Forest]","Does not need removal of [Jungle]","Unbuildable <for [Worker] units>"],
 		"shortcutKey": "M"
 	},
@@ -163,7 +163,7 @@
 	{
 		"name": "Remove Jungle",
 		"turnsToBuild": 7,
-		"techRequired": "Bronze Working",
+		"techRequired": "Iron Working",
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
