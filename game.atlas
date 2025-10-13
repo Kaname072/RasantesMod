@@ -431,6 +431,27 @@ UnitIcons/Drow Thief
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Maceman
+  rotate: false
+  xy: 700, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Simple Navi
+  rotate: false
+  xy: 800, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mermaid
+  rotate: false
+  xy: 900, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Laser Swordsman
   rotate: false
   xy: 1200, 700
