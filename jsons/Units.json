@@ -254,6 +254,32 @@
 		"uniques": ["[+10]% Strength <when fighting in [Enemy Land] tiles>"],
 		"attackSound": "phasers"
 	},
+		/* Another Melee Units */
+	
+	{
+		"name": "Maceman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 7,
+		"cost": 60,
+		"requiredTech": "Mining",
+		"uniques": ["[+30]% Strength <when fighting in [Rough terrain] tiles>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Trident",
+		"replaces": "Maceman",
+		"uniqueTo": "Atlantis",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 7,
+		"cost": 60,
+		"requiredTech": "Mining",
+		"uniques": ["[+30]% Strength <when fighting in [Rough terrain] tiles>","[+50]% Strength <when fighting in [Coastal] tiles>"],
+		"promotions": ["Amphibious"],
+		"attackSound": "nonmetalhit"
+	},
+		
 	/* Mounted Units */
 	
 	{
