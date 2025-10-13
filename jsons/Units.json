@@ -29,7 +29,7 @@
 		"unitType": "Civilian",
 		"cost": 70,
 		"uniques": ["Can instantly construct a [Extrator] improvement <by consuming this unit>","Uncapturable"],
-		"requiredTech": "Iron Working",
+		"requiredTech": "Crystal Extracing",
 		"movement": 2
 	},
 	{
@@ -446,7 +446,7 @@
 		"strength": 8,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles","Invisible to non-adjacent units <when [non-[Wounded]]>"]
+		"uniques": ["Cannot enter ocean tiles"]
 		"attackSound": "mermaid"
 	},
 
