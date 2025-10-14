@@ -101,7 +101,7 @@
 		"cost": 40,
 		"obsoleteTech": "Crystal Extracing",
 		"upgradesTo": "Laser Swordsman",
-		"promotions": ["[Pacefull Warrior] ability"],
+		"promotions": ["Woodsman"],
 		"attackSound": "nonmetalhit"
 	},
 	{
