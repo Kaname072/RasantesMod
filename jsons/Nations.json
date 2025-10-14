@@ -405,10 +405,10 @@
 
 		"tradeRequest": "Give to me! Please!",
 
-		"outerColor": [0,0,216],
-		"innerColor": [216,216,0],
+		"outerColor": [0,173,162],
+		"innerColor": [255,191,0],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-90]% Culture cost of natural border growth [in all cities]",
+		"uniques": ["[-95]% Culture cost of natural border growth [in all cities] <before the [Classical era]>",
 			"Each city founded increases culture cost of policies [10]% less than normal",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Ymir"]
