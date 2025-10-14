@@ -348,7 +348,7 @@
 		"uniqueName": "Assasin Squad",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
 			"Units ignore terrain costs when moving into any tile with Hills",
-			"Free [Great General] appears <upon declaring war with a major Civilization>"],
+			"No movement cost to pillage <for [Melee] units>"],
 		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
@@ -376,7 +376,7 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "The Magnanimous",
-		"uniques": ["[+1 Faith] from every [Jungle]",
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"May buy items in puppet cities",
 			"May not annex cities"],
 		"cities": ["Brasal","Amazon","Garden","Oasis","Grassna","Semba","Caju","Sambana"],
