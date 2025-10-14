@@ -718,8 +718,8 @@
 		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+50]% Strength <when defending>"]
 	},
 	{
-		"name": "[Jaguar] ability",
-		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>", "Heals [25] damage if it kills a unit"]
+		"name": "[Pacefull Warrior] ability",
+		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>", "Double movement in [Forest]", "Double movement in [Jungle]"]
 	},
 	{
 		"name": "[Persian Immortal] ability",
