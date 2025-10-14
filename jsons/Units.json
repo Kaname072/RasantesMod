@@ -97,12 +97,11 @@
 		"replaces": "Primitive Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 6,
+		"strength": 7,
 		"cost": 40,
 		"obsoleteTech": "Crystal Extracing",
 		"upgradesTo": "Laser Swordsman",
-		"uniques": ["Can build [Road] improvements on tiles","Invisible to others <when in [Jungle] tiles>"],
-		"promotions": ["Woodsman"],
+		"promotions": ["[Pacefull Warrior] ability"],
 		"attackSound": "nonmetalhit"
 	},
 	{
