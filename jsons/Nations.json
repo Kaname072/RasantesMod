@@ -342,8 +342,8 @@
 
 		"tradeRequest": "May respect for you. You can make this posible?",
 
-		"outerColor": [0,208,0],
-		"innerColor": [208,208,0],
+		"outerColor": [208,208,0],
+		"innerColor": [208,0,0],
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Assasin Squad",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
@@ -370,7 +370,7 @@
 		"neutralHello": "Sun Never Sets",
 		"hateHello": "...",
 
-		"tradeRequest": "You can?",
+		"tradeRequest": "You can do?",
 
 		"outerColor": [0,208,0],
 		"innerColor": [96,96,0],
