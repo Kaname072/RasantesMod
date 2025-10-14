@@ -106,6 +106,19 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Beetle Warrior",
+		"uniqueTo": "Primordials",
+		"replaces": "Primitive Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 7,
+		"cost": 60,
+		"obsoleteTech": "Crystal Extracing",
+		"upgradesTo": "Laser Swordsman",
+		"promotions": ["[Beetle Warrior] ability"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Laser Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
