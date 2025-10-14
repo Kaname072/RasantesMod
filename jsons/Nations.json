@@ -84,8 +84,8 @@
 
 		"tradeRequest": "Accept my offer?",
 
-		"outerColor": [32,32,32],
-		"innerColor": [0,52,156],
+		"outerColor": [28,28,28],
+		"innerColor": [63,102,180],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+25]% Strength <for [Military] units> <when fighting in [Water] tiles>",
 			"[+25]% Production when constructing [Military] units [in all cities]",
@@ -263,9 +263,9 @@
 		"innerColor": [255,228,107],
 		"uniqueName": "Raid & Fire",
 		"uniques": ["Cities are razed [2] times as fast",
-			"[+30]% <vs [City-State]>",
+			"[+30]% Strength <vs [City-State]>",
 			"[+50]% [Production] [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <for [10] turns> <upon conquering a city> <hidden from users>",
-			"Comment [Gain a Production boost in all cities founded by you, when conquering a city"],
+			"Comment [Gain a Production boost in all cities founded by you, when conquering a city]"],
 		"cities": ["Ashur","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
@@ -436,7 +436,7 @@
 		"attacked": "This will not we forget! Infidel",
 		"defeated": "That's is imposible!",
 		"outerColor": [0,0,0],
-		"innerColor": [125,0,0],
+		"innerColor": [164,0,0],
 		"cities": ["Patmos"]
 	},
 	{
@@ -450,7 +450,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [32,32,194],
+		"innerColor": [32,32,232],
 		"cities": ["Shintilla"]
 	},
 	{
