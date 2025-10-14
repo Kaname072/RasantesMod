@@ -408,7 +408,8 @@
 		"outerColor": [0,173,162],
 		"innerColor": [255,191,0],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-95]% Culture cost of natural border growth [in all cities] <before the [Classical era]>",
+		"uniques": ["[-75]% Culture cost of natural border growth [in all cities] <before the [Classical era]>",
+			"Earn [25]% of the damage done to [Military] unit as [Culture]",
 			"Each city founded increases culture cost of policies [10]% less than normal",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Ymir"]
