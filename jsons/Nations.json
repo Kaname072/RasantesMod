@@ -27,7 +27,7 @@
 
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Cult of Rasantes",
+		"favoredReligion": "Rasantes Cult",
 		"uniqueName": "Last Apostle",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
 			"No damage penalty for wounded units <for [non-[Water]] units>",
@@ -349,7 +349,7 @@
 
 		"outerColor": [208,208,0],
 		"innerColor": [208,0,0],
-		"favoredReligion": "Cult of Rasantes",
+		"favoredReligion": "Rasantes Cult",
 		"uniqueName": "Assasin Squad",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
 			"Units ignore terrain costs when moving into any tile with Hills",
@@ -382,8 +382,6 @@
 		"favoredReligion": "Martyr",
 		"uniqueName": "The Magnanimous",
 		"uniques": ["[-50]% unhappiness from the number of cities",
-			"May buy items in puppet cities",
-			"May not annex cities",
 			"[+1 Faith] from every [Jungle]"],
 		"cities": ["Brasal","Amazon","Garden","Oasis","Grassna","Semba","Caju","Sambana"],
 	},
