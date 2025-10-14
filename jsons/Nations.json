@@ -88,6 +88,7 @@
 		"innerColor": [63,102,180],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+25]% Strength <for [Military] units> <when fighting in [Water] tiles>",
+			"May capture killed [Water] units",
 			"[+1] Sight <for [Embarked] units>",
 			"[{Military} {Land}] units gain the [Amphibious] promotion"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
@@ -389,7 +390,7 @@
 		"leaderName": "Junior013",
 		"adjective": ["primordian"],
 		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		"personality": "Junior013",
 
 		"startIntroPart1": "",
@@ -408,11 +409,11 @@
 		"outerColor": [0,173,162],
 		"innerColor": [255,191,0],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-75]% Culture cost of natural border growth [in all cities] <before the [Classical era]>",
-			"Earn [25]% of the damage done to [Military] unit as [Culture]",
-			"Each city founded increases culture cost of policies [10]% less than normal",
-			"\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Ymir"]
+		"uniques": ["[-50]% Culture cost of natural border growth [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <hidden from users>",
+			"Comment [-50% Culture cost of natural border in all founded cities]",
+			"Earn [25]% of the damage done to [Military] units as [Culture]",
+			"Each city founded increases culture cost of policies [10]% less than normal"],
+		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
 		"name": "Golden Wings",
