@@ -755,8 +755,8 @@
 		"uniques": ["[1] additional attacks per turn","[+25]% Strength <when stacked with a [Civilian] unit>"]
 	},
 	{
-		"name": "[Zero] ability",
-		"uniques": ["[+33]% Strength <vs [Fighter] units>"]
+		"name": "[Pacefull Warrior] ability",
+		"uniques": ["Double movement in [Jungle]","Double movement in [Forest","Can build [Road] improvements on tiles","Invisible to others <in [Jungle] tiles>","Invisible to others <in [Forest] tiles>"]
 	},
 	{
 		"name": "[Chu-Ko-Nu] ability",
