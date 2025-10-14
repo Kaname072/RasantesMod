@@ -726,8 +726,8 @@
 		"uniques": ["[+10] HP when healing"]
 	},
 	{
-		"name": "[Demonic Warrior] ability",
-		"uniques": ["[1] additional attacks per turn","No movement cost to pillage"]
+		"name": "[Beetle Warrior] ability",
+		"uniques": ["[+15]% Strength <vs [Melee] units>","[+33]% Strength <when defending> <vs [Ranged] units>","[+100]% Strength <when defending> <vs [Water] units>"]
 	},
 	{
 		"name": "[Pillager] ability",
