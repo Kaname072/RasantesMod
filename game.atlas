@@ -97,7 +97,7 @@ NationIcons/Eden
   index: -1
 NationIcons/Primordials
   rotate: false
-  xy: 300, 800
+  xy: 100, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -319,6 +319,13 @@ LeaderIcons/Junior777
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Junior013
+  rotate: false
+  xy: 1503, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Ares
   rotate: false
   xy: 223, 501
@@ -445,6 +452,13 @@ UnitIcons/Pacefull Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Beetle Warrior
+  rotate: false
+  xy: 1000, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Savage Imp
   rotate: false
   xy: 500, 900
@@ -476,6 +490,20 @@ UnitIcons/Simple Navi
 UnitIcons/Mermaid
   rotate: false
   xy: 900, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Goat Knight
+  rotate: false
+  xy: 1000, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hammerman
+  rotate: false
+  xy: 1100, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -823,6 +851,13 @@ TileSets/FantasyHex/Units/Goat Rider
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Hammerman
+  rotate: false
+  xy: 35, 932
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Bunny Scout
   rotate: false
   xy: 1335, 932
@@ -910,6 +945,13 @@ TileSets/FantasyHex/Units/White Corps
 TileSets/FantasyHex/Units/Extrator Robot
   rotate: false
   xy: 1835, 832
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pacefull Warrior
+  rotate: false
+  xy: 1835, 932
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
