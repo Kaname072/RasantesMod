@@ -64,7 +64,7 @@
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
-		"name": "Fishes",
+		"name": "Blop Empire",
 		"leaderName": "Lord Puff",
 		"adjective": ["mermaids"],
 		"startBias": ["Avoid [Desert]"],
@@ -87,8 +87,8 @@
 		"outerColor": [28,28,28],
 		"innerColor": [63,102,180],
 		"uniqueName": "Aquatic Supremacy",
-		"uniques": ["[+25]% Strength <for [Military] units> <when fighting in [Water] tiles>",
-			"[+25]% Production when constructing [Military] units [in all cities]",
+		"uniques": ["[+50]% Strength <for [Military] units> <when fighting in [Water] tiles>",
+			"May not annex cities",
 			"[{Military} {Land}] units gain the [Amphibious] promotion"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
 	},
@@ -383,7 +383,36 @@
 		"uniqueName": "The Magnanimous",
 		"uniques": ["[-50]% unhappiness from the number of cities",
 			"[+1 Faith] from every [Jungle]"],
-		"cities": ["Brasal","Amazon","Garden","Oasis","Grassna","Semba","Caju","Sambana"],
+		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
+	},
+	{
+		"name": "Primordials",
+		"leaderName": "Junior013",
+		"adjective": ["primordian"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Junior013",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The empire need's more land! I'll gonna put you in you're place!",
+		"attacked": "Huh? what you doing? Ok! that is you want!",
+		"defeated": "The death comes to me. I'm not afraid, this is the prophecy",
+		"introduction": "How?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You dont deserve nothing!",
+
+		"tradeRequest": "Give to me! Please!",
+
+		"outerColor": [0,0,216],
+		"innerColor": [216,216,0],
+		"uniqueName": "Growth of Empire",
+		"uniques": ["[-90]% Culture cost of natural border growth",
+			"Each city founded increases culture cost of policies [10]% less than normal",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Ymir"]
 	},
 	{
 		"name": "Golden Wings",
