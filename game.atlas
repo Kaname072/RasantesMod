@@ -683,7 +683,7 @@ UnitIcons/Night Flame
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Cult of Rasantes
+ReligionIcons/Rasantes Cult
   rotate: false
   xy: 200, 200
   size: 100, 100
@@ -762,147 +762,147 @@ TileSets/FantasyHex/Tiles/Extrator
   index: -1
 TileSets/FantasyHex/Tiles/Rasante Camp
   rotate: false
-  xy: 234, 934
+  xy: 232, 934
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Treehouse
   rotate: false
-  xy: 34, 634
+  xy: 32, 634
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Goat
   rotate: false
-  xy: 134, 1034
+  xy: 132, 1034
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 135, 933
+  xy: 135, 935
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 1133
+  xy: 135, 1135
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Junissary
   rotate: false
-  xy: 35, 833
+  xy: 35, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Goat Rasante
   rotate: false
-  xy: 135, 833
+  xy: 135, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Goat Rider
   rotate: false
-  xy: 435, 933
+  xy: 435, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bunny Scout
   rotate: false
-  xy: 1335, 933
+  xy: 1335, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cisplatinos
   rotate: false
-  xy: 1235, 933
+  xy: 1235, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monk
   rotate: false
-  xy: 1335, 833
+  xy: 1335, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Besorker
   rotate: false
-  xy: 1435, 933
+  xy: 1435, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Primitive Warrior
   rotate: false
-  xy: 1235, 833
+  xy: 1235, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Corps
   rotate: false
-  xy: 1435, 833
+  xy: 1435, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Swordsman
   rotate: false
-  xy: 1535, 833
+  xy: 1535, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Gunner
   rotate: false
-  xy: 1535, 933
+  xy: 1535, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Red Army
   rotate: false
-  xy: 1635, 933
+  xy: 1635, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Rifleman
   rotate: false
-  xy: 1635, 933
+  xy: 1635, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jack Infantry
   rotate: false
-  xy: 1735, 833
+  xy: 1735, 832
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/White Corps
   rotate: false
-  xy: 1735, 933
+  xy: 1735, 932
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Extrator Robot
   rotate: false
-  xy: 1835, 833
+  xy: 1835, 832
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
