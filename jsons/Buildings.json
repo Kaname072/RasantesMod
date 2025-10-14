@@ -285,8 +285,8 @@
 	},
 	{
 		"name": "Rayssa Temple",
-		"isWonder": true,
-		"faith": 6,
+		"cost": 125,
+		"faith": 1,
 		"requiredTech": "Theology",
 		"uniques": ["[+1 Faith] from [Grassland] tiles [in this city]","Must have an owned [Saint Rayssa] within [3] tiles"],
 	},
