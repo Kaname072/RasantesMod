@@ -343,13 +343,43 @@
 		"tradeRequest": "May respect for you. You can make this posible?",
 
 		"outerColor": [0,208,0],
-		"innerColor": [64,64,0],
+		"innerColor": [208,208,0],
 		"favoredReligion": "Cult of Rasantes",
 		"uniqueName": "Assasin Squad",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
 			"Units ignore terrain costs when moving into any tile with Hills",
 			"Free [Great General] appears <upon declaring war with a major Civilization>"],
 		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
+	},
+	{
+		"name": "Eden",
+		"leaderName": "Junior777",
+		"adjective": ["edenian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Junior777",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "This will hurt more in me",
+		"attacked": "I don't like this, this is not what you show to me!",
+		"defeated": "I forgive you.",
+		"introduction": "Peace for you people.",
+
+		"neutralHello": "Sun Never Sets",
+		"hateHello": "...",
+
+		"tradeRequest": "You can?",
+
+		"outerColor": [0,208,0],
+		"innerColor": [96,96,0],
+		"favoredReligion": "Martyr",
+		"uniqueName": "The Magnanimous",
+		"uniques": ["[+1 Faith] from every [Jungle]",
+			"May buy items in puppet cities",
+			"May not annex cities"],
+		"cities": ["Brasal","Amazon","Garden","Oasis","Grassna","Semba","Caju","Sambana"],
 	},
 	{
 		"name": "Golden Wings",
