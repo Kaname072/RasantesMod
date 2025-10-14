@@ -525,7 +525,7 @@
 		"obsoleteTech": "Astronomy",
 		"upgradesTo": "Caravel",
 		"promotions": ["Landing Party"],
-		"uniques": ["[-1] Sight <when in [Ocean] tiles>"],
+		"uniques": ["[-1] Sight <in [Ocean] tiles>"],
 		"attackSound": "elephant"
 	},
 	{
