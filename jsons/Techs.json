@@ -506,13 +506,13 @@
 			{
 				"name": "Electronics",
 				"row": 5,
-				"prerequisites": ["Replaceable Parts", "Flight"],
+				"prerequisites": ["Replaceable Parts", "Radio"],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
 			{
 				"name": "Ballistics",
 				"row": 6,
-				"prerequisites": ["Flight"],
+				"prerequisites": ["Replaceable Parts"],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
