@@ -105,9 +105,9 @@
 	{
 		"columnNumber": 3,
 		"era": "Modern era",
-		"techCost": 105,
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"techCost": 60,
+		"buildingCost": 90,
+		"wonderCost": 185,
 		"techs": [
 			{
 				"name": "Banking",
@@ -140,9 +140,9 @@
 	{
 		"columnNumber": 4,
 		"era": "Modern era",
-		"techCost": 125,
-		"buildingCost": 150,
-		"wonderCost": 300,
+		"techCost": 75,
+		"buildingCost": 110,
+		"wonderCost": 195,
 		"techs": [
 			{
 				"name": "Compass",
@@ -183,9 +183,9 @@
 	{
 		"columnNumber": 5,
 		"era": "Modern era",
-		"techCost": 150,
-		"buildingCost": 80,
-		"wonderCost": 200,
+		"techCost": 85,
+		"buildingCost": 125,
+		"wonderCost": 195,
 		"techs": [
 			{
 				"name": "Electronics",
@@ -209,9 +209,9 @@
 	{
 		"columnNumber": 6,
 		"era": "Modern era",
-		"techCost": 175,
-		"buildingCost": 80,
-		"wonderCost": 240,
+		"techCost": 105,
+		"buildingCost": 135,
+		"wonderCost": 220,
 		"techs": [
 			{
 				"name": "Navigation",
@@ -242,9 +242,9 @@
 	{
 		"columnNumber": 7,
 		"era": "Information era",
-		"techCost": 200,
-		"buildingCost": 100,
-		"wonderCost": 280,
+		"techCost": 120,
+		"buildingCost": 145,
+		"wonderCost": 235,
 		"techs": [
 			{
 				"name": "Robotics",
@@ -268,9 +268,9 @@
 	{
 		"columnNumber": 8,
 		"era": "Atomic era",
-		"techCost": 250,
-		"buildingCost": 120,
-		"wonderCost": 300,
+		"techCost": 135,
+		"buildingCost": 155,
+		"wonderCost": 235,
 		"techs": [
 			{
 				"name": "Satellites",
@@ -305,9 +305,9 @@
 	{
 		"columnNumber": 9,
 		"era": "Atomic era",
-		"techCost": 485,
-		"buildingCost": 160,
-		"wonderCost": 400,
+		"techCost": 155,
+		"buildingCost": 170,
+		"wonderCost": 250,
 		"techs": [
 			{
 				"name": "War Satellites",
@@ -327,9 +327,9 @@
 	{
 		"columnNumber": 10,
 		"era": "Future era",
-		"techCost": 450,
-		"buildingCost": 220,
-		"wonderCost": 360,
+		"techCost": 170,
+		"buildingCost": 190,
+		"wonderCost": 250,
 		"techs": [
 			{
 				"name": "Future Tech",
