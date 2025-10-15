@@ -88,7 +88,6 @@
 		"innerColor": [63,102,180],
 		"uniqueName": "Aquatic Supremacy",
 		"uniques": ["[+25]% Strength <for [Military] units> <when fighting in [Water] tiles>",
-			"May capture killed [Water] units",
 			"[+1] Sight <for [Embarked] units>",
 			"[{Military} {Land}] units gain the [Amphibious] promotion"],
 		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
@@ -232,8 +231,8 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["[1] Movement point cost to disembark <for [Land] units>",
-			"[1] Movement point cost to embark <for [Land] units>",
+		"uniques": ["[1] Movement point cost to disembark <for [All] units>",
+			"[1] Movement point cost to embark <for [All] units>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
