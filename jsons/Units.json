@@ -419,7 +419,7 @@
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 6,
+		"rangedStrength": 4,
 		"cost": 30,
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Archer",
