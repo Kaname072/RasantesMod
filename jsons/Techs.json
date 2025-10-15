@@ -117,86 +117,91 @@
 			},
 			{
 				"name": "Philosophy",
-				"row": 8,
-				"prerequisites": ["Mathematics","History"],
-			},
-			{
-				"name": "Music & Art",
 				"row": 9,
 				"prerequisites": ["History"],
 			},
 			{
+				"name": "Music & Art",
+				"row": 8,
+				"prerequisites": ["History"],
+			},
+			{
 				"name": "Rifling",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Iron Working","Mathematics"],
+			},
+			{
+				"name": "Metal Casting",
+				"row": 5,
+				"prerequisites": ["Iron Working"]
 			}
 		]
 	},
 	{
 		"columnNumber": 4,
 		"era": "Modern era",
-		"techCost": 105,
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"techCost": 125,
+		"buildingCost": 150,
+		"wonderCost": 300,
 		"techs": [
 			{
 				"name": "Compass",
 				"row": 2,
-				"prerequisites": ["Optics"],
+				"prerequisites": ["Optics","Rifling"],
                 "uniques": ["[+50]% weight to this choice for AI decisions","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
 			},
 			{
 				"name": "Enternement",
-				"row": 3,
+				"row": 8,
 				"prerequisites": ["Philosophy","Music & Art"]
 			},
 			{
 				"name": "Militatism",
-				"row": 4,
-				"prerequisites": ["Iron Working","Mathematics"],
+				"row": 6,
+				"prerequisites": ["Rifling"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Engineering",
-				"row": 6,
-				"prerequisites": ["Iron Working","Mathematics"],
+				"row": 5,
+				"prerequisites": ["Metal Casting"],
                 "uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Physics",
-				"row": 7,
-				"prerequisites": ["Mathematics"],
+				"row": 1,
+				"prerequisites": ["Construction"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 		    },
 			{
 				"name": "Cinema",
-				"row": 8,
-				"prerequisites": ["Economics"],
+				"row": 9,
+				"prerequisites": ["Music & Art"],
 			}
 		]
 	},
 	{
 		"columnNumber": 5,
 		"era": "Modern era",
-		"techCost": 105,
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"techCost": 150,
+		"buildingCost": 80,
+		"wonderCost": 200,
 		"techs": [
 			{
 				"name": "Electronics",
 				"row": 1,
-				"prerequisites": ["Construction"]
+				"prerequisites": ["Physics"]
 			},
 			{
 				"name": "Computers",
-				"row": 9,
-				"prerequisites": ["Iron Working","Mathematics"],
+				"row": 8,
+				"prerequisites": ["Metal Casting","Enternement"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Crystal Extracing",
 				"row": 5,
-				"prerequisites": ["Iron Working"],
+				"prerequisites": ["Metal Casting"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
@@ -205,41 +210,41 @@
 		"columnNumber": 6,
 		"era": "Modern era",
 		"techCost": 175,
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"buildingCost": 80,
+		"wonderCost": 240,
 		"techs": [
 			{
 				"name": "Navigation",
 				"row": 2,
-				"prerequisites": ["Compass","Physics"]
+				"prerequisites": ["Compass","Electronics"]
 			},
 			{
 				"name": "Scientific Theory",
-				"row": 3,
+				"row": 5,
 				"prerequisites": ["Physics","Computers"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Metallurgy",
-				"row": 6,
-				"prerequisites": ["Engineering"],
+				"row": 5,
+				"prerequisites": ["Crystal Extracing"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "The purple crystal shine now in your hands!"
 			},
 			{
 				"name": "Education",
 				"row": 7,
-				"prerequisites": ["Philosophy"],
+				"prerequisites": ["Computers"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 		]
 	},
 	{
 		"columnNumber": 7,
-		"era": "Classical era",
-		"techCost": 105,
+		"era": "Information era",
+		"techCost": 200,
 		"buildingCost": 100,
-		"wonderCost": 250,
+		"wonderCost": 280,
 		"techs": [
 			{
 				"name": "Robotics",
@@ -249,7 +254,7 @@
 			{
 				"name": "Lasers",
 				"row": 5,
-				"prerequisites": ["Scientific Theory","Crystal Extracing"],
+				"prerequisites": ["Scientific Theory"],
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
@@ -262,8 +267,8 @@
 	},
 	{
 		"columnNumber": 8,
-		"era": "Information era",
-		"techCost": 275,
+		"era": "Atomic era",
+		"techCost": 250,
 		"buildingCost": 120,
 		"wonderCost": 300,
 		"techs": [
@@ -275,24 +280,24 @@
 			{
 				"name": "Nuclear Fusion",
 				"row": 5,
-				"prerequisites": ["Scientific Theory","Lasers"],
+				"prerequisites": ["Lasers"],
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "War Spaceship",
 				"row": 7,
-				"prerequisites": ["Lasers","Metallurgy"]
+				"prerequisites": ["Metallurgy"]
 			},
 			{
 				"name": "Universalization",
 				"row": 8,
-				"prerequisites": ["Metallurgy","Education"],
+				"prerequisites": ["Robotics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Pharmaceuticals",
 				"row": 9,
-				"prerequisites": ["Scientific Theory","Biology"],
+				"prerequisites": ["Biology"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
