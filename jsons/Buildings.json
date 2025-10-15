@@ -263,7 +263,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
-		"requiredTech": "Gunpowder"
+		"requiredTech": "Rifling"
 	},
 
 	// Medieval Era
@@ -595,7 +595,7 @@
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity"
+		"requiredTech": "Electronics"
 	},
 	{
 		"name": "Hydro Plant",
@@ -708,7 +708,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredResource": "Uranium",
-		"requiredTech": "Nuclear Fission",
+		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Only available <in cities without a [Solar Plant]>"]
 	},
 	{
@@ -738,7 +738,7 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"percentStatBonus": {"production": 50},
 		"uniques": ["[2] free [Great Engineer] units appear","Consumes [8] [Aluminum]"],
-		"requiredTech": "War Satellites "
+		"requiredTech": "War Satellites"
 		"quote": "This sphere can make solar energy in energy for a solar system"
 	},
 	//Column 16
