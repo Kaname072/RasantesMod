@@ -6,8 +6,8 @@
 		"food": 1,
 		"turnsToBuild": 7,
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
-			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
-			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Irrigation]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Biology]>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
 	},
@@ -26,7 +26,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Metal Casting]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "M"
 	},
 	{
@@ -65,7 +65,7 @@
 		"name": "Pasture",
 		"turnsToBuild": 8,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["[+1 Food] <after discovering [Trapping]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
@@ -73,14 +73,14 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Irrigation",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["[+1 Food] <after discovering [Trapping]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
 		"name": "Quarry",
 		"turnsToBuild": 8,
 		"techRequired": "Iron Working",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Metal Casting]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "Q"
 	},
 	{
@@ -204,7 +204,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
 		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>",
-            "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built",
+            "[+2 Science] <after discovering [Scientific Theory]>", "Removes removable features when built",
             "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
@@ -218,7 +218,7 @@
 		"name": "Manufactory",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
-		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
+		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Metal Casting]>", "Will not be replaced by automated units",
             "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
@@ -267,7 +267,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mysticism",
-		"uniques": ["[+2 Culture] <after discovering [Civil Service]>","Pillaging this improvement yields approximately [+20 Gold]","Will not be replaced by automated units"]
+		"uniques": ["[+2 Culture] <after discovering [Theology]>","Pillaging this improvement yields approximately [+20 Gold]","Will not be replaced by automated units"]
 	},
 	
 	// Unbuildable improvements
