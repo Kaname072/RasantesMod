@@ -68,14 +68,19 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
-				"name": "Optics",
+				"name": "Trapping",
 				"row": 2,
+				"prerequisites": ["Animal Husbandry"],
+			},
+			{
+				"name": "Optics",
+				"row": 3,
 				"prerequisites": ["Irrigation"],
                 "uniques": ["[+100]% weight to this choice for AI decisions","Enables embarkation for land units"]
 			},
 			{
 				"name": "Theology",
-				"row": 3,
+				"row": 4,
 				"prerequisites": ["Mysticism"]
 			},
 			{
