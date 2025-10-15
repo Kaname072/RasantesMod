@@ -145,10 +145,10 @@
 		"wonderCost": 195,
 		"techs": [
 			{
-				"name": "Compass",
+				"name": "Electricity",
 				"row": 2,
-				"prerequisites": ["Optics","Rifling"],
-                "uniques": ["[+50]% weight to this choice for AI decisions","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
+				"prerequisites": ["Metal Casting"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Enternement",
@@ -156,7 +156,7 @@
 				"prerequisites": ["Philosophy","Music & Art"]
 			},
 			{
-				"name": "Militatism",
+				"name": "Militarism",
 				"row": 6,
 				"prerequisites": ["Metal Casting"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
@@ -170,7 +170,7 @@
 			{
 				"name": "Physics",
 				"row": 1,
-				"prerequisites": ["Construction"],
+				"prerequisites": ["Philosophy"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 		    },
 			{
@@ -193,9 +193,15 @@
 				"prerequisites": ["Physics"]
 			},
 			{
+				"name": "Compass",
+				"row": 2,
+				"prerequisites": ["Engineering"],
+                "uniques": ["[+50]% weight to this choice for AI decisions","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
+			},
+			{
 				"name": "Computers",
 				"row": 8,
-				"prerequisites": ["Metal Casting","Enternement"],
+				"prerequisites": ["Electricity"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
 			},
 			{
