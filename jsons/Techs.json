@@ -207,7 +207,7 @@
 			{
 				"name": "Rifling",
 				"row": 5,
-				"prerequisites": ["Militatism"],
+				"prerequisites": ["Militarism"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
