@@ -97,19 +97,46 @@
 				"name": "Economics",
 				"row": 7,
 				"prerequisites": ["Mining","Writing"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Mathematics",
+				"row": 8,
+				"prerequisites": ["Writing"],
+			},
+			{
+				"name": "History",
 				"row": 9,
 				"prerequisites": ["Writing"],
-				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			}
 		]
 	},
 	{
 		"columnNumber": 3,
+		"era": "Classical era",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Philosophy",
+				"row": 7,
+				"prerequisites": ["Mathematics","History"],
+			},
+			{
+				"name": "Music & Art",
+				"row": 9,
+				"prerequisites": ["History"],
+			},
+			{
+				"name": "Rifling",
+				"row": 5,
+				"prerequisites": ["Iron Working","Mathematics"],
+			}
+		]
+	},
+	{
+		"columnNumber": 4,
 		"era": "Classical era",
 		"techCost": 105,
 		"buildingCost": 100,
@@ -131,9 +158,9 @@
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
-				"name": "Philosophy",
+				"name": "Enternement",
 				"row": 3,
-				"prerequisites": ["Mathematics","Theology"],
+				"prerequisites": ["Philosophy","Music & Art"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
@@ -163,6 +190,11 @@
 				"prerequisites": ["Mathematics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			},
+			{
+				"name": "Cinema",
+				"row": 8,
+				"prerequisites": ["Economics"],
 			},
 			{
 				"name": "Computers",
@@ -219,6 +251,11 @@
 				"prerequisites": ["Philosophy"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			},
+			{
+				"name": "Banking",
+				"row": 8,
+				"prerequisites": ["Engineering","Crystal Extracing"],
 			},
 			{
 				"name": "Biology",
