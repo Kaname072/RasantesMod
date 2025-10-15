@@ -25,35 +25,30 @@
 				"name": "Animal Husbandry",
 				"row": 2,
 				"prerequisites": ["Spaceship"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Irrigation",
 				"row": 4,
-				"prerequisites": ["Spaceship"],
-				"quote": "'Thou shalt not muzzle the ox when he treadeth out the corn.' - Bible Deuteronomy 25:4"
+				"prerequisites": ["Spaceship"]
 			},
 			{
 				"name": "Mysticism",
 				"row": 6,
 				"prerequisites": ["Spaceship"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
-				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
+                "uniques": ["[-50]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Mining",
 				"row": 7,
 				"prerequisites": ["Spaceship"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Writing",
 				"row": 9,
 				"prerequisites": ["Spaceship"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
+                "uniques": ["[+100]% weight to this choice for AI decisions","Enables establishment of embassies"]
 			}
 
 		]
@@ -76,22 +71,18 @@
 				"name": "Optics",
 				"row": 2,
 				"prerequisites": ["Irrigation"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
+                "uniques": ["[+100]% weight to this choice for AI decisions","Enables embarkation for land units"]
 			},
 			{
 				"name": "Theology",
 				"row": 3,
-				"prerequisites": ["Mysticism"],
-                "uniques": ["Enables establishment of embassies"],
-				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
+				"prerequisites": ["Mysticism"]
 			},
 			{
 				"name": "Iron Working",
 				"row": 5,
 				"prerequisites": ["Mining"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Economics",
@@ -113,7 +104,7 @@
 	},
 	{
 		"columnNumber": 3,
-		"era": "Classical era",
+		"era": "Modern era",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -137,7 +128,7 @@
 	},
 	{
 		"columnNumber": 4,
-		"era": "Classical era",
+		"era": "Modern era",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -146,51 +137,43 @@
 				"name": "Electronics",
 				"cost": 85,
 				"row": 1,
-				"prerequisites": ["Construction"],
-				"uniques": ["Enables embarkation for land units"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+				"prerequisites": ["Construction"]
 			},
 			{
 				"name": "Compass",
 				"row": 2,
-				"prerequisites": ["Construction","Optics"],
-                "uniques": ["[+50]% weight to this choice for AI decisions"],
-				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+				"prerequisites": ["Optics"],
+                "uniques": ["[+50]% weight to this choice for AI decisions","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
 			},
 			{
 				"name": "Enternement",
 				"row": 3,
-				"prerequisites": ["Philosophy","Music & Art"],
-				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
+				"prerequisites": ["Philosophy","Music & Art"]
 			},
 			{
 				"name": "Militatism",
 				"row": 4,
 				"prerequisites": ["Iron Working","Mathematics"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Crystal Extracing",
 				"row": 5,
 				"prerequisites": ["Iron Working"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Engineering",
 				"row": 6,
 				"prerequisites": ["Iron Working","Mathematics"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Physics",
 				"row": 7,
 				"prerequisites": ["Mathematics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
-			},
+		    },
 			{
 				"name": "Cinema",
 				"row": 8,
@@ -200,14 +183,13 @@
 				"name": "Computers",
 				"row": 9,
 				"prerequisites": ["Iron Working","Mathematics"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
 	{
 		"columnNumber": 5,
-		"era": "Classical era",
+		"era": "Modern era",
 		"techCost": 175,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -215,28 +197,24 @@
 			{
 				"name": "Robotics",
 				"row": 1,
-				"prerequisites": ["Electronics","Computers"],
-				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+				"prerequisites": ["Electronics","Computers"]
 			},
 			{
 				"name": "Navigation",
 				"row": 2,
-				"prerequisites": ["Compass","Physics"],
-				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+				"prerequisites": ["Compass","Physics"]
 			},
 			{
 				"name": "Scientific Theory",
 				"row": 3,
 				"prerequisites": ["Physics","Computers"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Better is bread with a happy heart than wealth with vexation.' - Amenemope"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Lasers",
 				"row": 5,
 				"prerequisites": ["Engineering","Physics","Crystal Extracing"],
-				"uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"],
-				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Metallurgy",
@@ -249,8 +227,7 @@
 				"name": "Education",
 				"row": 7,
 				"prerequisites": ["Philosophy"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Banking",
@@ -261,14 +238,13 @@
 				"name": "Biology",
 				"row": 9,
 				"prerequisites": ["Physics"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
 	{
 		"columnNumber": 6,
-		"era": "Medieval era",
+		"era": "Information era",
 		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 300,
@@ -276,42 +252,36 @@
 			{
 				"name": "Satellites",
 				"row": 2,
-				"prerequisites": ["Robotics","Metallurgy"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				"prerequisites": ["Robotics","Metallurgy"]
 			},
 			{
 				"name": "Nuclear Fusion",
 				"row": 5,
 				"prerequisites": ["Scientific Theory","Lasers"],
-				"uniques": ["Enables Open Borders agreements","[+100]% weight to this choice for AI decisions"],
-				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "War Spaceship",
 				"row": 7,
-				"prerequisites": ["Lasers","Metallurgy"],
-				"uniques": ["Enables conversion of city production to [Gold]"],
-				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+				"prerequisites": ["Lasers","Metallurgy"]
 			},
 			{
 				"name": "Universalization",
 				"row": 8,
 				"prerequisites": ["Metallurgy","Education"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Pharmaceuticals",
 				"row": 9,
 				"prerequisites": ["Scientific Theory","Biology"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
 	{
 		"columnNumber": 7,
-		"era": "Medieval era",
+		"era": "Atomic era",
 		"techCost": 485,
 		"buildingCost": 160,
 		"wonderCost": 400,
@@ -321,15 +291,13 @@
 				"cost": 375,
 				"row": 1,
 				"prerequisites": ["Satellites","Nuclear Fusion"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
-				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
+                "uniques": ["[-50]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Nanotechnology",
 				"row": 3,
 				"prerequisites": ["Nuclear Fusion","Pharmaceuticals",],
-				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"],
-				"quote": "'Education is the best provision for old age.' - Aristotle"
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
