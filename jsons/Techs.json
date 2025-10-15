@@ -295,14 +295,14 @@
 			},
 			{
 				"name": "Universalization",
-				"row": 9,
+				"row": 8,
 				"prerequisites": ["Metallurgy","Education"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Pharmaceuticals",
-				"row": 5,
+				"row": 9,
 				"prerequisites": ["Scientific Theory","Biology"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
