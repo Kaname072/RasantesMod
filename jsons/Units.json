@@ -20,7 +20,7 @@
 		"unitType": "Civilian Water",
 		"movement": 4,
 		"cost": 30,
-		"requiredTech": "Sailing",
+		"requiredTech": "Optics",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
 	},
