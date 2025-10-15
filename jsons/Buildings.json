@@ -41,14 +41,14 @@
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiredTech": "Pottery"
+		"requiredTech": "Irrigation"
 	},
 	{
 		"name": "Shrine",
 		"faith": 1,
 		"cost": 40,
 		"maintenance": 1,
-		"requiredTech": "Pottery",
+		"requiredTech": "Mysticism",
 		"uniques": ["Only available <when religion is enabled>"]
 	},
 	{
@@ -70,7 +70,7 @@
 		"uniques": ["Must not be on [Plains]",
 			"[+1 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] from [Marble] tiles [in this city]"],
-		"requiredTech": "Calendar"
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Library",
@@ -84,7 +84,7 @@
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Trapping"
+		"requiredTech": "Animal Husbandry"
 	},
 	{
 		"name": "Water Mill",
@@ -93,14 +93,14 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [River]"],
-		"requiredTech": "The Wheel"
+		"requiredTech": "Irrigation"
 	},
 	{
 		"name": "Walls",
 		"cityStrength": 5,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
+		"requiredTech": "Construction",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -150,7 +150,7 @@
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Goat] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Mathematics"
 	},
 	{
 		"name": "Circus Maximus",
@@ -159,7 +159,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Courthouse",
@@ -183,7 +183,7 @@
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
 	},
 	{
@@ -212,7 +212,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Drama and Poetry"
+		"requiredTech": "Philosophy"
 	},
 	{
 		"name": "National Epic",
@@ -220,7 +220,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
-		"requiredTech": "Drama and Poetry"
+		"requiredTech": "Engineering"
 	},
 	{
 		"name": "Market",
@@ -228,7 +228,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Currency"
+		"requiredTech": "Economics"
 	},
 	{
 		"name": "Carrot Market",
@@ -239,7 +239,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Food] from [Plantation] tiles [in this city]", "Provides 1 extra copy of each improved luxury resource near this City"],
 		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Currency"
+		"requiredTech": "Economics"
 	},
 	{
 		"name": "Mint",
@@ -247,7 +247,7 @@
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
-		"requiredTech": "Currency"
+		"requiredTech": "Metallurgy"
 	},
 	{
 		"name": "Aqueduct",
@@ -263,7 +263,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
-		"requiredTech": "Crystal Extracing"
+		"requiredTech": "Gunpowder"
 	},
 
 	// Medieval Era
@@ -280,7 +280,7 @@
 		"name": "Altar",
 		"isWonder": true,
 		"faith": 6,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>"],
 	},
 	{
@@ -307,7 +307,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Guilds"
+		"requiredTech": "Education"
 	},
 	{
 		"name": "Workshop",
@@ -316,7 +316,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Physics"
 	},
     {
 		"name": "Golden Bunnies",
@@ -325,7 +325,7 @@
 		"culture": 4,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"hurryCostModifier": 25,
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Metallurgy",
 		"uniques": ["[+10]% growth [in all cities]"],
 	},
     {
@@ -333,7 +333,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
-		"requiredTech": "Metal Casting",
+		"requiredTech": "Engineering",
 		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"],
 	},
@@ -380,7 +380,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"requiredTech": "Chivalry",
+		"requiredTech": "Iron Working",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -392,7 +392,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"requiredTech": "Chivalry",
+		"requiredTech": "Iron Working",
 		"uniques": ["Destroyed when the city is captured"]
 	},
     {
@@ -403,7 +403,7 @@
 		"cityHealth": 25,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"hurryCostModifier": 30,
-		"requiredTech": "Chivalry",
+		"requiredTech": "Engineering",
 		"uniques": ["Gain a free [Castle] [in this city]"],
 	},
 	{
@@ -413,7 +413,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Machinery"
+		"requiredTech": "Metallurgy"
 	},
 	{
 		"name": "Armory",
@@ -421,14 +421,14 @@
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Steel"
+		"requiredTech": "Philosophy"
 	},
     {
 		"name": "King Achish Statue",
 		"isWonder": true,
 		"culture": 4,
 		"hurryCostModifier": 25,
-		"requiredTech": "Steel",
+		"requiredTech": "History",
 		"uniques": ["[+15]% Strength <for [Melee] units>"],
 	},
 
@@ -442,7 +442,7 @@
 		"percentStatBonus": {"science": 50},
 		"requiredBuilding": "Library",
 		"uniques": ["Must be next to [Mountain]"],
-		"requiredTech": "Astronomy"
+		"requiredTech": "Scientific Theory"
 	},
     {
 		"name": "Telescope",
@@ -450,7 +450,7 @@
 		"science": 8,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"hurryCostModifier": 25,
-		"requiredTech": "Astronomy",
+		"requiredTech": "Scientific Theory",
 		"uniques": ["Free Great Person"],
 	},
 	{
@@ -460,7 +460,7 @@
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-		"requiredTech": "Acoustics",
+		"requiredTech": "Music & Art",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -486,7 +486,7 @@
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
-		"requiredTech": "Printing Press"
+		"requiredTech": "Cinema"
 	},
 	// Column 8
 	{
@@ -505,7 +505,7 @@
 		"culture": 5,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Architecture"
+		"requiredTech": "Universalization"
 	},
 	{
 		"name": "Windmill",
@@ -546,7 +546,7 @@
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"requiredTech": "Archaeology",
+		"requiredTech": "History",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -569,7 +569,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
-		"requiredTech": "Industrialization"
+		"requiredTech": "Crystal Extracing"
 	},
 	{
 		"name": "Military Academy",
@@ -577,7 +577,7 @@
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Military Science"
+		"requiredTech": "Militatism"
 	},
 	// Column 10
 	{
@@ -603,7 +603,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 3,
 		"uniques": ["Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
-		"requiredTech": "Electricity"
+		"requiredTech": "Electronics"
 	},
     {
         "name": "Police Station",
@@ -612,7 +612,7 @@
         "hurryCostModifier": 10,
         "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
         "requiredBuilding": "Constabulary",
-        "requiredTech": "Electricity"
+        "requiredTech": "Electronics"
     },
 
 	// Modern Era
@@ -623,7 +623,7 @@
 		"happiness": 4,
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
-		"requiredTech": "Refrigeration"
+		"requiredTech": "Enternement"
 	},
 	{
 		"name": "Broadcast Tower",
@@ -631,7 +631,7 @@
 		"percentStatBonus": {"culture": 33},
 		"requiredBuilding": "Museum",
 		"maintenance": 3,
-		"requiredTech": "Radio",
+		"requiredTech": "Enternement",
 		"uniques": ["Destroyed when the city is captured"]
 	},
     {
@@ -646,7 +646,7 @@
 			"[-15]% enemy spy effectiveness [in this city]",
 			"Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city"],
-        "requiredTech": "Radio"
+        "requiredTech": "Enternement"
     },
 	{
 		"name": "Military Base",
@@ -654,7 +654,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
-		"requiredTech": "Replaceable Parts",
+		"requiredTech": "Pharmaceuticals",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	// Column 12
@@ -665,7 +665,7 @@
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Public School",
 		"maintenance": 3,
-		"requiredTech": "Plastics"
+		"requiredTech": "Pharmaceuticals"
 	},
 
 	// Atomic Era
@@ -692,13 +692,13 @@
 		"percentStatBonus": {"production": 15},
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
-		"requiredTech": "Ecology",
+		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Nuclear Plant]>"]
 	},
 	{
 		"name": "Recycling Center",
 		"maintenance": 3,
-		"requiredTech": "Ecology",
+		"requiredTech": "Scientific Theory",
 		"uniques": ["Provides [2] [Aluminum]","Limited to [5] per Civilization"]
 	},
 	{
@@ -727,7 +727,7 @@
 		"name": "Bomb Shelter",
 		"cost": 300,
 		"maintenance": 1,
-		"requiredTech": "Telecommunications",
+		"requiredTech": "Universalization",
 		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]",
 			"Damage to garrison from nuclear attacks [-75]% [in this city]",
 			"Only available <when nuclear weapons are enabled> <hidden from users>"]
@@ -738,7 +738,7 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"percentStatBonus": {"production": 50},
 		"uniques": ["[2] free [Great Engineer] units appear","Consumes [8] [Aluminum]"],
-		"requiredTech": "Particle Physics"
+		"requiredTech": "War Satellites "
 		"quote": "This sphere can make solar energy in energy for a solar system"
 	},
 	//Column 16
@@ -747,7 +747,7 @@
 		"isWonder": true,
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 2},
-		"requiredTech": "Globalization",
+		"requiredTech": "Universalization",
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion"],
 		"quote": "'In the history of all races in the universe, the Galaxies Union is a the best organization for all' - Junior777"
 	},
