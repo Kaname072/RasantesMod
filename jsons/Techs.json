@@ -140,12 +140,6 @@
 		"wonderCost": 250,
 		"techs": [
 			{
-				"name": "Electronics",
-				"cost": 85,
-				"row": 1,
-				"prerequisites": ["Construction"]
-			},
-			{
 				"name": "Compass",
 				"row": 2,
 				"prerequisites": ["Optics"],
@@ -160,12 +154,6 @@
 				"name": "Militatism",
 				"row": 4,
 				"prerequisites": ["Iron Working","Mathematics"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Crystal Extracing",
-				"row": 5,
-				"prerequisites": ["Iron Working"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
@@ -184,17 +172,37 @@
 				"name": "Cinema",
 				"row": 8,
 				"prerequisites": ["Economics"],
+			}
+		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Modern era",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Electronics",
+				"row": 1,
+				"prerequisites": ["Construction"]
 			},
 			{
 				"name": "Computers",
 				"row": 9,
 				"prerequisites": ["Iron Working","Mathematics"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"name": "Crystal Extracing",
+				"row": 5,
+				"prerequisites": ["Iron Working"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Modern era",
 		"techCost": 175,
 		"buildingCost": 100,
@@ -227,7 +235,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Classical era",
 		"techCost": 105,
 		"buildingCost": 100,
@@ -253,7 +261,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Information era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -290,7 +298,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Atomic era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -312,7 +320,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Future era",
 		"techCost": 450,
 		"buildingCost": 220,
