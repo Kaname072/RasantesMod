@@ -206,7 +206,7 @@
 		]
 	},
 	{
-		"columnNumber": 4,
+		"columnNumber": 5,
 		"era": "Classical era",
 		"techCost": 175,
 		"buildingCost": 100,
@@ -267,7 +267,7 @@
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -310,7 +310,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Medieval era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -334,7 +334,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Future era",
 		"techCost": 450,
 		"buildingCost": 220,
