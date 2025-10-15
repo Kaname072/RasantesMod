@@ -541,7 +541,7 @@
 	// Column 9
 	{
 		"name": "Museum",
-		"culture": 5,
+		"culture": 3,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
@@ -569,7 +569,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
-		"requiredTech": "Crystal Extracing"
+		"requiredTech": "Metal Casting"
 	},
 	{
 		"name": "Military Academy",
@@ -577,7 +577,7 @@
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Militatism"
+		"requiredTech": "Militarism"
 	},
 	// Column 10
 	{
@@ -603,7 +603,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 3,
 		"uniques": ["Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
-		"requiredTech": "Electronics"
+		"requiredTech": "Electricity"
 	},
     {
         "name": "Police Station",
@@ -612,7 +612,7 @@
         "hurryCostModifier": 10,
         "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
         "requiredBuilding": "Constabulary",
-        "requiredTech": "Electronics"
+        "requiredTech": "Electricity"
     },
 
 	// Modern Era
