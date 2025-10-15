@@ -201,11 +201,6 @@
 		"wonderCost": 250,
 		"techs": [
 			{
-				"name": "Robotics",
-				"row": 1,
-				"prerequisites": ["Electronics","Computers"]
-			},
-			{
 				"name": "Navigation",
 				"row": 2,
 				"prerequisites": ["Compass","Physics"]
@@ -215,12 +210,6 @@
 				"row": 3,
 				"prerequisites": ["Physics","Computers"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Lasers",
-				"row": 5,
-				"prerequisites": ["Engineering","Physics","Crystal Extracing"],
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Metallurgy",
@@ -235,16 +224,36 @@
 				"prerequisites": ["Philosophy"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
+		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "Classical era",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Robotics",
+				"row": 6,
+				"prerequisites": ["Metallurgy"]
+			},
+			{
+				"name": "Lasers",
+				"row": 5,
+				"prerequisites": ["Scientific Theory","Crystal Extracing"],
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
+			},
 			{
 				"name": "Biology",
-				"row": 9,
-				"prerequisites": ["Physics"],
+				"row": 7,
+				"prerequisites": ["Education"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Information era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -281,7 +290,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Atomic era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -303,7 +312,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Future era",
 		"techCost": 450,
 		"buildingCost": 220,
