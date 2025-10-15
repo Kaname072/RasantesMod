@@ -227,13 +227,13 @@
 			{
 				"name": "Scientific Theory",
 				"row": 5,
-				"prerequisites": ["Physics","Computers"],
+				"prerequisites": ["Computers"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Metallurgy",
 				"row": 6,
-				"prerequisites": ["Crystal Extracing"],
+				"prerequisites": ["Rifling"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "The purple crystal shine now in your hands!"
 			},
@@ -273,7 +273,7 @@
 	},
 	{
 		"columnNumber": 8,
-		"era": "Atomic era",
+		"era": "Future era",
 		"techCost": 135,
 		"buildingCost": 155,
 		"wonderCost": 235,
@@ -281,7 +281,7 @@
 			{
 				"name": "Satellites",
 				"row": 2,
-				"prerequisites": ["Robotics","Metallurgy"]
+				"prerequisites": ["Robotics"]
 			},
 			{
 				"name": "Nuclear Fusion",
@@ -292,7 +292,7 @@
 			{
 				"name": "War Spaceship",
 				"row": 7,
-				"prerequisites": ["Metallurgy"]
+				"prerequisites": ["Lasers","Robotics"]
 			},
 			{
 				"name": "Universalization",
@@ -310,7 +310,7 @@
 	},
 	{
 		"columnNumber": 9,
-		"era": "Atomic era",
+		"era": "Future era",
 		"techCost": 155,
 		"buildingCost": 170,
 		"wonderCost": 250,
