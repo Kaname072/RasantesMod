@@ -6,14 +6,14 @@
   },
   {
 	    "name": "Rasantes",
-		"leaderName": "Junior346",
+		"leaderName": "Junior*46",
 		"adjective": ["rasante"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
-		"personality": "Junior346",
+		"personality": "Junior*46",
 
-		"startIntroPart1": "In Andromeda, the Rasantes tribe (or religion) birth to make the Universe our colony. In the name of the Great Prophet 346th, The Rasantes dominated every planet in Via Lactea, enslaved and destroyed every race or empire when attacking the truly religion",
-		"startIntroPart2": "Great Prophet 346th, you can make this nation great again?",
+		"startIntroPart1": "In Andromeda, a tribe united with an Empire. Led by that Empire's general, the Rasantes are a cult dedicated to radical monotheism, with the great Junior*46, or 'The Apostle', dominating several races in various galaxies throughout the universe.",
+		"startIntroPart2": "Great prophet! Are you capable of creating the great divine Empire of the Rasantes?",
 
 		"declaringWar": "You heresy and blasfemous nation will fall!",
 		"attacked": "I dont forget this!",
@@ -29,9 +29,9 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Rasantes Cult",
 		"uniqueName": "Last Apostle",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
-			"No damage penalty for wounded units <for [non-[Water]] units>",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
+		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
+			"Receive triple Gold from Barbarian encampments and pillaging Cities",
+		    "[+1 Faith] [in all cities]"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -58,7 +58,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Imperialism",
-		"uniques": ["[+50]% [Science] [in all cities] <during a Golden Age>",
+		"uniques": ["[+30]% [Science] [in all cities] <during a Golden Age>",
 		"When declaring friendship, both parties gain a [10]% boost to great person generation",
 		"[+1] Movement <for [Gunpowder] units>"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
@@ -231,8 +231,8 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["[1] Movement point cost to disembark <for [All] units>",
-			"[1] Movement point cost to embark <for [All] units>",
+		"uniques": ["[0] Movement point cost to embark <for [All] units>",
+			"[+1] Movement <for [All] units> <in [Water] tiles>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
@@ -262,7 +262,7 @@
 		"uniqueName": "Raid & Fire",
 		"uniques": ["Cities are razed [2] times as fast",
 			"[+30]% Strength <vs [City-State]>",
-			"[+50]% [Production] [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <for [10] turns> <upon conquering a city> <hidden from users>",
+			"[+60]% [Production] [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <for [10] turns> <upon conquering a city> <hidden from users>",
 			"Comment [Gain a Production boost in all cities founded by you, when conquering a city]"],
 		"cities": ["Ashur","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
@@ -320,9 +320,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Hard Discipline",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
-			"[Great General] is earned [50]% faster",
-			"\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Ultimato"]
+			"[Great General] is earned [50]% faster"],
+		"cities": ["Ultimato","Darkhand","Nonmoon","Lordd","Yllzor","Zrhim","Blackout","Burnink","Unshine"]
 	},
 	{
 		"name": "Lizardinia",
@@ -351,7 +350,7 @@
 		"uniqueName": "Assasin Squad",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
 			"Units ignore terrain costs when moving into any tile with Hills",
-			"No movement cost to pillage <for [Melee] units>"],
+			"[-66]% maintenance costs <for [Sword] units>"],
 		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
@@ -379,9 +378,7 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["[-25]% unhappiness from the number of cities",
-			"[+1 Happiness] from every [Forest]",
-			"[+2 Happiness] from every [Jungle]"],
+		"uniques": ["[-50]% unhappiness from the number of cities"]
 		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
 	},
 	{
@@ -408,8 +405,7 @@
 		"outerColor": [4,134,125],
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-50]% Culture cost of natural border growth [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <hidden from users>",
-			"Comment [-50% Culture cost of natural border in all founded cities]",
+		"uniques": ["[+2 Culture] [in all cities]",
 			"Earn [25]% of the damage done to [Military] units as [Culture]",
 			"Each city founded increases culture cost of policies [10]% less than normal"],
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
