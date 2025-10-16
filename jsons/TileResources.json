@@ -132,7 +132,7 @@
 	{
 		"name": "Coal",
 		"resourceType": "Strategic",
-		"revealedBy": "Metallurgy",
+		"revealedBy": "Industrialization",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
@@ -425,7 +425,7 @@
 					"Generated near City States with weight [15]"]
 	},
 	{
-		"name": "Cocoa",
+		"name": "Lizardos Egg",
 		"resourceType": "Luxury",
 		"food": 1,
 		"gold": 1,
