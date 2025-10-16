@@ -16,7 +16,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Colonization era",
+		"era": "Ancient era",
 		"techCost": 50,
 		"buildingCost": 80,
 		"wonderCost": 220,
@@ -55,7 +55,7 @@
 	},
 	{
 		"columnNumber": 2,
-		"era": "Colonization era",
+		"era": "Medieval era",
 		"techCost": 75,
 		"buildingCost": 80,
 		"wonderCost": 220,
@@ -109,7 +109,7 @@
 	},
 	{
 		"columnNumber": 3,
-		"era": "Modern era",
+		"era": "Medieval era",
 		"techCost": 125,
 		"buildingCost": 100,
 		"wonderCost": 240,
