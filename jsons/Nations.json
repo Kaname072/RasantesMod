@@ -169,8 +169,8 @@
 
 		"tradeRequest": "You look need this.",
 
-		"outerColor": [255,217,242],
-		"innerColor": [255,104,179],
+		"outerColor": [255,224,244],
+		"innerColor": [207,86,146],
 		"uniqueName": "People Pride",
 		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>",
 		"[+1] Movement <for [All] units> <during a Golden Age>",
@@ -405,8 +405,8 @@
 
 		"tradeRequest": "Give to me! Please!",
 
-		"outerColor": [0,173,162],
-		"innerColor": [255,191,0],
+		"outerColor": [4,134,125],
+		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Culture cost of natural border growth [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <hidden from users>",
 			"Comment [-50% Culture cost of natural border in all founded cities]",
@@ -463,7 +463,7 @@
 		"attacked": "This will not we forget! Infidel",
 		"defeated": "That's is imposible!",
 		"outerColor": [0,0,0],
-		"innerColor": [164,0,0],
+		"innerColor": [177,38,38],
 		"cities": ["Patmos"]
 	},
 	{
@@ -477,7 +477,7 @@
 		"defeated": "The goddess will remember this!",
 
 		"outerColor": [0,0,0],
-		"innerColor": [32,32,232],
+		"innerColor": [65,65,235],
 		"cities": ["Shintilla"]
 	},
 	{
