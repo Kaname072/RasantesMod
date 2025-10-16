@@ -62,7 +62,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 40,
-		"obsoleteTech": "Crystal Extracing",
+		"obsoleteTech": "Crystal Working",
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
 	},
@@ -74,7 +74,7 @@
 		"movement": 2,
 		"strength": 8,
 	 	"cost": 40,
-		"obsoleteTech": "Crystal Extracing",
+		"obsoleteTech": "Crystal Working",
 		"promotions": ["Ork Instinct"],
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
@@ -87,7 +87,7 @@
 		"movement": 2,
 		"strength": 6,
 		"cost": 40,
-		"obsoleteTech": "Crystal Extracing",
+		"obsoleteTech": "Crystal Working",
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
 	},
@@ -99,7 +99,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 40,
-		"obsoleteTech": "Crystal Extracing",
+		"obsoleteTech": "Crystal Working",
 		"upgradesTo": "Laser Swordsman",
 		"uniques": ["Can build [Road] improvements on tiles"],
 		"promotions": ["[Pacefull Warrior] ability"],
@@ -113,7 +113,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 40,
-		"obsoleteTech": "Crystal Extracing",
+		"obsoleteTech": "Crystal Working",
 		"upgradesTo": "Laser Swordsman",
 		"promotions": ["[Beetle Warrior] ability"],
 		"attackSound": "metalhit"
@@ -125,7 +125,7 @@
 		"strength": 13,
 		"cost": 60,
 		"obsoleteTech": "Rifling",
-		"requiredTech": "Crystal Extracing",
+		"requiredTech": "Crystal Working",
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
 		"attackSound": "metalhit"
@@ -139,7 +139,7 @@
 		"strength": 13,
 		"cost": 60,
 		"obsoleteTech": "Rifling",
-		"requiredTech": "Crystal Extracing",
+		"requiredTech": "Crystal Working",
 		"uniques": ["Can move after attacking"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
@@ -154,7 +154,7 @@
 		"strength": 13,
 		"cost": 60,
 		"obsoleteTech": "Rifling",
-		"requiredTech": "Crystal Extracing",
+		"requiredTech": "Crystal Working",
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
 		"attackSound": "metalhit"
