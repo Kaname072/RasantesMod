@@ -116,7 +116,7 @@
 			{
 				"name": "Chivalry",
 				"row": 2,
-				"prerequisites": ["Tradition"],
+				"prerequisites": ["Trapping"],
 			},
 			{
 				"name": "Construction",
