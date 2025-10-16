@@ -180,7 +180,7 @@
 			{
 				"name": "Militarism",
 				"row": 6,
-				"prerequisites": ["Militarism"],
+				"prerequisites": ["Chivalry"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
