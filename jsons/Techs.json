@@ -61,11 +61,10 @@
 		"wonderCost": 220,
 		"techs": [
 			{
-				"name": "Construction",
+				"name": "Mansory",
 				"row": 1,
 				"prerequisites": ["Animal Husbandry","Irrigation"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Trapping",
@@ -115,9 +114,19 @@
 		"wonderCost": 240,
 		"techs": [
 			{
+				"name": "Chivalry",
+				"row": 2,
+				"prerequisites": ["Tradition"],
+			},
+			{
+				"name": "Construction",
+				"row": 1,
+				"prerequisites": ["Mansory"],
+			},
+			{
 				"name": "Fertilizer",
 				"row": 3,
-				"prerequisites": ["Trapping"],
+				"prerequisites": ["Optics"],
 			},
 			{
 				"name": "Banking",
@@ -180,7 +189,7 @@
 			{
 				"name": "Physics",
 				"row": 1,
-				"prerequisites": ["Philosophy"],
+				"prerequisites": ["Construction"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 		    },
 			{
@@ -263,6 +272,11 @@
 		"wonderCost": 350,
 		"techs": [
 			{
+				"name": "Astronomy",
+				"row": 2,
+				"prerequisites": ["Navigation"],
+			},
+			{
 				"name": "Robotics",
 				"row": 6,
 				"prerequisites": ["Metallurgy"]
@@ -291,7 +305,7 @@
 			{
 				"name": "Satellites",
 				"row": 2,
-				"prerequisites": ["Robotics"]
+				"prerequisites": ["Astronomy"]
 			},
 			{
 				"name": "Nuclear Fusion",
