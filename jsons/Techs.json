@@ -61,7 +61,7 @@
 		"wonderCost": 220,
 		"techs": [
 			{
-				"name": "Mansory",
+				"name": "Masonry",
 				"row": 1,
 				"prerequisites": ["Animal Husbandry","Irrigation"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
@@ -84,6 +84,7 @@
 			},
 			{
 				"name": "Iron Working",
+				"cost": 100,
 				"row": 5,
 				"prerequisites": ["Mining"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
@@ -115,6 +116,7 @@
 		"techs": [
 			{
 				"name": "Chivalry",
+				"cost": 200,
 				"row": 2,
 				"prerequisites": ["Trapping"],
 			},
@@ -125,6 +127,7 @@
 			},
 			{
 				"name": "Fertilizer",
+				"cost": 320,
 				"row": 3,
 				"prerequisites": ["Optics"],
 			},
@@ -225,6 +228,7 @@
 			},
 			{
 				"name": "Rifling",
+				"cost": 350,
 				"row": 5,
 				"prerequisites": ["Militarism"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
@@ -251,6 +255,7 @@
 			},
 			{
 				"name": "Metallurgy",
+				"cost": 475,
 				"row": 6,
 				"prerequisites": ["Rifling"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
@@ -335,23 +340,27 @@
 	{
 		"columnNumber": 9,
 		"era": "Future era",
-		"techCost": 675,
+		"techCost": 750,
 		"buildingCost": 250,
 		"wonderCost": 400,
 		"techs": [
 			{
 				"name": "War Satellites",
-				"cost": 375,
-				"row": 1,
+				"row": 2,
 				"prerequisites": ["Satellites","Nuclear Fusion"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Nanotechnology",
-				"row": 3,
+				"row": 4,
 				"prerequisites": ["Nuclear Fusion","Pharmaceuticals",],
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
-			}
+			},
+			{
+				"name": "Particle Physics",
+				"row": 6,
+				"prerequisites": ["War Satellites","Universalization"],
+			},
 		]
 	},
 	{
