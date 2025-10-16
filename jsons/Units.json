@@ -547,7 +547,7 @@
 		"cost": 120,
 		"requiredTech": "Compass",
 		"upgradesTo": "Destroyer",
-		"obsoleteTech": "Navigation",
+		"obsoleteTech": "Astronomy",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
