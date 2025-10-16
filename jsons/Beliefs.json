@@ -28,11 +28,6 @@
         // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
     },
     {
-        "name": "War to Infidels",
-        "type": "Pantheon",
-        "uniques": ["[+10]% Strength <vs [Barbarians]>"]
-    },
-    {
         "name": "High Sky God",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Mountain]"]
