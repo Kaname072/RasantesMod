@@ -174,20 +174,25 @@
 			},
 			{
 				"name": "Enternement",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Philosophy","Music & Art"]
 			},
 			{
 				"name": "Militarism",
-				"row": 6,
+				"row": 5,
 				"prerequisites": ["Chivalry"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Engineering",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Metal Casting"],
                 "uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"name": "Crystal Working",
+				"row": 7,
+				"prerequisites": ["Crystal Extracing","Banking"],
 			},
 			{
 				"name": "Physics",
@@ -235,7 +240,7 @@
 				"name": "Rifling",
 				"cost": 350,
 				"row": 5,
-				"prerequisites": ["Militarism"],
+				"prerequisites": ["Militarism","Crystal Working"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
@@ -269,7 +274,7 @@
 			{
 				"name": "Education",
 				"row": 7,
-				"prerequisites": ["Computers"],
+				"prerequisites": ["Computers","Civil Service"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 		]
