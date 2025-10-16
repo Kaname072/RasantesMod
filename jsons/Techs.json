@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Colonization era",
+		"era": "Renaissance era",
 		"techCost": 20,
 		"buildingCost": 40,
 		"wonderCost": 185,
@@ -16,7 +16,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Ancient era",
+		"era": "Renaissance era",
 		"techCost": 50,
 		"buildingCost": 80,
 		"wonderCost": 220,
