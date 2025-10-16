@@ -17,7 +17,7 @@
 	{
 		"columnNumber": 1,
 		"era": "Colonization era",
-		"techCost": 40,
+		"techCost": 50,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -56,7 +56,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Colonization era",
-		"techCost": 50,
+		"techCost": 75,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -110,10 +110,15 @@
 	{
 		"columnNumber": 3,
 		"era": "Modern era",
-		"techCost": 80,
+		"techCost": 125,
 		"buildingCost": 100,
 		"wonderCost": 240,
 		"techs": [
+			{
+				"name": "Fertilizer",
+				"row": 3,
+				"prerequisites": ["Trapping"],
+			},
 			{
 				"name": "Banking",
 				"row": 7,
@@ -145,7 +150,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Modern era",
-		"techCost": 120,
+		"techCost": 200,
 		"buildingCost": 120,
 		"wonderCost": 275,
 		"techs": [
@@ -188,7 +193,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Modern era",
-		"techCost": 150,
+		"techCost": 275,
 		"buildingCost": 150,
 		"wonderCost": 300,
 		"techs": [
@@ -220,7 +225,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Modern era",
-		"techCost": 175,
+		"techCost": 325,
 		"buildingCost": 175,
 		"wonderCost": 325,
 		"techs": [
@@ -253,7 +258,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Information era",
-		"techCost": 200,
+		"techCost": 450,
 		"buildingCost": 200,
 		"wonderCost": 350,
 		"techs": [
@@ -279,7 +284,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Future era",
-		"techCost": 225,
+		"techCost": 525,
 		"buildingCost": 225,
 		"wonderCost": 375,
 		"techs": [
@@ -316,7 +321,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Future era",
-		"techCost": 250,
+		"techCost": 675,
 		"buildingCost": 250,
 		"wonderCost": 400,
 		"techs": [
@@ -338,7 +343,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Future era",
-		"techCost": 275,
+		"techCost": 725,
 		"buildingCost": 275,
 		"wonderCost": 425,
 		"techs": [
