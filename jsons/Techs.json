@@ -127,7 +127,7 @@
 			},
 			{
 				"name": "Fertilizer",
-				"cost": 320,
+				"cost": 250,
 				"row": 3,
 				"prerequisites": ["Optics"],
 			},
@@ -359,7 +359,7 @@
 			{
 				"name": "Particle Physics",
 				"row": 6,
-				"prerequisites": ["War Satellites","Universalization"],
+				"prerequisites": ["War Spaceship","Universalization"],
 			},
 		]
 	},
@@ -373,7 +373,7 @@
 			{
 				"name": "Future Tech",
 				"row": 5,
-				"prerequisites": ["Nanotechnology","War Satellites"],
+				"prerequisites": ["Nanotechnology","War Satellites","Particle Physics"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
