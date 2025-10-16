@@ -17,9 +17,9 @@
 	{
 		"columnNumber": 1,
 		"era": "Colonization era",
-		"techCost": 35,
-		"buildingCost": 60,
-		"wonderCost": 185,
+		"techCost": 40,
+		"buildingCost": 80,
+		"wonderCost": 220,
 		"techs": [
 			{
 				"name": "Animal Husbandry",
@@ -56,9 +56,9 @@
 	{
 		"columnNumber": 2,
 		"era": "Colonization era",
-		"techCost": 55,
-		"buildingCost": 75,
-		"wonderCost": 185,
+		"techCost": 50,
+		"buildingCost": 80,
+		"wonderCost": 220,
 		"techs": [
 			{
 				"name": "Construction",
@@ -110,9 +110,9 @@
 	{
 		"columnNumber": 3,
 		"era": "Modern era",
-		"techCost": 60,
-		"buildingCost": 90,
-		"wonderCost": 185,
+		"techCost": 80,
+		"buildingCost": 100,
+		"wonderCost": 240,
 		"techs": [
 			{
 				"name": "Banking",
@@ -145,9 +145,9 @@
 	{
 		"columnNumber": 4,
 		"era": "Modern era",
-		"techCost": 75,
-		"buildingCost": 110,
-		"wonderCost": 195,
+		"techCost": 120,
+		"buildingCost": 120,
+		"wonderCost": 275,
 		"techs": [
 			{
 				"name": "Electricity",
@@ -188,9 +188,9 @@
 	{
 		"columnNumber": 5,
 		"era": "Modern era",
-		"techCost": 85,
-		"buildingCost": 125,
-		"wonderCost": 195,
+		"techCost": 150,
+		"buildingCost": 150,
+		"wonderCost": 300,
 		"techs": [
 			{
 				"name": "Electronics",
@@ -220,9 +220,9 @@
 	{
 		"columnNumber": 6,
 		"era": "Modern era",
-		"techCost": 105,
-		"buildingCost": 135,
-		"wonderCost": 220,
+		"techCost": 175,
+		"buildingCost": 175,
+		"wonderCost": 325,
 		"techs": [
 			{
 				"name": "Navigation",
@@ -253,9 +253,9 @@
 	{
 		"columnNumber": 7,
 		"era": "Information era",
-		"techCost": 120,
-		"buildingCost": 145,
-		"wonderCost": 235,
+		"techCost": 200,
+		"buildingCost": 200,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Robotics",
@@ -279,9 +279,9 @@
 	{
 		"columnNumber": 8,
 		"era": "Future era",
-		"techCost": 135,
-		"buildingCost": 155,
-		"wonderCost": 235,
+		"techCost": 225,
+		"buildingCost": 225,
+		"wonderCost": 375,
 		"techs": [
 			{
 				"name": "Satellites",
@@ -316,9 +316,9 @@
 	{
 		"columnNumber": 9,
 		"era": "Future era",
-		"techCost": 155,
-		"buildingCost": 170,
-		"wonderCost": 250,
+		"techCost": 250,
+		"buildingCost": 250,
+		"wonderCost": 400,
 		"techs": [
 			{
 				"name": "War Satellites",
@@ -338,9 +338,9 @@
 	{
 		"columnNumber": 10,
 		"era": "Future era",
-		"techCost": 170,
-		"buildingCost": 190,
-		"wonderCost": 250,
+		"techCost": 275,
+		"buildingCost": 275,
+		"wonderCost": 425,
 		"techs": [
 			{
 				"name": "Future Tech",
