@@ -1,7 +1,7 @@
 [
     {
         "name": "Diplomacy",
-        "era": "Colonization era",
+        "era": "Renaissance era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -161,7 +161,7 @@
     },
     {
         "name": "Domination",
-        "era": "Colonization era",
+        "era": "Rennaisance era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
