@@ -169,7 +169,7 @@
 			{
 				"name": "Electricity",
 				"row": 2,
-				"prerequisites": ["Metal Casting"],
+				"prerequisites": ["Fertilizer"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"]
 			},
 			{
@@ -180,7 +180,7 @@
 			{
 				"name": "Militarism",
 				"row": 6,
-				"prerequisites": ["Metal Casting"],
+				"prerequisites": ["Militarism"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
@@ -194,12 +194,7 @@
 				"row": 1,
 				"prerequisites": ["Construction"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
-		    },
-			{
-				"name": "Cinema",
-				"row": 9,
-				"prerequisites": ["Music & Art"],
-			}
+		    }
 		]
 	},
 	{
@@ -221,10 +216,20 @@
                 "uniques": ["[+50]% weight to this choice for AI decisions","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
 			},
 			{
+				"name": "Industrialization",
+				"row": 7,
+				"prerequisites": ["Electricity","Physics"],
+			},
+			{
 				"name": "Computers",
 				"row": 8,
 				"prerequisites": ["Electricity"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"name": "Civil Service",
+				"row": 9,
+				"prerequisites": ["Enternement"]
 			},
 			{
 				"name": "Rifling",
@@ -257,7 +262,7 @@
 				"name": "Metallurgy",
 				"cost": 475,
 				"row": 6,
-				"prerequisites": ["Rifling"],
+				"prerequisites": ["Rifling","Industrialization"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "The purple crystal shine now in your hands!"
 			},
@@ -271,7 +276,7 @@
 	},
 	{
 		"columnNumber": 7,
-		"era": "Information era",
+		"era": "Future era",
 		"techCost": 450,
 		"buildingCost": 200,
 		"wonderCost": 350,
