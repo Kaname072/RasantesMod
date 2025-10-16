@@ -125,7 +125,7 @@
 		"science": 6,
 		"maintenance": 1,
 		"greatPersonPoints": {"Great Scientist": 1},
-		"requiredTech": "Construction",
+		"requiredTech": "Philosophy",
 		"uniques": ["Free Technology"],
 	},
 
@@ -150,7 +150,7 @@
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Goat] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
-		"requiredTech": "Mathematics"
+		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Circus Maximus",
@@ -159,7 +159,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Construction"
+		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Courthouse",
@@ -247,7 +247,7 @@
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
-		"requiredTech": "Metallurgy"
+		"requiredTech": "Metal Casting"
 	},
 	{
 		"name": "Aqueduct",
@@ -307,7 +307,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Education"
+		"requiredTech": "Banking"
 	},
 	{
 		"name": "Workshop",
@@ -333,7 +333,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
-		"requiredTech": "Engineering",
+		"requiredTech": "Metal Casting",
 		"uniques": ["[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"],
 	},
@@ -380,7 +380,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"requiredTech": "Iron Working",
+		"requiredTech": "Rifling",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -392,7 +392,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"requiredTech": "Iron Working",
+		"requiredTech": "Rifling",
 		"uniques": ["Destroyed when the city is captured"]
 	},
     {
@@ -403,7 +403,7 @@
 		"cityHealth": 25,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"hurryCostModifier": 30,
-		"requiredTech": "Engineering",
+		"requiredTech": "Music & Art",
 		"uniques": ["Gain a free [Castle] [in this city]"],
 	},
 	{
@@ -421,7 +421,7 @@
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Philosophy"
+		"requiredTech": "Metal Casting"
 	},
     {
 		"name": "King Achish Statue",
@@ -442,7 +442,7 @@
 		"percentStatBonus": {"science": 50},
 		"requiredBuilding": "Library",
 		"uniques": ["Must be next to [Mountain]"],
-		"requiredTech": "Scientific Theory"
+		"requiredTech": "Compass"
 	},
     {
 		"name": "Telescope",
@@ -505,7 +505,7 @@
 		"culture": 5,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Universalization"
+		"requiredTech": "Cinema"
 	},
 	{
 		"name": "Windmill",
