@@ -486,7 +486,7 @@
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
-		"requiredTech": "Cinema"
+		"requiredTech": "Enternement"
 	},
 	// Column 8
 	{
@@ -505,7 +505,7 @@
 		"culture": 5,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Cinema"
+		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Windmill",
@@ -692,7 +692,7 @@
 		"percentStatBonus": {"production": 15},
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
-		"requiredTech": "Particle Physics",
+		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Must be next to [Desert]", "Only available <in cities without a [Nuclear Plant]>"]
 	},
 	{
@@ -708,7 +708,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredResource": "Uranium",
-		"requiredTech": "Nuclear Fusion",
+		"requiredTech": "Particle Physics",
 		"uniques": ["Only available <in cities without a [Solar Plant]>"]
 	},
 	{
