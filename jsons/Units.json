@@ -571,7 +571,7 @@
 		"unitType": "Fighter",
 		"movement": 1,
 		"strength": 35,
-		"rangedStrength": 35,
+		"rangedStrength": 40,
 		"range": 5,
 		"interceptRange": 5,
 		"cost": 325,
@@ -579,6 +579,44 @@
 		"uniques": ["[50]% chance to intercept air attacks"],
 		"attackSound": "artillery"
 	},	
+	    /* Armored Units*/
+	{
+		"name": "Landship",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 32,
+		"cost": 300,
+		"requiredTech": "Rifling",
+		"requiredResource": "Oil",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Nuclear Fusion",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 52,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Mechanized Fish"
+		"uniqueTo": "Blop Empire",
+		"replaces": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 56,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Fish",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
 
 		/* Great people */
 
