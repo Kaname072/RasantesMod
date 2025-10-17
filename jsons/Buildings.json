@@ -80,6 +80,15 @@
 		"requiredTech": "Writing"
 	},
 	{
+		"name": "Magic School",
+		"uniqueTo": "Elves",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [1] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
 		"name": "Circus",
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,
