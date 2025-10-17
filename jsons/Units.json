@@ -428,6 +428,20 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Wizard",
+		"uniqueTo": "Elves",
+		"replaces": "Slinger",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 9,
+		"cost": 30,
+		"requiredTech": "Mysticism",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Archer",
+		"attackSound": "missile"
+	},
+	{
 		"name": "Drow Thief",
 		"replaces": "Slinger",
 		"uniqueTo": "Barbarians",
