@@ -102,7 +102,7 @@ NationIcons/Primordials
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Elfs
+NationIcons/Elves
   rotate: false
   xy: 0, 500
   size: 100, 100
