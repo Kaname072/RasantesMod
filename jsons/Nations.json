@@ -409,6 +409,34 @@
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
+		"name": "Elves",
+		"leaderName": "Elder Elf",
+		"adjective": ["elf"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Elder Elf",
+
+		"startIntroPart1": "The Elves were a race that dominated much of the galaxy, and after years of domination in a decently peaceful manner, the Empire was challenged by greater enemies in our own galaxy. We returned home but never returned, disappearing into the sands of history.",
+		"startIntroPart2": "Elder, you have the power to up our people to the old times?",
+
+		"declaringWar": "I'll don't ignore you're hostile!",
+		"attacked": "Remember, you made this first!",
+		"defeated": "The history will remember this you made...",
+		"introduction": "Greetings.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "...",
+
+		"tradeRequest": "?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,255],
+		"uniqueName": "Mystici Race",
+		"uniques": ["[+2 Science] from each Trade Route",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Elfhealm"]
+	},
+	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
