@@ -102,6 +102,13 @@ NationIcons/Primordials
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Elfs
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saint Tree
   rotate: false
   xy: 200, 400
@@ -133,6 +140,13 @@ BuildingIcons/Monument Oceanic
 BuildingIcons/Subterrain Barracks
   rotate: false
   xy: 1200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Magic School
+  rotate: false
+  xy: 1100, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -322,6 +336,13 @@ LeaderIcons/Junior777
 LeaderIcons/Junior013
   rotate: false
   xy: 1503, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Elder Elf
+  rotate: false
+  xy: 1663, 21
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -672,6 +693,13 @@ UnitIcons/Monk
 UnitIcons/Tech Archer
   rotate: false
   xy: 1100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wizard
+  rotate: false
+  xy: 300, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
