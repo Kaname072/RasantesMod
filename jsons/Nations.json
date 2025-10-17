@@ -406,7 +406,7 @@
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]",
-			"[Gold] cost of purchasing items in cities [-25%]"],
+			"[Gold] cost of purchasing items in cities [-25]%"],
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
