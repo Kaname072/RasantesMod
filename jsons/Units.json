@@ -297,6 +297,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Spear",
+		"replaces": "Maceman",
+		"uniqueTo": "Capricorn",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 60,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Hammerman",
+		"uniques": ["[+100]% Strength <when attacking> <vs cities>","No defensive terrain bonus","[-1] Sight"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Trident",
 		"replaces": "Maceman",
 		"uniqueTo": "Atlantis",
@@ -356,7 +370,7 @@
 	{
 		"name": "Hisagi",
 		"replaces": "Goat Rider",
-		"uniqueTo": "Caprines",
+		"uniqueTo": "Capricorn",
 		"unitType": "Mounted",
 		"movement": 3,
 		"strength": 15,
@@ -625,7 +639,7 @@
 	},
 		/* Armored Units*/
 	{
-		"name": "Landship",
+		"name": "Tank",
 		"unitType": "Armored",
 		"movement": 4,
 		"strength": 32,
