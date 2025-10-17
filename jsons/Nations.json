@@ -386,7 +386,7 @@
 		"leaderName": "Junior013",
 		"adjective": ["primordian"],
 		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		"personality": "Junior013",
 
 		"startIntroPart1": "Great Icarus (or Junior 013) you managed to unite the Homunculi into a great Empire, raising the status of a race considered backward and being recognized as the first Homunculus Empire in history! But mystical beings with advancing technology have overthrown us and will take away our honor!",
@@ -394,7 +394,7 @@
 
 		"declaringWar": "The empire need's more land! I'll gonna put you in you're place!",
 		"attacked": "Huh? what you doing? Ok! that is you want!",
-		"defeated": "The death comes to me. I'm not afraid, this is the prophecy",
+		"defeated": "How you comes to me?! What you are made!?",
 		"introduction": "How?",
 
 		"neutralHello": "Greetings.",
@@ -405,7 +405,8 @@
 		"outerColor": [4,134,125],
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["Each city founded increases culture cost of policies [33]% less than normal"],
+		"uniques": ["[-25]% [Gold] cost of acquiring tiles [in all cities]",
+		"[-50]% [Gold] cost of purchasing items in cities"],
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -429,10 +430,11 @@
 
 		"tradeRequest": "?",
 
-		"outerColor": [255,255,255],
+		"outerColor": [255,240,255],
 		"innerColor": [255,0,255],
-		"uniqueName": "Mystici Race",
-		"uniques": ["[+2 Science] from each Trade Route",
+		"uniqueName": "Mystic Race",
+		"uniques": ["[+50]% Golden Age length",
+			"Receive a tech boost when scientific buildings/wonders are built in capital",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Elfhealm"]
 	},
