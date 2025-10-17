@@ -715,27 +715,27 @@
     },
 	{
 		"name": "Ork Instinct",
-		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+50]% Strength <when defending>"]
+		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+25]% Strength <when defending>"]
 	},
 	{
 		"name": "[Pacefull Warrior] ability",
-		"uniques": ["[+15]% Strength <when fighting in [Forest] tiles>", "[+15]% Strength <when fighting in [Jungle] tiles>", "Double movement in [Forest]", "Double movement in [Jungle]"]
+		"uniques": ["[+10]% Strength <when fighting in [Forest] tiles>", "[+10]% Strength <when fighting in [Jungle] tiles>", "Double movement in [Forest]", "Double movement in [Jungle]"]
 	},
 	{
-		"name": "[Persian Immortal] ability",
+		"name": "[Pillager] ability",
 		"uniques": ["[+10] HP when healing"]
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["[+50]% Strength <when defending> <vs [Ranged] units>","[+100]% Strength <when defending> <vs [Water] units>"]
+		"uniques": ["[+1] Sight <when [non-[Wounded]]>","[+100]% Strength <when defending> <vs [Water] units>"]
 	},
 	{
-		"name": "[Pillager] ability",
+		"name": "[Beetle Galley] ability",
 		"uniques": ["[+25]% Strength <when attacking>"]
 	},
 	{
 		"name": "[Junissary] ability",
-		"uniques": ["No movement cost to pillage","Heals [5] damage if it kills a unit"]
+		"uniques": ["No movement cost to pillage","Heals [25] damage if it kills a unit"]
 	},
 	{
 		"name": "[Goat Rasante] ability",
