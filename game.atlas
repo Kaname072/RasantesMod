@@ -263,7 +263,7 @@ BuildingIcons/The Idol
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Junior346
+LeaderIcons/Junior*46
   rotate: false
   xy: 223, 21
   size: 160, 160
