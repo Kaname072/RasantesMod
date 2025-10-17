@@ -140,7 +140,8 @@
 		"cost": 60,
 		"obsoleteTech": "Rifling",
 		"requiredTech": "Crystal Working",
-		"uniques": ["Can move after attacking"],
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
+		"promotions": ["[Pillager] ability"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Infantry",
 		"attackSound": "metalhit"
@@ -255,7 +256,7 @@
 		"cost": 100,
 		"obsoleteTech": "Nuclear Fusion",
 		"requiredTech": "Lasers",
-		"uniques": ["[+30]% Strength <when attacking> <vs cities>"],
+		"uniques": ["[+20]% Strength <when attacking> <vs cities>"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phasers"
@@ -593,7 +594,7 @@
 		"attackSound": "artillery"
 	},
 	{
-		"name": "Spaship Mother",
+		"name": "Spaceship Mother",
 		"uniqueTo": "Drows",
 		"replaces": "Simple War Spaceship",
 		"unitType": "Fighter",
