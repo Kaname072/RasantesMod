@@ -449,6 +449,19 @@
 		"requiredTech": "Rifling",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Tech Archer",
+		"uniqueTo": "Drows",
+		"replaces": "Rifleman",
+		"unitType": "Ranged Gunpowder",
+		"movement": 2,
+		"strength": 17,
+		"rangedStrength": 19,
+		"uniques": ["[+20]% Strength <vs [Melee] units>"],
+		"cost": 80,
+		"requiredTech": "Rifling",
+		"attackSound": "artillery"
+	},
 	/* Siege Units */
 
 	{
@@ -578,8 +591,38 @@
 		"requiredTech": "War Spaceship",
 		"uniques": ["[50]% chance to intercept air attacks"],
 		"attackSound": "artillery"
-	},	
-	    /* Armored Units*/
+	},
+	{
+		"name": "Spaship Mother",
+		"uniqueTo": "Drows",
+		"replaces": "Simple War Spaceship",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 45,
+		"rangedStrength": 55,
+		"range": 5,
+		"interceptRange": 5,
+		"cost": 325,
+		"requiredTech": "War Spaceship",
+		"uniques": ["[75]% chance to intercept air attacks"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Night Flame",
+		"uniqueTo": "Supernova",
+		"replaces": "Simple War Spaceship",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 35,
+		"rangedStrength": 40,
+		"range": 5,
+		"interceptRange": 4,
+		"cost": 325,
+		"requiredTech": "War Spaceship",
+		"uniques": ["[+50]% Strength <vs [Land] units>","[-33]% Strength <vs cities>","[50]% chance to intercept air attacks"],
+		"attackSound": "artillery"
+	},
+		/* Armored Units*/
 	{
 		"name": "Landship",
 		"unitType": "Armored",
@@ -588,7 +631,7 @@
 		"cost": 300,
 		"requiredTech": "Rifling",
 		"requiredResource": "Oil",
-		"upgradesTo": "Tank",
+		"upgradesTo": "Giant Death Robot",
 		"obsoleteTech": "Nuclear Fusion",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -722,7 +765,7 @@
 		"name": "Cisplatinos",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 21,
+		"strength": 18,
 		"cost": 60,
 		"uniques": ["Unbuildable","Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 		"attackSound": "metalhit"
