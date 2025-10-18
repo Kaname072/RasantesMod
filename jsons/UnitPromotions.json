@@ -727,7 +727,7 @@
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["[+1] Sight <when [non-[Wounded]]>","[+100]% Strength <when defending> <vs [Water] units>"]
+		"uniques": ["[+25 Culture] <upon being defeated>","[+100]% Strength <when defending> <vs [Water] units>"]
 	},
 	{
 		"name": "Elf Magic",
