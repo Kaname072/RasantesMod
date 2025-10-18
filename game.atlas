@@ -690,6 +690,13 @@ UnitIcons/Hisagi
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Lizardo Cavalry
+  rotate: false
+  xy: 1400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Monk
   rotate: false
   xy: 800, 300
