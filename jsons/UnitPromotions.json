@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Invisible Magic",
-		"uniques": ["Invisible to others","Target Unit gain the [Magic Dust] promotion"]
+		"uniques": ["Invisible to others","[Target Unit] gain the [Magic Dust] promotion"]
 	},
 	{
 		"name": "[Junissary] ability",
@@ -764,7 +764,7 @@
 	},
 	{
 		"name": "Magic Dust",
-		"uniques": ["Can see invisible [{Invisible Magic} {All}] units","[-10]% Strength <when defending>"]
+		"uniques": ["Can see invisible [Invisible Magic] units","[-10]% Strength <when defending>"]
 	},
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
