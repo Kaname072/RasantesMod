@@ -984,6 +984,13 @@ TileSets/FantasyHex/Units/Extrator Robot
   orig: 100, 100
   offset: 0, 0
   index: -1
+PromotionIcons/Elf Aura
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Pacefull Warrior
   rotate: false
   xy: 1835, 932
