@@ -433,10 +433,37 @@
 		"outerColor": [255,240,255],
 		"innerColor": [255,0,255],
 		"uniqueName": "Mystic Race",
-		"uniques": ["[+50]% Golden Age length",
+		"uniques": ["[+1 Faith] from every [Forest] without [Improvement]",
 			"Receive a tech boost when scientific buildings/wonders are built in capital",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Elfhealm"]
+	},
+	{
+		"name": "Ouroborus",
+		"leaderName": "Bharat",
+		"adjective": ["lizardos"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Bharat",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are so rude! this is war!",
+		"attacked": "Huh!?",
+		"defeated": "Oh... I lose? sorry my people... i can't go make my people indepent...",
+		"introduction": "Greetings, stranger",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "I don't like this face!",
+
+		"tradeRequest": "My people has so much richness to show, you can make this posible?",
+
+		"outerColor": [64,64,64],
+		"innerColor": [128,128,128],
+		"uniqueName": "Hot Economic",
+		"uniques": ["[+2 Gold] from every [Luxury resource]"],
+		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
 	{
 		"name": "Golden Wings",
