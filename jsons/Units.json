@@ -414,6 +414,23 @@
 		"hurryCostModifier": 20,
 		"attackSound": "goatrider"
 	},
+	{
+		"name": "Lizardo Cavalry",
+		"uniqueTo": "Ouroborus",
+		"replaces": "Goat Knight",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 22,
+		"rangedStrength": 21,
+		"cost": 175,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Goat",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	},
 	/* Range Units */
 	{
 	    "name": "Slinger",
