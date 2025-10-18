@@ -730,8 +730,8 @@
 		"uniques": ["[+1] Sight <when [non-[Wounded]]>","[+100]% Strength <when defending> <vs [Water] units>"]
 	},
 	{
-		"name": "Invisible Magic",
-		"uniques": ["Invisible to others","[Target Unit] gains the [Magic Dust] status for [3] turn(s) <when attacking> <upon damaging a [Land] unit>"]
+		"name": "Elf Aura",
+		"uniques": ["Invisible to others","[Target Unit] gains the [Magic Dust] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
 	},
 	{
 		"name": "[Junissary] ability",
@@ -763,8 +763,8 @@
 		"uniques": ["May enter foreign tiles without open borders", "Can pass through impassable tiles"]
 	},
 	{
-		"name": "Magic Dust",
-		"uniques": ["Can see invisible [Invisible Magic] units","[-10]% Strength <when defending>"]
+		"name": "Blindness",
+		"uniques": ["Can see invisible [Invisible Magic] units","Cannot move","[-1] Sight","[-10]% Strength <when defending>","[+90]% Strength <when defending> <vs [non-[Elf Aura]] units>"]
 	},
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
