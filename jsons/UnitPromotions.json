@@ -715,11 +715,11 @@
     },
 	{
 		"name": "Ork Instinct",
-		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+25]% Strength <when defending>"]
+		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+33]% Strength <when defending> <vs [Land] units>"]
 	},
 	{
 		"name": "[Pacefull Warrior] ability",
-		"uniques": ["[+10]% Strength <when fighting in [Forest] tiles>", "[+10]% Strength <when fighting in [Jungle] tiles>", "Double movement in [Forest]", "Double movement in [Jungle]"]
+		"uniques": ["Free [Worker] appears <upon being defeated>", "Double movement in [Forest]", "Double movement in [Jungle]"]
 	},
 	{
 		"name": "[Pillager] ability",
@@ -727,7 +727,7 @@
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["Gain [+25 Culture] <upon being defeated>","[+100]% Strength <when defending> <vs [Water] units>"]
+		"uniques": ["[+50]% Strength <when defending> <vs [non-[Land]] units>"]
 	},
 	{
 		"name": "Elf Magic",
