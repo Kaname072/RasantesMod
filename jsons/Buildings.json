@@ -123,10 +123,9 @@
 		"name": "Magic School",
 		"replaces": "Barracks",
 		"uniqueTo": "Elves",
-		"science": 2,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land}] units [in this city] receive the [Invisible Magic] promotion"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land} {Melee}] units [in this city] receive the [Elf Aura] promotion"],
 		"requiredTech": "Iron Working"
 	},
 	{
