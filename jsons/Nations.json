@@ -378,7 +378,9 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["[-50]% unhappiness from the number of cities"]
+		"uniques": ["No Maintenance costs for improvements in [Forest] tiles",
+			"No Maintenance costs for improvements in [Jungle] tiles",
+			"[-66]% maintenance costs <for [Civilian] units>"]
 		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
 	},
 	{
@@ -406,7 +408,7 @@
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]",
-			"[+20]% Strength <for [Military] units> <upon losing a city> <for [10] turns>"],
+			"Gain control over [5] tiles [in all non-occupied cities] <upon ending a Golden Age>"],
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -461,8 +463,9 @@
 
 		"outerColor": [64,64,64],
 		"innerColor": [128,128,128],
-		"uniqueName": "Hot Economic",
-		"uniques": ["[+2 Gold] from every [Luxury resource]"],
+		"uniqueName": "The Resumption",
+		"uniques": ["[+2 Gold] from every [Luxury resource]",
+			"[+20]% Strength <for [Military] units> <for [10] turns> <upon losing a city>"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
 	{
