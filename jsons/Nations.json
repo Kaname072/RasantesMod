@@ -406,7 +406,7 @@
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]",
-			"[Gold] cost of purchasing items in cities [-25]%"],
+			"[+20]% Strength <for [Military] units> <upon losing a city> <for [10] turns>"],
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -433,8 +433,8 @@
 		"outerColor": [255,240,255],
 		"innerColor": [255,0,255],
 		"uniqueName": "Mystic Race",
-		"uniques": ["[+1 Faith] from every [Forest] without [Improvement]",
-			"Receive a tech boost when scientific buildings/wonders are built in capital",
+		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
+			"Comment [Have a Build with a promotion we can reduce Enemy Unit, Moviment and Sight (When attacking by Ranged units)]",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Elfhealm"]
 	},
