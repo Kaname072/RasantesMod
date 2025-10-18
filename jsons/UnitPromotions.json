@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Invisible Magic",
-		"uniques": ["Invisible to others","[Target Unit] gains the [Magic Dust] status for [3] turn(s) <upon damaging a [Invisible Magic] unit>"]
+		"uniques": ["Invisible to others","[Target Unit] gains the [Magic Dust] status for [3] turn(s) <when attacking> <upon damaging a [Land] unit>"]
 	},
 	{
 		"name": "[Junissary] ability",
