@@ -466,6 +466,13 @@ LeaderIcons/Bonaparte
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Bharat
+  rotate: false
+  xy: 1183, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Primitive Warrior
   rotate: false
   xy: 1100, 700
