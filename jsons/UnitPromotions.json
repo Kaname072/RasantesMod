@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Elf Magic",
-		"uniques": ["Invisible to others","[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
+		"uniques": ["[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
 	},
 	{
 		"name": "[Junissary] ability",
@@ -764,7 +764,7 @@
 	},
 	{
 		"name": "Blindness",
-		"uniques": ["Can see invisible [Invisible Magic] units","Cannot move","[-1] Sight","[-10]% Strength <when defending>","[+90]% Strength <when defending> <vs [non-[Elf Aura]] units>"]
+		"uniques": ["[-1] Movement","[-1] Sight"]
 	},
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
