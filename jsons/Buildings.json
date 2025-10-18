@@ -125,7 +125,7 @@
 		"uniqueTo": "Elves",
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land} {Melee}] units [in this city] receive the [Elf Aura] promotion"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land} {Ranged}] units [in this city] receive the [Elf Magic] promotion"],
 		"requiredTech": "Iron Working"
 	},
 	{
