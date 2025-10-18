@@ -730,8 +730,8 @@
 		"uniques": ["[+1] Sight <when [non-[Wounded]]>","[+100]% Strength <when defending> <vs [Water] units>"]
 	},
 	{
-		"name": "Elf Aura",
-		"uniques": ["Invisible to others","[Target Unit] gains the [Magic Dust] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
+		"name": "Elf Magic",
+		"uniques": ["Invisible to others","[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
 	},
 	{
 		"name": "[Junissary] ability",
