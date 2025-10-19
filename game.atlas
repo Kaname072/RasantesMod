@@ -852,181 +852,203 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Crystal Ore
   rotate: false
-  xy: 34, 1134
+  xy: 34, 334
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Extrator
   rotate: false
-  xy: 34, 1034
+  xy: 34, 234
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rasante Camp
   rotate: false
-  xy: 232, 934
+  xy: 932, 134
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Treehouse
   rotate: false
-  xy: 32, 634
+  xy: 932, 34
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Goat
   rotate: false
-  xy: 132, 1034
+  xy: 132, 234
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 135, 935
+  xy: 835, 136
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 1135
+  xy: 135, 336
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Junissary
   rotate: false
-  xy: 35, 832
+  xy: 735, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Goat Rasante
   rotate: false
-  xy: 135, 832
+  xy: 835, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Goat Rider
   rotate: false
-  xy: 435, 932
+  xy: 235, 332
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goat Knight
+  rotate: false
+  xy: 235, 332
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maceman
   rotate: false
-  xy: 35, 932
+  xy: 735, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hammerman
   rotate: false
-  xy: 35, 932
+  xy: 735, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bunny Scout
   rotate: false
-  xy: 1335, 932
+  xy: 135, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cisplatinos
   rotate: false
-  xy: 1235, 932
+  xy: 35, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monk
   rotate: false
-  xy: 1335, 832
+  xy: 135, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Besorker
   rotate: false
-  xy: 1435, 932
+  xy: 235, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Primitive Warrior
   rotate: false
-  xy: 1235, 832
+  xy: 35, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Corps
   rotate: false
-  xy: 1435, 832
+  xy: 235, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Swordsman
   rotate: false
-  xy: 1535, 832
+  xy: 335, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Gunner
   rotate: false
-  xy: 1535, 932
+  xy: 335, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Red Army
   rotate: false
-  xy: 1635, 932
+  xy: 435, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Laser Rifleman
   rotate: false
-  xy: 1635, 932
+  xy: 435, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jack Infantry
   rotate: false
-  xy: 1735, 832
+  xy: 535, 32
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/White Corps
   rotate: false
-  xy: 1735, 932
+  xy: 535, 132
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Extrator Robot
   rotate: false
-  xy: 1835, 832
+  xy: 635, 32
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
-  index: -1TileSets/FantasyHex/Units/Pacefull Warrior
+  index: -1
+TileSets/FantasyHex/Units/Pacefull Warrior
   rotate: false
-  xy: 1835, 932
+  xy: 635, 132
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beetle Warrior
+  rotate: false
+  xy: 235, 232
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Leviathan
+  rotate: false
+  xy: 335, 232
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
