@@ -830,6 +830,26 @@ ResourceIcons/Goat
   orig: 100, 100
   offset: 0, 0
   index: -1
+PromotionIcons/Elf Aura
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Religious Fanatic
+  rotate: false
+  xy: 300, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+gamefx.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 TileSets/FantasyHex/Tiles/Crystal Ore
   rotate: false
   xy: 34, 1134
@@ -1004,25 +1024,10 @@ TileSets/FantasyHex/Units/Extrator Robot
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
-  index: -1
-PromotionIcons/Elf Aura
-  rotate: false
-  xy: 0, 500
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Pacefull Warrior
+  index: -1TileSets/FantasyHex/Units/Pacefull Warrior
   rotate: false
   xy: 1835, 932
   size: 34, 32
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Religious Fanatic
-  rotate: false
-  xy: 300, 900
-  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
