@@ -432,7 +432,7 @@
 		"tradeRequest": "?",
 
 		"outerColor": [255,240,255],
-		"innerColor": [255,0,255],
+		"innerColor": [243,0,243],
 		"uniqueName": "Mystic Race",
 		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
 			"Comment [Have a Build with a promotion we can reduce Enemy Unit, Moviment and Sight (When attacking by Ranged units)]",
@@ -460,7 +460,7 @@
 
 		"tradeRequest": "My people has so much richness to show, you can make this posible?",
 
-		"outerColor": [62,32,32],
+		"outerColor": [128,32,32],
 		"innerColor": [228,228,228],
 		"uniqueName": "Lizardos Richness",
 		"uniques": ["[+1 Gold] from every [Luxury resource]",
