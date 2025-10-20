@@ -31,7 +31,7 @@
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities",
-		    "[+1 Faith] [in all cities]"],
+		    "[+1 Faith] [in all non-occupied cities]"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -172,9 +172,9 @@
 		"outerColor": [255,224,244],
 		"innerColor": [207,86,146],
 		"uniqueName": "People Pride",
-		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>",
+		"uniques": ["[+50]% [Culture] [in all non-occupied cities] <during a Golden Age>",
 		"[+1] Movement <for [All] units> <during a Golden Age>",
-		"[+25]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles> <during a Golden Age>"],
+		"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles> <during a Golden Age>"],
 		"cities": ["Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
 	},
 	{
@@ -231,8 +231,7 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["[0] Movement point cost to embark <for [All] units>",
-			"[+1] Movement <for [non-[Water]] units> <in [Water] tiles>",
+		"uniques": ["When defeating a [{Barbarians} {Water}] unit's, earn [25] Gold and recruit it <with [66]% chance>",]
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
@@ -262,9 +261,8 @@
 		"uniqueName": "Raid & Fire",
 		"uniques": ["Cities are razed [2] times as fast",
 			"[+30]% Strength <vs [City-State]>",
-			"[+60]% [Production] [{in all cities} {non-[in annexed cities]} {non-[in puppeted cities]}] <for [10] turns> <upon conquering a city> <hidden from users>",
-			"Comment [Gain a Production boost in all cities founded by you, when conquering a city]"],
-		"cities": ["Ashur","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
+			"[+60]% [Production] [in all non-occupied cities] <for [10] turns> <upon conquering a city> <hidden from users>"],
+		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
 		"name": "Capricorn",
@@ -291,7 +289,7 @@
 		"innerColor": [62,1,1],
 		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
-		"uniques": ["[+1 Food] from every [Pasture]",
+		"uniques": ["[+1 Production] from every [Sheep]",
 			"[+1] Movement <for [Mounted] units>",
 			"[-50]% maintenance on road & railroads"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
@@ -320,6 +318,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Hard Discipline",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
+			"[+15]% Strength <for [{Land} {Military}] units <on foreign continents>",
 			"[Great General] is earned [50]% faster"],
 		"cities": ["Ultimato","Darkhand","Nonmoon","Lordd","Yllzor","Zrhim","Blackout","Burnink","Unshine"]
 	},
@@ -408,7 +407,7 @@
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]",
-			"Gain control over [5] tiles [in all non-occupied cities] <upon ending a Golden Age>"],
+			"Gain control over [2] tiles [in all non-occupied cities] <upon ending a Golden Age>"],
 		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -461,11 +460,12 @@
 
 		"tradeRequest": "My people has so much richness to show, you can make this posible?",
 
-		"outerColor": [64,64,64],
-		"innerColor": [128,128,128],
-		"uniqueName": "The Resumption",
-		"uniques": ["[+2 Gold] from every [Luxury resource]",
-			"[+20]% Strength <for [Military] units> <for [10] turns> <upon losing a city>"],
+		"outerColor": [62,32,32],
+		"innerColor": [228,228,228],
+		"uniqueName": "Lizardos Richness",
+		"uniques": ["[+1 Gold] from every [Luxury resource]",
+			"[+2 Culture] from each Trade Route",
+			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
 	{
