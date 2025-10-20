@@ -845,7 +845,7 @@ CityStateIcons/Religious Fanatic
   offset: 0, 0
   index: -1
 
-gamefx.png
+gamefh.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -887,14 +887,14 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 835, 136
+  xy: 835, 137
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 336
+  xy: 135, 337
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
@@ -922,7 +922,7 @@ TileSets/FantasyHex/Units/Goat Rider
   index: -1
 TileSets/FantasyHex/Units/Goat Knight
   rotate: false
-  xy: 235, 332
+  xy: 535, 332
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
@@ -1046,9 +1046,58 @@ TileSets/FantasyHex/Units/Beetle Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Trident
+  rotate: false
+  xy: 435, 232
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Leviathan
   rotate: false
   xy: 335, 232
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pillager
+  rotate: false
+  xy: 635, 232
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lizardo Cavalry
+  rotate: false
+  xy: 735, 232
+  size: 35, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mermaid
+  rotate: false
+  xy: 335, 332
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sprinkles
+  rotate: false
+  xy: 435, 332
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Drow Thief
+  rotate: false
+  xy: 535, 332
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Savage Imp
+  rotate: false
+  xy: 635, 332
   size: 34, 32
   orig: 100, 100
   offset: 0, 0
