@@ -269,6 +269,15 @@
 		"techRequired": "Mysticism",
 		"uniques": ["[+2 Culture] <after discovering [Theology]>","Pillaging this improvement yields approximately [+20 Gold]","Will not be replaced by automated units"]
 	},
+	{
+		"name": "Party House",
+		"terrainsCanBeBuiltOn": ["Oasis"],
+		"uniqueTo": "Ouroborus",
+		"happiness": 2,
+		"gold": 1,
+	    "turnsToBuild": 7,
+        "requiredTech": "Music & Art"
+	},
 	
 	// Unbuildable improvements
 	{
