@@ -231,7 +231,7 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["When defeating a [{Barbarians} {Water}] unit's, earn [25] Gold and recruit it <with [66]% chance>",
+		"uniques": ["When defeating a [{Barbarians} {Water}] unit, earn [25] Gold and recruit it <with [66]% chance>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
@@ -318,7 +318,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Hard Discipline",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
-			"[+15]% Strength <for [{Land} {Military}] units <on foreign continents>",
+			"[+15]% Strength <for [{Land} {Military}] units> <on foreign continents>",
 			"[Great General] is earned [50]% faster"],
 		"cities": ["Ultimato","Darkhand","Nonmoon","Lordd","Yllzor","Zrhim","Blackout","Burnink","Unshine"]
 	},
