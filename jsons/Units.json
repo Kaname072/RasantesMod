@@ -293,7 +293,7 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Hammerman",
-		"uniques": ["[+40]% Strength <when fighting in [Rough terrain] tiles>","Never appears as a Barbarian unit"],
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -321,7 +321,7 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Hammerman",
-		"uniques": ["[+40]% Strength <when fighting in [Rough terrain] tiles>","[+50]% Strength <when fighting in [Coastal] tiles>"],
+		"uniques": ["[+25]% Strength <when fighting in [Rough terrain] tiles>","[+50]% Strength <when fighting in [Coastal] tiles>"],
 		"promotions": ["Amphibious"],
 		"attackSound": "nonmetalhit"
 	},
@@ -337,6 +337,21 @@
 		"upgradesTo": "Lancer",
 		"uniques": ["[+50]% Strength <when fighting in [Rough terrain] tiles>","Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Eunuch",
+		"uniqueTo": "Cloverland",
+		"replaces": "Hammerman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 18,
+		"cost": 80,
+		"hurryCostModifier": 10,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": ["[+50]% Strength <vs [Gunpowder] units>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Lancer",
