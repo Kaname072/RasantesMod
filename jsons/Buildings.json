@@ -195,6 +195,17 @@
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
 	},
+    {
+		"name": "White Monastery",
+		"uniqueTo": "Cloverland",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology",
+		"uniques": ["[+1 Faith] from [Luxury resource] [in this city]","Only available <when religion is enabled>"],
+	},
 	{
 		"name": "Poseidon Statue",
 		"isWonder": true,
