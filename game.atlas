@@ -116,6 +116,13 @@ NationIcons/Elves
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Deuchland
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saint Tree
   rotate: false
   xy: 200, 400
@@ -280,6 +287,13 @@ BuildingIcons/Holy Coral
 BuildingIcons/The Idol
   rotate: false
   xy: 900, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/White Monastery
+  rotate: false
+  xy: 1600, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -704,6 +718,13 @@ UnitIcons/Lizardo Cavalry
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Eunuch
+  rotate: false
+  xy: 1500, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Monk
   rotate: false
   xy: 800, 300
@@ -816,6 +837,13 @@ ImprovementIcons/Treehouse
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Party House
+  rotate: false
+  xy: 1600, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Crystal Ore
   rotate: false
   xy: 0, 700
@@ -830,7 +858,21 @@ ResourceIcons/Goat
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Elf Aura
+ResourceIcons/Ice Cream
+  rotate: false
+  xy: 0, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lizardo Eggs
+  rotate: false
+  xy: 100, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PromotionIcons/Elf Magic
   rotate: false
   xy: 0, 500
   size: 100, 100
@@ -1032,6 +1074,13 @@ TileSets/FantasyHex/Units/Extrator Robot
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Party House
+  rotate: false
+  xy: 835, 232
+  size: 34, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Pacefull Warrior
   rotate: false
   xy: 635, 132
@@ -1070,6 +1119,13 @@ TileSets/FantasyHex/Units/Pillager
 TileSets/FantasyHex/Units/Lizardo Cavalry
   rotate: false
   xy: 735, 232
+  size: 35, 32
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eunuch
+  rotate: false
+  xy: 935, 232
   size: 35, 32
   orig: 100, 100
   offset: 0, 0
