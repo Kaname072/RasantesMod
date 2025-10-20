@@ -261,7 +261,7 @@
 		"uniqueName": "Raid & Fire",
 		"uniques": ["Cities are razed [2] times as fast",
 			"[+30]% Strength <vs [City-State]>",
-			"[+60]% [Production] [in all non-occupied cities] <for [10] turns> <upon conquering a city> <hidden from users>"],
+			"[+60]% [Production] [in all non-occupied cities] <for [10] turns> <upon conquering a city>"],
 		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
@@ -469,6 +469,33 @@
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
 	{
+		"name": "Deuchland",
+		"leaderName": "Wanessa",
+		"adjective": ["deuchlanese"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Wanessa",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I dont wanna a evil empire on this lands, I hate make this!",
+		"attacked": "Ok, but dont forget, You will destroys thousand lives with this war!",
+		"defeated": "I'm fine but please, protect the poorests, womens and the childrens",
+		"introduction": "Greetings Sir, im Wanessa, Queen of Deuchland",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You're a disgusting!",
+
+		"tradeRequest": "May respect for you. You can make this posible?",
+
+		"outerColor": [128,128,248],
+		"innerColor": [32,32,32],
+		"uniqueName": "Holy League",
+		"uniques": ["City-State Influence recovers at twice the normal rate"],
+		"cities": ["Ul'Battiza"]
+	},
+	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
@@ -547,20 +574,6 @@
 		"outerColor": [0,0,0],
 		"innerColor": [16,188,16],
 		"cities": ["Magmatropolis"]
-	},
-	{
-		"name": "Rezantes",
-		"leaderName": "Wanessa",
-		"adjective": ["Chorante"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "No choices for you!",
-		"attacked": "You faith is false!",
-		"defeated": "Oh no, that's a shame...",
-
-		"outerColor": [0,0,0],
-		"innerColor": [128,128,255],
-		"cities": ["Ul'Mesha"]
 	},
 	{
 		"name": "Franice Kingdom",
