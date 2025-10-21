@@ -1074,10 +1074,10 @@ TileSets/FantasyHex/Units/Extrator Robot
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Party House
+TileSets/FantasyHex/Tiles/Party House
   rotate: false
-  xy: 835, 232
-  size: 34, 32
+  xy: 832, 234
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
