@@ -30,8 +30,7 @@
 		"favoredReligion": "Rasantes Cult",
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities",
-		    "[+1 Faith] [in all non-occupied cities]"],
+			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -231,7 +230,7 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [66]% chance>",
+		"uniques": ["When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
@@ -261,7 +260,7 @@
 		"uniqueName": "Raid & Fire",
 		"uniques": ["Cities are razed [2] times as fast",
 			"[+30]% Strength <vs [City-State]>",
-			"[+60]% [Production] [in all non-occupied cities] <for [10] turns> <upon conquering a city>"],
+			"[+30]% [Production] [in all non-occupied cities] <for [10] turns> <upon conquering a city>"],
 		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
@@ -289,7 +288,8 @@
 		"innerColor": [62,1,1],
 		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
-		"uniques": ["[+1 Production] from every [Sheep]",
+		"uniques": ["[+1 Production] from every [Pasture]",
+			"[+1 Production] from every [Camp]",
 			"[+1] Movement <for [Mounted] units>",
 			"[-50]% maintenance on road & railroads"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
@@ -350,7 +350,7 @@
 		"uniques": ["[+100]% XP gained from combat <for [Military] units>",
 			"Units ignore terrain costs when moving into any tile with Hills",
 			"[-66]% maintenance costs <for [Sword] units>"],
-		"cities": ["Ul'Magmaro","Ushaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
+		"cities": ["Ul'Magmaro","Sihaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
 		"name": "Eden",
@@ -436,6 +436,7 @@
 		"uniqueName": "Mystic Race",
 		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
 			"Comment [Have a Build with a promotion we can reduce Enemy Unit, Moviment and Sight (When attacking by Ranged units)]",
+			"Will not be chosen for new games",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Elfhealm"]
 	},
@@ -467,36 +468,6 @@
 			"[+2 Culture] from each Trade Route",
 			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
-	},
-	{
-		"name": "Cloverland",
-		"leaderName": "Wanessa",
-		"adjective": ["cloverlanse"],
-		"startBias": ["River"],
-		"preferredVictoryType": "Diplomatic",
-		"personality": "Wanessa",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "I dont wanna a evil empire on this lands, I hate make this but you deserve it!",
-		"attacked": "Ok, but dont forget, You will destroys thousand lives with this war!",
-		"defeated": "I'm fine but please, protect the poorests, womens and the childrens",
-		"introduction": "Greetings Sir, im Wanessa, Queen of Deuchland",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "You're a disgusting!",
-
-		"tradeRequest": "May respect for you. You can make this posible?",
-
-		"outerColor": [128,128,248],
-		"innerColor": [245,245,245],
-		"uniqueName": "Holy League",
-		"uniques": ["City-State Influence recovers at twice the normal rate",
-		"[+50]% Yield from every [City-State]",
-		"Cannot build [Settler] units",
-		"May not annex cities"],
-		"cities": ["Ul'Battiza"]
 	},
 	{
 		"name": "Golden Wings",
