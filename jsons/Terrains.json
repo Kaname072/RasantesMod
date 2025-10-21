@@ -258,6 +258,7 @@
 		"occursOn": ["Desert"],
 		"uniques": ["Fresh water", "Rare feature",
 					"Only [All Road] improvements may be built on this tile",
+			        "Only [Party House] improvements may be built on this tiles",
 					"Always Fertility [4] for Map Generation",
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"],
