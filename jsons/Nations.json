@@ -436,7 +436,7 @@
 		"uniqueName": "Mystic Race",
 		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
 			"Comment [Have a Build with a promotion we can reduce Enemy Unit, Moviment and Sight (When attacking by Ranged units)]",
-			"Will not be chosen for new games <for [AI player]>",
+			"Will not be chosen for new games <for [AI player] Civilizations> <hidden from users>",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Elfhealm"]
 	},
