@@ -347,7 +347,7 @@
 		"innerColor": [208,0,0],
 		"favoredReligion": "Rasantes Cult",
 		"uniqueName": "Assasin Squad",
-		"uniques": ["Earn [100]% of killed [Military] unit's as [Gold]",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
 			"[+100]% XP gained from combat <for [{Military} {Land}] units>",
 			"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Ul'Magmaro","Sihaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
@@ -376,10 +376,11 @@
 		"outerColor": [0,208,0],
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
-		"uniqueName": "Eden Garden",
-		"uniques": ["No Maintenance costs for improvements in [Forest] tiles",
-			"No Maintenance costs for improvements in [Jungle] tiles",
-			"[-66]% maintenance costs <for [Civilian] units>"]
+		"uniqueName": "Eden Peace",
+		"uniques": ["[+15]% Great Person generation [in all cities] <with [1] to [2] neighboring [Forest] tiles>",
+			"[+15]% Great Person generation [in all cities] <with [1] to [2] neighboring [Jungle] tiles>",
+			"[+30]% Great Person generation [in all cities] <with [3] to [4] neighboring [Forest] tiles>",
+			"[+30]% Great Person generation [in all cities] <with [2] to [4] neighboring [Jungle] tiles>"]
 		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
 	},
 	{
