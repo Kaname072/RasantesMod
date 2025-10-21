@@ -236,11 +236,11 @@
 	},
 	{
 		"name": "Ork Empire",
-		"leaderName": "Metatron",
+		"leaderName": "Achish",
 		"adjective": ["ork"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
-		"personality": "Metatron",
+		"personality": "Achish",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -347,9 +347,9 @@
 		"innerColor": [208,0,0],
 		"favoredReligion": "Rasantes Cult",
 		"uniqueName": "Assasin Squad",
-		"uniques": ["[+100]% XP gained from combat <for [Military] units>",
-			"Units ignore terrain costs when moving into any tile with Hills",
-			"[-66]% maintenance costs <for [Sword] units>"],
+		"uniques": ["Earn [100]% of killed [Military] unit's as [Gold]",
+			"[+100]% XP gained from combat <for [{Military} {Land}] units>",
+			"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Ul'Magmaro","Sihaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
 	},
 	{
@@ -407,8 +407,9 @@
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]",
+			"[-50]% Culture cost of natural border growth [in all cities]",
 			"Gain control over [2] tiles [in all non-occupied cities] <upon ending a Golden Age>"],
-		"cities": ["Ymir","Monte","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
+		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
 		"name": "Elves",
