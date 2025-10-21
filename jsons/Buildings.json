@@ -204,7 +204,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Theology",
-		"uniques": ["[+1 Faith] from every [Luxury resource] [in this city]","Only available <when religion is enabled>"],
+		"uniques": ["[+1 Faith] from [Luxury resource] tiles [in this city]","Only available <when religion is enabled>"],
 	},
 	{
 		"name": "Poseidon Statue",
