@@ -304,7 +304,7 @@
     ]
   },
   {
-    "name": "Metatron",
+    "name": "Achish",
     "production": 7,
     "food": 6,
     "gold": 2,
@@ -347,7 +347,7 @@
     "commerce": 7,
     "diplomacy": 9,
     "loyal": 9,
-    "expansion": 3,
+    "expansion": 2,
     "priorities": {
       "Tradition": 4,
       "Liberty": 8,
