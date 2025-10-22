@@ -706,7 +706,8 @@
 		"uniques": ["No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
 	},
 	{
-		"name": "Home Sweet Home""uniques": ["[+30]% Strength decreasing with distance from the capital"]
+		"name": "[Great Infantry] ability",
+		"uniques": ["[+30]% Strength decreasing with distance from the capital"]
 	},
     {
         "name": "Devout",
@@ -763,11 +764,12 @@
 	},
 	{
 		"name": "[Eunuch] ability",
-		"uniques": ["[+5] HP when healing", "All adjacent units heal [+10] HP when healing"]
+		"uniques": ["[+25]% Strength <when attacking>","[+5] HP when healing", "All adjacent units heal [+10] HP when healing"]
 	},
 	{
-		"name": "[Great Infantry] ability",
-		"uniques": [
+		"name": "Jumper",
+		"uniques": ["May Paradrop to [Land] tiles up to [2] tiles away","Withdraws before melee combat <with [10]% chance>"]
+	},
 	{
 		"name": "Blindness",
 		"uniques": ["[-1] Movement","[-1] Sight"]
