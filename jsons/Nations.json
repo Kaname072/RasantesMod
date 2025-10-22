@@ -492,11 +492,12 @@
 
 		"tradeRequest": "You people need this!",
 
-		"outerColor": [208,128,32],
-		"innerColor": [232,232,232],
+		"outerColor": [255,230,91],
+		"innerColor": [18,191,70],
 		"uniqueName": "The Wise",
-		"uniques": ["Free Technology <upon founding a city> <when number of [Cities] is more than [1]>",
-		"[+2 Science] from every specialist [in all cities]"],
+		"uniques": ["Free Technology <upon founding a city> <when number of [Cities] is more than [1]> <when number of [Cities] is less than [6]> <hidden from users>",
+			"Receive a free technology when found a non-capital cities for 5 times",
+			"[+2 Science] from every specialist [in all cities]"],
 		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
 	},
 	{
