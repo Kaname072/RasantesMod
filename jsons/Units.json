@@ -177,6 +177,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Eunuch",
+		"uniqueTo": "Novaland",
+		"replaces": "Laser Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 12,
+		"cost": 60,
+		"obsoleteTech": "Rifling",
+		"requiredTech": "Crystal Working",
+		"promotions": ["[Eunuch] ability"],
+		"upgradesTo": "Infantry",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -366,22 +380,6 @@
 		"upgradesTo": "Lancer",
 		"uniques": ["[+50]% Strength <when fighting in [Rough terrain] tiles>","Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Eunuch",
-		"uniqueTo": "Cloverland",
-		"replaces": "Hammerman",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 18,
-		"cost": 80,
-		"hurryCostModifier": 10,
-		"requiredTech": "Physics",
-		"obsoleteTech": "Metallurgy",
-		"promotions": ["[Eunuch] ability"],
-		"upgradesTo": "Lancer",
-		"uniques": ["[+50]% Strength <when fighting in [Rough terrain] tiles>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Lancer",
