@@ -475,7 +475,7 @@
 		"name": "Novaland",
 		"leaderName": "Wanessa",
 		"adjective": ["novalenians"],
-		"startBias": ["Cost"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Wanessa",
 
@@ -492,8 +492,8 @@
 
 		"tradeRequest": "You people need this!",
 
-		"outerColor": [255,230,91],
-		"innerColor": [18,191,70],
+		"outerColor": [18,191,70],
+		"innerColor": [255,230,91],
 		"uniqueName": "The Wise",
 		"uniques": ["Free Technology <upon founding a city> <when number of [Cities] is more than [1]> <when number of [Cities] is less than [6]> <hidden from users>",
 			"Receive a free technology when found a non-capital cities for 5 times",
