@@ -95,7 +95,7 @@
 		"requiredNearbyImprovedResources": ["Ivory","Horses"],
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Chivalry"
+		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Water Mill",
@@ -104,7 +104,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [River]"],
-		"requiredTech": "Irrigation"
+		"requiredTech": "Sailing"
 	},
 	{
 		"name": "Walls",
@@ -119,7 +119,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Iron Working"
+		"requiredTech": "Numbers"
 	},
 	{
 		"name": "Subterrain Barracks",
@@ -128,7 +128,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land}] units [in this city] receive the [Assasin Spirit] promotion","Destroyed when the city is captured"],
-		"requiredTech": "Iron Working"
+		"requiredTech": "Numbers"
 	},
     {
 		"name": "Magic School",
@@ -137,7 +137,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land} {Ranged}] units [in this city] receive the [Elf Magic] promotion"],
-		"requiredTech": "Iron Working"
+		"requiredTech": "Numbers"
 	},
 	{
 		"name": "False Moon",
@@ -179,7 +179,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Trapping"
+		"requiredTech": "Enternement"
 	},
 	{
 		"name": "Courthouse",
@@ -234,7 +234,7 @@
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50},
 		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Philosophy"
+		"requiredTech": "Education"
 	},
 	{
 		"name": "Amphitheater",
@@ -244,7 +244,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Philosophy"
+		"requiredTech": "Music & Art"
 	},
 	{
 		"name": "National Epic",
@@ -252,7 +252,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Militarism"
 	},
 	{
 		"name": "Market",
@@ -260,7 +260,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Economics"
+		"requiredTech": "Numbers"
 	},
 	{
 		"name": "Carrot Market",
@@ -271,7 +271,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Food] from [Plantation] tiles [in this city]", "Provides 1 extra copy of each improved luxury resource near this City"],
 		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Economics"
+		"requiredTech": "Numbers"
 	},
 	{
 		"name": "Mint",
@@ -492,7 +492,7 @@
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-		"requiredTech": "Music & Art",
+		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -502,7 +502,7 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
+		"requiredTech": "Civil Service"
 	},
     {
         "name": "Constabulary",
@@ -578,7 +578,7 @@
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"requiredTech": "History",
+		"requiredTech": "Archaeology",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
