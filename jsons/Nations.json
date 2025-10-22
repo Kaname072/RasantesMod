@@ -472,6 +472,60 @@
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
 	{
+		"name": "Novaland",
+		"leaderName": "Wanessa",
+		"adjective": ["novalenians"],
+		"startBias": ["Cost"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Wanessa",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I am the vegeance!",
+		"attacked": "You're made a mistake, dont cry after!",
+		"defeated": "Oh lord! i have just a request, please, dont touch in the poorest people! we need suplies...",
+		"introduction": "Hello. I'm so exciting to meeting you!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You are mad...",
+
+		"tradeRequest": "You people need this!",
+
+		"outerColor": [208,128,32],
+		"innerColor": [232,232,232],
+		"uniqueName": "The Wise",
+		"uniques": ["Free Great Person <after discovering [Writing]>"],
+		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
+	},
+	{
+		"name": "Constelation",
+		"leaderName": "Junior053",
+		"adjective": ["constelarian"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Junior053",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "My people force me to do it, this is democracy. Prepare do war!",
+		"attacked": "Huh? you wanna play!?",
+		"defeated": "The popular power fall...",
+		"introduction": "Hello.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Argh... is just you...",
+
+		"tradeRequest": "You look need this.",
+
+		"outerColor": [0,208,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Protectionism",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
+	},
+	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
