@@ -43,6 +43,7 @@
                 "uniques": [
                     "[+1 Food] per [4] population [in all cities]"
                 ],
+                "requires": ["Humanism"],
                 "row": 2,
                 "column": 2
             },
@@ -51,6 +52,7 @@
                 "uniques": [
                     "[+10]% Production when constructing [All] buildings [in all cities]",
                 ],
+                "requires": ["Patriotism","Constitution"],
                 "row": 2,
                 "column": 4
             },
