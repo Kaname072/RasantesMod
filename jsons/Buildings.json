@@ -22,6 +22,17 @@
 		"uniques": ["Destroyed when the city is captured"],
 	},
 	{
+		"name": "White Pillar",
+		"replaces": "Monument",
+		"uniqueTo": "Eden",
+		"culture": 2,
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"],
+	},
+	{
 		"name": "Monument Oceanic",
 		"uniqueTo": "Atlantis",
 		"replaces": "Monument",
@@ -197,7 +208,7 @@
 	},
     {
 		"name": "White Monastery",
-		"uniqueTo": "Cloverland",
+		"uniqueTo": "Novaland",
 		"replaces": "Temple",
 		"faith": 2,
 		"requiredBuilding": "Shrine",
