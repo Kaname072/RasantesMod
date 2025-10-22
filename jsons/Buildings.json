@@ -211,11 +211,12 @@
 		"uniqueTo": "Novaland",
 		"replaces": "Temple",
 		"faith": 2,
+		"science": 4,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Theology",
-		"uniques": ["[+1 Faith] from [Luxury resource] tiles [in this city]","Only available <when religion is enabled>"],
+		"uniques": ["Only available <when religion is enabled>"],
 	},
 	{
 		"name": "Poseidon Statue",
