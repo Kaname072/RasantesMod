@@ -116,9 +116,16 @@ NationIcons/Elves
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Cloverland
+NationIcons/Novaland
   rotate: false
   xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Constelation
+  rotate: false
+  xy: 1700, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -294,6 +301,13 @@ BuildingIcons/The Idol
 BuildingIcons/White Monastery
   rotate: false
   xy: 1600, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/White Pillar
+  rotate: false
+  xy: 1700, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -483,6 +497,13 @@ LeaderIcons/Bonaparte
 LeaderIcons/Bharat
   rotate: false
   xy: 1183, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Junior032
+  rotate: false
+  xy: 1243, 1001
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -725,6 +746,20 @@ UnitIcons/Eunuch
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Jumper Lizardo
+  rotate: false
+  xy: 1700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Infantry
+  rotate: false
+  xy: 1800, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Monk
   rotate: false
   xy: 800, 300
@@ -872,9 +907,16 @@ ResourceIcons/Lizardo Eggs
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Elf Magic
+PromotionIcons/Elf Wizard
   rotate: false
-  xy: 0, 500
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PromotionIcons/Blindness
+  rotate: false
+  xy: 0, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -929,14 +971,14 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 835, 137
+  xy: 835, 138
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 337
+  xy: 135, 338
   size: 31, 26
   orig: 100, 100
   offset: 0, 0
