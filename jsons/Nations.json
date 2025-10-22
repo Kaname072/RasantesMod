@@ -495,7 +495,8 @@
 		"outerColor": [208,128,32],
 		"innerColor": [232,232,232],
 		"uniqueName": "The Wise",
-		"uniques": ["Free Great Person <after discovering [Writing]>"],
+		"uniques": ["Free Technology <upon founding a city> <when number of [Cities] is more than [1]>",
+		"[+2 Science] from every specialist [in all cities]"],
 		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
 	},
 	{
@@ -522,7 +523,9 @@
 		"outerColor": [0,208,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Protectionism",
-		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>",
+			"Gifts of Gold to City-States generate [25]% more Influence",
+			"Science gained from research agreements [+50]%"],
 		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
 	{
