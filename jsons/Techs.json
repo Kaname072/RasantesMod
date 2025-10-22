@@ -54,7 +54,19 @@
 		]
 	},
 	{
-		"columnNumber": 2,
+		{
+		"columnNumber": 1,
+		"era": "Medieval era",
+		"techCost": 50,
+		"buildingCost": 80,
+		"wonderCost": 220,
+		"techs": [
+			{
+				"name": "Trapping",
+				"row": 2,
+				"prerequisites": ["Animal Husbandry"],
+			}
+		"columnNumber": 3,
 		"era": "Renaissance era",
 		"techCost": 75,
 		"buildingCost": 80,
@@ -65,11 +77,6 @@
 				"row": 1,
 				"prerequisites": ["Animal Husbandry","Irrigation"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Trapping",
-				"row": 2,
-				"prerequisites": ["Animal Husbandry"],
 			},
 			{
 				"name": "Optics",
@@ -108,7 +115,7 @@
 		]
 	},
 	{
-		"columnNumber": 3,
+		"columnNumber": 4,
 		"era": "Renaissance era",
 		"techCost": 125,
 		"buildingCost": 100,
@@ -160,7 +167,7 @@
 		]
 	},
 	{
-		"columnNumber": 4,
+		"columnNumber": 5,
 		"era": "Modern era",
 		"techCost": 200,
 		"buildingCost": 120,
@@ -203,7 +210,7 @@
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Modern era",
 		"techCost": 275,
 		"buildingCost": 150,
@@ -246,7 +253,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Modern era",
 		"techCost": 325,
 		"buildingCost": 175,
@@ -280,7 +287,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Future era",
 		"techCost": 450,
 		"buildingCost": 200,
@@ -311,7 +318,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Future era",
 		"techCost": 525,
 		"buildingCost": 225,
@@ -348,7 +355,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Future era",
 		"techCost": 750,
 		"buildingCost": 250,
@@ -374,7 +381,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Future era",
 		"techCost": 725,
 		"buildingCost": 275,
