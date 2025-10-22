@@ -55,9 +55,9 @@
 	},
 	{
 		{
-		"columnNumber": 1,
+		"columnNumber": 2,
 		"era": "Medieval era",
-		"techCost": 50,
+		"techCost": 60,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -65,7 +65,36 @@
 				"name": "Trapping",
 				"row": 2,
 				"prerequisites": ["Animal Husbandry"],
+			},
+			{
+			    "name": "Infrastructure",
+				"row": 7,
+				"prerequisites": ["Mining","Writing"],
+                "uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"name": "Engineering",
+				"row": 5,
+				"prerequisites": ["Mining"]
+			},
+			{
+			    "name": "Sailing",
+				"row": 4,
+				"prerequisites": ["Irrigation"]
+			},
+		    {
+				"name": "Theology",
+				"row": 6,
+				"prerequisites": ["Mysticism"]
+			},
+			{
+				"name": "Numbers",
+				"row": 8,
+				"prerequisites": ["Writing"]
 			}
+		]
+	},
+	{
 		"columnNumber": 3,
 		"era": "Renaissance era",
 		"techCost": 75,
@@ -74,38 +103,32 @@
 		"techs": [
 			{
 				"name": "Masonry",
-				"row": 1,
-				"prerequisites": ["Animal Husbandry","Irrigation"],
+				"row": 3,
+				"prerequisites": ["Engineering"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Optics",
-				"row": 3,
-				"prerequisites": ["Irrigation"],
+				"row": 1,
+				"prerequisites": ["Sailing"],
                 "uniques": ["[+100]% weight to this choice for AI decisions","Enables embarkation for land units"]
-			},
-			{
-				"name": "Theology",
-				"row": 4,
-				"prerequisites": ["Mysticism"]
 			},
 			{
 				"name": "Iron Working",
 				"cost": 100,
 				"row": 5,
-				"prerequisites": ["Mining"],
+				"prerequisites": ["Engineering"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Economics",
 				"row": 7,
-				"prerequisites": ["Mining","Writing"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"]
+				"prerequisites": ["Numbers","Engineering"]
 			},
 			{
 				"name": "Mathematics",
 				"row": 8,
-				"prerequisites": ["Writing"],
+				"prerequisites": ["Numbers"],
 			},
 			{
 				"name": "History",
@@ -189,12 +212,6 @@
 				"row": 5,
 				"prerequisites": ["Chivalry"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Engineering",
-				"row": 4,
-				"prerequisites": ["Metal Casting"],
-                "uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Crystal Working",
