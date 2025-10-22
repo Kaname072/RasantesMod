@@ -222,7 +222,12 @@
 				"row": 1,
 				"prerequisites": ["Construction"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
-		    }
+		    },
+			{
+				"name": "Acoustics",
+				"row": 6,
+				"prerequisites": ["Music & Art"]
+			}
 		]
 	},
 	{
@@ -262,10 +267,15 @@
 			{
 				"name": "Rifling",
 				"cost": 350,
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Militarism","Crystal Working"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
-			}
+			},
+			{
+				"name": "Archaeology",
+				"row": 5,
+				"prerequisites": ["Acoustics"]
+			},
 		]
 	},
 	{
@@ -283,7 +293,7 @@
 			{
 				"name": "Scientific Theory",
 				"row": 5,
-				"prerequisites": ["Computers"],
+				"prerequisites": ["Archaeology"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
