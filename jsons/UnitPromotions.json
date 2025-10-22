@@ -706,8 +706,7 @@
 		"uniques": ["No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
 	},
 	{
-		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
-		"uniques": ["[+30]% Strength decreasing with distance from the capital"]
+		"name": "Home Sweet Home""uniques": ["[+30]% Strength decreasing with distance from the capital"]
 	},
     {
         "name": "Devout",
@@ -762,6 +761,13 @@
 		"name": "[Bunny Scout] ability",
 		"uniques": ["May enter foreign tiles without open borders", "Can pass through impassable tiles"]
 	},
+	{
+		"name": "[Eunuch] ability",
+		"uniques": ["[+5] HP when healing", "All adjacent units heal [+10] HP when healing"]
+	},
+	{
+		"name": "[Great Infantry] ability",
+		"uniques": [
 	{
 		"name": "Blindness",
 		"uniques": ["[-1] Movement","[-1] Sight"]
