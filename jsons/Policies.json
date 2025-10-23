@@ -78,7 +78,8 @@
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian]>",
-            "Notified of new Barbarian encampments"
+            "Notified of new Barbarian encampments",
+            "Earn [150]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture]"
         ],
         "policies": [
             {
@@ -114,7 +115,7 @@
                 "name": "Empire Growth",
                 "uniques": [
                     "[-15]% Culture cost of natural border growth [in all cities]",
-                    "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture]"
+                    "[+1 Culture] [in all cities connected to capital]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
