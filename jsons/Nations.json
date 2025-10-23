@@ -323,19 +323,19 @@
 		"cities": ["Ultimato","Darkhand","Nonmoon","Lordd","Yllzor","Zrhim","Blackout","Burnink","Unshine"]
 	},
 	{
-		"name": "Lizardinia",
-		"leaderName": "Salazar I",
-		"adjective": ["lizardos"],
+		"name": "Wallachia",
+		"leaderName": "Wagner II",
+		"adjective": ["wallachians"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
-		"personality": "Salazar I",
+		"personality": "Wagner II",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "War is War, Dust is Dust!",
+		"declaringWar": "Now, you will pay for everything!",
 		"attacked": "I'm waiting for this!",
-		"defeated": "Oh lord! the destruction get me? Oh, it's there...",
+		"defeated": "The fire consumes everything, this is you want? well, you earn this....",
 		"introduction": "Greetings, stranger",
 
 		"neutralHello": "Greetings.",
@@ -343,14 +343,13 @@
 
 		"tradeRequest": "May respect for you. You can make this posible?",
 
-		"outerColor": [208,208,0],
+		"outerColor": [0,0,208],
 		"innerColor": [208,0,0],
-		"favoredReligion": "Rasantes Cult",
+		"favoredReligion": "Martyr",
 		"uniqueName": "Assasin Squad",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-			"[+100]% XP gained from combat <for [{Military} {Land}] units>",
 			"Units ignore terrain costs when moving into any tile with Hills"],
-		"cities": ["Ul'Magmaro","Sihaka","Deshia","Suna'Ul","Oslynha","Quebbame","Ul'Omagma","Turiu'Ul"]
+		"cities": ["Targovia","Bresti","Burti","Makina","Salinça","Eufrates","Talina"],
 	},
 	{
 		"name": "Eden",
@@ -540,6 +539,19 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,0],
 		"cities": ["Au"]
+	},
+	{
+		"name": "Pillardos",
+		"leaderName": "Salazar I",
+		"adjective": ["pillardos"],
+		"cityStateType": "Religious Fanatic",
+
+		"declaringWar": "Dont make this hard, little infidel!",
+		"attacked": "Huh! this is nothing!",
+		"defeated": "How!? how i lose for a blasfemous nation!?",
+		"outerColor": [0,0,0],
+		"innerColor": [218,198,0],
+		"cities": ["Ul'Magmaro"]
 	},
 	{
 		"name": "Orks",
