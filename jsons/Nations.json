@@ -343,8 +343,8 @@
 
 		"tradeRequest": "May respect for you. You can make this posible?",
 
-		"outerColor": [0,0,208],
-		"innerColor": [208,0,0],
+		"outerColor": [4,4,160],
+		"innerColor": [255,236,131],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Assasin Squad",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
@@ -490,8 +490,8 @@
 
 		"tradeRequest": "You people need this!",
 
-		"outerColor": [18,191,70],
-		"innerColor": [255,230,91],
+		"outerColor": [17,147,56],
+		"innerColor": [255,236,131],
 		"uniqueName": "The Wise",
 		"uniques": ["[+50]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <when number of [Cities] is less than [6]> <hidden from users>",
 			"Receive a science boost (5 turns only) when found a non-capital cities for 5 times",
@@ -519,7 +519,7 @@
 
 		"tradeRequest": "You look need this.",
 
-		"outerColor": [0,208,0],
+		"outerColor": [3,169,3],
 		"innerColor": [255,255,255],
 		"uniqueName": "Protectionism",
 		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>",
