@@ -113,8 +113,8 @@
             {
                 "name": "Empire Growth",
                 "uniques": [
-                    "[-15]% Culture cost of natural border growth",
-                    "Earn [200]% of killed [{Barbarian} {Land}] units [Strength] as [Culture]"
+                    "[-15]% Culture cost of natural border growth [in all cities]",
+                    "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
