@@ -3,7 +3,7 @@
     // I also did some testing in the official version, but by far not all
 
     {
-        "name": "Renaissance era",
+        "name": "Medieval era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
@@ -17,12 +17,12 @@
         "iconRGB": [255, 87, 35]
     },
     {
-        "name": "Medieval era",
+        "name": "Renaissance era",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
         "startingMilitaryUnitCount": 3,
-        "startingMilitaryUnit": "Infantry",
+        "startingMilitaryUnit": "Spearman",
         "startingGold": 25,
         "startingCulture": 200,
         "settlerPopulation": 1,
@@ -43,7 +43,7 @@
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 5,
-        "startingMilitaryUnit": "Laser Gunner",
+        "startingMilitaryUnit": "Infantry",
         "startingGold": 200,
         "startingCulture": 500,
         "settlerPopulation": 3,
