@@ -10,14 +10,14 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+1 Culture] [in all cities]" 
+            "[+1 Production] [in all cities]" 
         ],
         "policies": [
             {
                 "name": "Constitution",
                 "uniques": [
-                    "[+2 Production] [in capital]",
-                    "[+1 Production] [in all cities]",
+                    "[+1 Culture] [in capital]",
+                    "[+1 Culture] [in all cities]",
                 ],
                 "row": 1,
                 "column": 1
@@ -31,9 +31,10 @@
                 "column": 3
             },
             {
-                "name": "Patriotism",
+                "name": "Citizenship",
                 "uniques": [
-                    "[+2 Culture] from every [Wonder]"
+                    "Can build [all] improvements at a [+25]% rate",
+                    "Free [Worker] appears"
                 ],
                 "row": 1,
                 "column": 5
@@ -50,9 +51,9 @@
             {
                 "name": "Guilds",
                 "uniques": [
-                    "[+10]% Production when constructing [All] buildings [in all cities]",
+                    "[+5]% Production when constructing [All] buildings [in all cities]",
                 ],
-                "requires": ["Patriotism","Constitution"],
+                "requires": ["Citizenship"]
                 "row": 2,
                 "column": 4
             },
@@ -60,7 +61,7 @@
                 "name": "Sovereignty Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [4] cities for free"
+                    "Free Great Person"
                 ]
             }
         ]
