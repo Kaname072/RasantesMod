@@ -147,16 +147,13 @@
 	},
 	{
 		"name": "Pillager",
-		"uniqueTo": "Lizardinia",
+		"uniqueTo": "Barbarians",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 12,
+		"strength": 11,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"requiredResource": "Iron",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
-		"promotions": ["[Pillager] ability"],
 		"obsoleteTech": "Crystal Working",
 		"upgradesTo": "Laser Swordsman",
 		"attackSound": "metalhit"
