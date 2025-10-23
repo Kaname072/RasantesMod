@@ -44,7 +44,7 @@
                 "uniques": [
                     "[+1 Food] per [4] population [in all cities]"
                 ],
-                "requires": ["Humanism"],
+                "requires": ["Citizenship"],
                 "row": 2,
                 "column": 2
             },
