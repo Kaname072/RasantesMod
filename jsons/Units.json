@@ -133,7 +133,7 @@
 	{
 		"name": "Jumper Lizardo",
 		"replaces": "Swordsman",
-		"uniqueTo": "Novaland",
+		"uniqueTo": "Ouroborus",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 12,
