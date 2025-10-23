@@ -46,9 +46,9 @@ NationIcons/Bunnies
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Lizardinia
+NationIcons/Wallachia
   rotate: false
-  xy: 0, 300
+  xy: 0, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -992,14 +992,14 @@ TileSets/FantasyHex/Tiles/Goat
   index: -1
 TileSets/FantasyHex/Tiles/IceCream Mountain
   rotate: false
-  xy: 835, 138
+  xy: 835, 133
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saint Rayssa
   rotate: false
-  xy: 135, 338
+  xy: 135, 333
   size: 31, 29
   orig: 100, 100
   offset: 0, 0
