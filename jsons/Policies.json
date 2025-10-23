@@ -66,6 +66,68 @@
             }
         ]
     },
+    {
+        "name": "Sword",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 0,
+            "Domination": 7,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+33]% Strength <vs [Barbarian]>"
+        ],
+        "policies": [
+            {
+                "name": "Warrior Code",
+                "uniques": [
+                    "
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Humanism",
+                "uniques": [
+                    "[+1 Happiness] per [4] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Citizenship",
+                "uniques": [
+                    "Can build [all] improvements at a [+25]% rate",
+                    "Free [Worker] appears"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Social Policies",
+                "uniques": [
+                    "[+1 Food] per [4] population [in all cities]"
+                ],
+                "requires": ["Citizenship"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Guilds",
+                "uniques": [
+                    "[+5]% Production when constructing [All] buildings [in all cities]",
+                ],
+                "requires": ["Citizenship"]
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Sovereignty Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Free Great Person"
                 ]
             }
         ]
