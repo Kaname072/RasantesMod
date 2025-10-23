@@ -77,57 +77,68 @@
             "Scientific": 0
         },
         "uniques": [
-            "[+33]% Strength <vs [Barbarian]>"
+            "[+33]% Strength <vs [Barbarian]>",
+            "Notified of new Barbarian encampments"
         ],
         "policies": [
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "
-                ],
-                "row": 1,
-                "column": 1
-            },
-            {
-                "name": "Humanism",
-                "uniques": [
-                    "[+1 Happiness] per [4] population [in all cities]"
+                    "[+15]% Production when constructing [Melee] units [in all cities]",
+                    "Free [Great General] appears"
                 ],
                 "row": 1,
                 "column": 3
             },
             {
-                "name": "Citizenship",
+                "name": "Honor",
                 "uniques": [
-                    "Can build [all] improvements at a [+25]% rate",
-                    "Free [Worker] appears"
+                    "Units in cities cost no Maintenance",
+                    "[+20]% Strength for cities <when attacking>"
                 ],
-                "row": 1,
+                "requires": ["Warrior Code"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Glory",
+                "uniques": [
+                    "[+2 Culture, +1 Happiness] [in all cities with a garrison]",
+                    "Free [Great General] appears"
+                ],
+                "requires": ["Warrior Code"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Empire Growth",
+                "uniques": [
+                    "[-15]% Culture cost of natural border growth",
+                    "Earn [200]% of killed [{Barbarian} {Land}] units [Strength] as [Culture]"
+                ],
+                "requires": ["Warrior Code"],
+                "row": 2,
                 "column": 5
             },
             {
-                "name": "Social Policies",
+                "name": "Professional Army",
                 "uniques": [
-                    "[+1 Food] per [4] population [in all cities]"
+                    "[-33]% Gold cost of upgrading <for [Military] units>",
+                    "[+1 Happiness] from every [Walls]",
+                    "[+1 Happiness] from every [Castle]",
+                    "[+1 Happiness] from every [Arsenal]",
+                    "[+1 Happiness] from every [Military Base]",
                 ],
-                "requires": ["Citizenship"],
-                "row": 2,
-                "column": 2
+                "requires": ["Honor","Glory","Empire Growth"]
+                "row": 3,
+                "column": 3
             },
             {
-                "name": "Guilds",
+                "name": "Sword Complete",
                 "uniques": [
-                    "[+5]% Production when constructing [All] buildings [in all cities]",
-                ],
-                "requires": ["Citizenship"]
-                "row": 2,
-                "column": 4
-            },
-            {
-                "name": "Sovereignty Complete",
-                "uniques": [
-                    "[+15]% growth [in all cities]",
-                    "Free Great Person"
+                    "[+5] HP when healing <for [Military] units>",
+                    "[+15]% Strength <for [Military] units>",
+                    "[+1 Culture] [in all cities]"
                 ]
             }
         ]
