@@ -396,7 +396,7 @@
 		"name": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 18,
+		"strength": 15,
 		"cost": 80,
 		"hurryCostModifier": 10,
 		"requiredTech": "Physics",
@@ -521,7 +521,7 @@
 		"rangedStrength": 7,
 		"cost": 60,
 		"requiredTech": "Mysticism",
-		"uniques": ["[+1] Range","[+2] Sight"],
+		"uniques": ["[+1] Range","[+1] Sight"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Archer",
 		"attackSound": "missile"
