@@ -493,9 +493,8 @@
 		"outerColor": [17,147,56],
 		"innerColor": [255,236,131],
 		"uniqueName": "The Wise",
-		"uniques": ["[+50]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
-			"Receive a science boost for 5 turns when found a non-capital cities",
-			"[+2 Science] from every specialist [in all cities]"],
+		"uniques": ["[+25]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
+			"Receive a science boost for 5 turns when found a non-capital cities"],
 		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
 	},
 	{
