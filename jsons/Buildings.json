@@ -43,6 +43,16 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"],
 	},
+	{
+		"name": "Royal Burial Tomb",
+		"uniqueTo": "Wallachia",
+		"replaces": "Monument",
+		"culture": 5,
+		"cost": 80,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+		
 	// Column 1
 	{
 		"name": "Granary",
