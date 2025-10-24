@@ -348,7 +348,8 @@
 		"favoredReligion": "Martyr",
 		"uniqueName": "Capture Groups",
 		"uniques": ["Earn [100]% of killed [{Military} {Land}] unit's [Cost] as [Production]",
-			"Earn [100]% of killed [{Military} {Land}] unit's [Strength] as [Gold]"],
+			"Earn [100]% of killed [{Military} {Land}] unit's [Strength] as [Gold]",
+			"[This Unit] gain the [Wallachia Revenge] promotion <when stacked with a [Great Leader] unit> <hidden from users>"],
 		"cities": ["Targovia","Bresti","Burti","Makina","Salinça","Eufrates","Talina"],
 	},
 	{
