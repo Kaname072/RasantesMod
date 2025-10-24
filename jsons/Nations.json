@@ -347,8 +347,8 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Capture Groups",
-		"uniques": ["[+25]% Strength <when fighting a units from a Civilization with more Cities than you>",
-			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [100]% of killed [{Military} {Land}] unit's [Cost] as [Production]",
+			"Earn [100]% of killed [{Military} {Land}] unit's [Strength] as [Gold]"],
 		"cities": ["Targovia","Bresti","Burti","Makina","Salinça","Eufrates","Talina"],
 	},
 	{
