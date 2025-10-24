@@ -47,11 +47,11 @@
 		"name": "Royal Burial Tomb",
 		"uniqueTo": "Wallachia",
 		"replaces": "Monument",
-		"culture": 5,
-		"cost": 80,
+		"culture": 2,
+		"cost": 40,
 		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+		"maintenance": 2,
+		"uniques": ["All newly-trained [{Military} {Land}] units [in this city] receive the [Wallachia Revenge] promotion","Destroyed when the city is captured"]
 	},
 		
 	// Column 1
