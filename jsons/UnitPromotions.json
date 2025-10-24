@@ -682,8 +682,8 @@
 		"uniques": ["[Great General] is earned [100]% faster"]
 	},
 	{
-		"name": "Quick Study", // only for Keshik and subsequent upgrades
-		"uniques": ["[+50]% XP gained from combat"]
+		"name": "Wallachia Revenge", // only for Wallachia civ
+		"uniques": ["[+33]% Strength <when stacked with a [Great Leader] unit>","Transfer Movement to [Great Leader]","[Great Leader] is earned [25]% faster"]
 	},
 	{
 		"name": "[Spike Catapult] ability", // only for Spike Catapult and subsequent upgrades
