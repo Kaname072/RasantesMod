@@ -347,9 +347,8 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Capture Groups",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Production]",
-			"[+50]% Strength <for [Military] units> <when stacked with a [Great Leader] unit>",
-		    "Transfer Movement to [Great Leader] <for [Military] units>"],
+		"uniques": ["[+25]% Strength <when fighting a units from a Civilization with more Cities than you>",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Targovia","Bresti","Burti","Makina","Salinça","Eufrates","Talina"],
 	},
 	{
