@@ -200,7 +200,7 @@
 	},
 	{
 		"name": "Bunny Legion",
-		"uniqueTo": "Light Bunnies",
+		"uniqueTo": "Bunnies",
 		"replaces": "Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
