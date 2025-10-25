@@ -39,7 +39,7 @@ NationIcons/Blop Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Light Bunnies
+NationIcons/Bunnies
   rotate: false
   xy: 0, 200
   size: 100, 100
@@ -140,13 +140,6 @@ NationIcons/Novaland
 NationIcons/Constelation
   rotate: false
   xy: 1700, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Brown Bunnies
-  rotate: false
-  xy: 0, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -904,6 +897,13 @@ UnitIcons/Night Flame
   rotate: false
   xy: 800, 400
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Storm
+  rotate: false
+  xy: 200, 400
+  size: 160, 160
   orig: 100, 100
   offset: 0, 0
   index: -1
