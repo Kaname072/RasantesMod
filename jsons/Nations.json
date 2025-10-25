@@ -119,7 +119,7 @@
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
-		"name": "Bunnies",
+		"name": "Light Bunnies",
 		"leaderName": "William",
 		"adjective": ["rabbit"],
 		"startBias": ["Grassland"],
@@ -525,6 +525,33 @@
 			"Gifts of Gold to City-States generate [25]% more Influence",
 			"Science gained from research agreements [+50]%"],
 		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
+	},
+	{
+		"name": "Brown Bunnies",
+		"leaderName": "Victoria III",
+		"adjective": ["rabbit"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Victoria III",
+
+		"startIntroPart1": "The Bunnies is the most pacefull races in the universe! The bunnies love will get the universe to show to all Nations, how to make a empire without violence or destruction",
+		"startIntroPart2": "War is bad! cruelity is bad! the universe need something to make everyone love everyone",
+
+		"declaringWar": "You rude poor man! you will pay for everything you made with me!!",
+		"attacked": "That's arrogance is the same the my old defeated enemies!",
+		"defeated": "That's a shame for me...",
+		"introduction": "Greetings, stranger",
+
+		"neutralHello": "Greetings. ",
+		"hateHello": "I dont like this",
+
+		"tradeRequest": "You can made this posible?",
+
+		"outerColor": [255,108,108],
+		"innerColor": [255,255,255],
+		"uniqueName": "The More Green Grass",
+		"uniques": ["[+2] Sight <for [All] units>"],
+		"cities": ["Bun'gna","Venize","Zuniki","Ul'Maksha","Dandala","Mandala","Cambudia"]
 	},
 	{
 		"name": "Golden Wings",
