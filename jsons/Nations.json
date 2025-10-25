@@ -119,23 +119,23 @@
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
-		"name": "Light Bunnies",
-		"leaderName": "William",
+		"name": "Bunnies",
+		"leaderName": "Victoria III",
 		"adjective": ["rabbit"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
-		"personality": "William",
+		"personality": "Victoria III",
 
 		"startIntroPart1": "The Bunnies is the most pacefull races in the universe! The bunnies love will get the universe to show to all Nations, how to make a empire without violence or destruction",
 		"startIntroPart2": "War is bad! cruelity is bad! the universe need something to make everyone love everyone",
 
-		"declaringWar": "You force me do this!",
-		"attacked": "Oh! what you doing?",
-		"defeated": "Why you make this? why? you're a monster!",
+		"declaringWar": "Theres land's dont need you crown!",
+		"attacked": "The same arrogance of my old defeated enemies, well, come on!",
+		"defeated": "Sorry my people, i missed with us...",
 		"introduction": "Hello for your nation",
 
 		"neutralHello": "Hallo!",
-		"hateHello": ">:(",
+		"hateHello": "...",
 
 		"tradeRequest": "You people need this!",
 
@@ -145,7 +145,7 @@
 		"uniques": ["[+100]% Yield from every [Farm]",
 			"[+1 Gold] from each Trade Route",
 			"City-State territory always counts as friendly territory"],
-		"cities": ["Carrotnopla","Teetholia","Noellis","Melon","Pineapple","Strawberry"],
+		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
 	{
 		"name": "Franice",
@@ -527,33 +527,6 @@
 		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
 	{
-		"name": "Brown Bunnies",
-		"leaderName": "Victoria III",
-		"adjective": ["rabbit"],
-		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Victoria III",
-
-		"startIntroPart1": "The Bunnies is the most pacefull races in the universe! The bunnies love will get the universe to show to all Nations, how to make a empire without violence or destruction",
-		"startIntroPart2": "War is bad! cruelity is bad! the universe need something to make everyone love everyone",
-
-		"declaringWar": "You rude poor man! you will pay for everything you made with me!!",
-		"attacked": "That's arrogance is the same the my old defeated enemies!",
-		"defeated": "That's a shame for me...",
-		"introduction": "Greetings, stranger",
-
-		"neutralHello": "Greetings. ",
-		"hateHello": "I dont like this",
-
-		"tradeRequest": "You can made this posible?",
-
-		"outerColor": [255,108,108],
-		"innerColor": [255,255,255],
-		"uniqueName": "The More Green Grass",
-		"uniques": ["[+2] Sight <for [All] units>"],
-		"cities": ["Bun'gna","Venize","Zuniki","Ul'Maksha","Dandala","Mandala","Cambudia"]
-	},
-	{
 		"name": "Golden Wings",
 		"leaderName": "Lunior444",
 		"adjective": ["goldenios"],
@@ -659,6 +632,21 @@
 		"outerColor": [0,0,0],
 		"innerColor": [0,197,21],
 		"cities": ["Parice"]
+	},
+	{
+		"name": "Bunnyzantium",
+		"leaderName": "William",
+		"adjective": ["rabbits"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You force me do this!",
+		"attacked": "You are hurting the more weakness people!",
+		"defeated": "Monster! you are a monster! Go away from me!!",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,108,108],
+		"cities": ["Carrotinopla"]
 	},
 	{
 		"name": "Sunmales",
