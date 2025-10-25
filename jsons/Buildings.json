@@ -220,6 +220,18 @@
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>"],
 	},
+    {
+		"name": "Bell Temple",
+		"replaces": "Temple",
+		"uniqueTo": "Onigama",
+		"faith": 2,
+		"gold": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
+	},
 	{
 		"name": "Poseidon Statue",
 		"isWonder": true,
@@ -266,7 +278,7 @@
 	},
 	{
 		"name": "Carrot Market",
-		"uniqueTo": "Bunnies",
+		"uniqueTo": "Light Bunnies",
 		"replaces": "Market",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
