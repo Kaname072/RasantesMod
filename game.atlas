@@ -39,7 +39,7 @@ NationIcons/Blop Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Bunnies
+NationIcons/Light Bunnies
   rotate: false
   xy: 0, 200
   size: 100, 100
@@ -88,6 +88,13 @@ NationIcons/Capricorn
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Marttomans
+  rotate: false
+  xy: 1800, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Ouroborus
   rotate: false
   xy: 1600, 200
@@ -98,6 +105,13 @@ NationIcons/Ouroborus
 NationIcons/Eden
   rotate: false
   xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Onigama
+  rotate: false
+  xy: 0, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -130,9 +144,16 @@ NationIcons/Constelation
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Brown Bunnies
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Saint Tree
   rotate: false
-  xy: 200, 400
+  xy: 200, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -452,6 +473,13 @@ LeaderIcons/Junior778
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Victoria III
+  rotate: false
+  xy: 63, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Oni chan
   rotate: false
   xy: 223, 1001
@@ -504,6 +532,20 @@ LeaderIcons/Bharat
 LeaderIcons/Junior053
   rotate: false
   xy: 1343, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Matsu Nono
+  rotate: false
+  xy: 1503, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Seamonides
+  rotate: false
+  xy: 1663, 1001
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -627,9 +669,16 @@ UnitIcons/Goat Rider
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ballista Rasante
+UnitIcons/Onikong
   rotate: false
-  xy: 300, 200
+  xy: 1800, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sharpithan
+  rotate: false
+  xy: 800, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -685,7 +734,7 @@ UnitIcons/Pillager
   index: -1
 UnitIcons/Cisplatinos
   rotate: false
-  xy: 400, 300
+  xy: 300, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -783,7 +832,7 @@ UnitIcons/Great Infantry
   index: -1
 UnitIcons/Monk
   rotate: false
-  xy: 800, 300
+  xy: 200, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
