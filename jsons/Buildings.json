@@ -278,7 +278,7 @@
 	},
 	{
 		"name": "Carrot Market",
-		"uniqueTo": "Light Bunnies",
+		"uniqueTo": "Bunnies",
 		"replaces": "Market",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
