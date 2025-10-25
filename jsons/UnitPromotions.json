@@ -682,10 +682,6 @@
 		"uniques": ["[Great General] is earned [100]% faster"]
 	},
 	{
-		"name": "Wallachia Revenge", // only for Wallachia civ
-		"uniques": ["[+33]% Strength <when stacked with a [Great Leader] unit>","Transfer Movement to [Great Leader]","[Great Leader] is earned [25]% faster"]
-	},
-	{
 		"name": "[Spike Catapult] ability", // only for Spike Catapult and subsequent upgrades
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
 	},
@@ -727,7 +723,7 @@
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["[+50]% Strength <when defending> <vs [non-[Land]] units>"]
+		"uniques": ["[+33]% Strength <when attacking> <vs [non-[Melee]] units>"]
 	},
 	{
 		"name": "Elf Magic",
@@ -752,7 +748,7 @@
 	},
 	{
 		"name": "[Storm] ability",
-		"uniques": ["[1] additional attacks per turn"]
+		"uniques": ["[+75]% Strength <when defending> <vs [Water] units>","[1] additional attacks per turn"]
 	},
 	{
 		"name": "Assasin Spirit",
