@@ -719,7 +719,7 @@
 	},
 	{
 		"name": "[Pacefull Warrior] ability",
-		"uniques": ["Free [This Unit] appears <upon being defeated>", "Double movement in [Forest]", "Double movement in [Jungle]"]
+		"uniques": ["Free [Scout] appears <upon being defeated> <with [50]% chance>", "Double movement in [Forest]", "Double movement in [Jungle]"]
 	},
 	{
 		"name": "[Pillager] ability",
