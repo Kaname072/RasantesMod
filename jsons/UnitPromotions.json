@@ -771,6 +771,10 @@
 		"uniques": ["May Paradrop to [Land] tiles up to [2] tiles away","Withdraws before melee combat <with [10]% chance>"]
 	},
 	{
+		"name": "Guerrilha Tactics",
+		"uniques": ["Withdraws before melee combat <with [50]% chance> <when fighting in [Friendly Land] tiles>"]
+	},
+	{
 		"name": "Blindness",
 		"uniques": ["[-1] Movement","[-1] Sight"]
 	},
