@@ -56,10 +56,10 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
-		"uniqueName": "Imperialism",
-		"uniques": ["[+30]% [Science] [in all cities] <during a Golden Age>",
-		"When declaring friendship, both parties gain a [10]% boost to great person generation",
-		"[+1] Movement <for [Gunpowder] units>"],
+		"uniqueName": "Scientific Atheism",
+		"uniques": ["[+15]% [Science] [in all cities]",
+		"May not generate great prophet equivalents naturally",
+		"[+1] Sight <for [Gunpowder] units>"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
@@ -323,19 +323,19 @@
 		"cities": ["Ultimato","Darkhand","Nonmoon","Lordd","Yllzor","Zrhim","Blackout","Burnink","Unshine"]
 	},
 	{
-		"name": "Wallachia",
-		"leaderName": "Wagner II",
-		"adjective": ["wallachians"],
-		"startBias": ["Desert"],
+		"name": "Marttomans",
+		"leaderName": "Seamonides",
+		"adjective": ["marttoman"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		"personality": "Wagner II",
+		"personality": "Seamonides",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Now, you will pay for everything!",
-		"attacked": "I'm waiting for this!",
-		"defeated": "The fire consumes everything, this is you want? well, you earn this....",
+		"declaringWar": "You land need a true religion!",
+		"attacked": "I never believed in you!",
+		"defeated": "NOOOO! NOOOO! NOOOO!",
 		"introduction": "Greetings, stranger",
 
 		"neutralHello": "Greetings.",
@@ -347,9 +347,9 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Capture Groups",
-		"uniques": ["Earn [100]% of killed [{Military} {Land}] unit's [Cost] as [Production]",
+		"uniques": ["Earn [100]% of killed [{Military} {Land}] unit's [Cost] as [Culture]",
 			"Earn [100]% of killed [{Military} {Land}] unit's [Strength] as [Gold]"],
-		"cities": ["Targovia","Bresti","Burti","Makina","Salinça","Eufrates","Talina"],
+		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
 		"name": "Eden",
