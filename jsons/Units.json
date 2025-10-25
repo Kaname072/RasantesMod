@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "Bunny Scout",
-		"uniqueTo": "Bunnies",
+		"uniqueTo": "Light Bunnies",
 		"replaces": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
@@ -200,7 +200,7 @@
 	},
 	{
 		"name": "Bunny Legion",
-		"uniqueTo": "Bunnies",
+		"uniqueTo": "Light Bunnies",
 		"replaces": "Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -225,6 +225,36 @@
 		"requiredTech": "Rifling",
 		"requiredResource": "Iron",
 		"promotions": ["[Sprinkles] ability"],
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Onikong",
+		"replaces": "Infantry",
+		"uniqueTo": "Onigama",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 21,
+		"cost": 160,
+		"obsoleteTech": "Lasers",
+		"requiredTech": "Rifling",
+		"requiredResource": "Iron",
+		"promotions": ["Guerrilha Tactics"],
+		"upgradesTo": "Laser Gunner",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Storm",
+		"replaces": "Infantry",
+		"uniqueTo": "Marttomans",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 21,
+		"cost": 160,
+		"obsoleteTech": "Lasers",
+		"requiredTech": "Rifling",
+		"requiredResource": "Iron",
+		"promotions": ["[Storm] ability","Amphibious"],
 		"upgradesTo": "Laser Gunner",
 		"attackSound": "shot"
 	},
@@ -693,6 +723,22 @@
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Sharpithan",
+		"uniqueTo": "Marttomans",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Compass",
+		"upgradesTo": "Destroyer",
+		"obsoleteTech": "Astronomy",
+		"promotions": ["Boarding Party I"],
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "elephant"
 	},
 	{
 		"name": "Destroyer",
