@@ -230,8 +230,7 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>",
-			"[{Water} {Military}] units gain the [Supply] promotion"],
+		"uniques": ["[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -347,8 +346,7 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Capture Groups",
-		"uniques": ["Earn [100]% of killed [{Military} {Land}] unit's [Cost] as [Culture]",
-			"Earn [100]% of killed [{Military} {Land}] unit's [Strength] as [Gold]"],
+		"uniques": ["When defeating a [Water] unit, earn [25] Gold and recruit it <with [33]% chance>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
