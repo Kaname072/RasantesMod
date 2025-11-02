@@ -44,19 +44,6 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Bunny Scout",
-		"uniqueTo": "Bunnies",
-		"replaces": "Scout",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 5,
-		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost","[Bunny Scout] ability","Scouting I"],
-		"attackSound": "nonmetalhit"
-	},
-	{
 		"name": "Primitive Warrior",
 		"unitType": "Sword",
 		"movement": 2,
@@ -418,7 +405,7 @@
 		"requiredTech": "Trapping",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+25]% Strength <vs [Mounted] units>","[+25]% Strength <when fighting in [Coastal] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <when fighting in [Coastal] tiles>"],
 		"promotions": ["Amphibious"],
 		"attackSound": "nonmetalhit"
 	},
@@ -510,23 +497,6 @@
 		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "goatrider"
-	},
-	{
-		"name": "Lizardo Cavalry",
-		"uniqueTo": "Ouroborus",
-		"replaces": "Goat Knight",
-		"unitType": "Mounted",
-		"movement": 3,
-		"strength": 22,
-		"rangedStrength": 21,
-		"cost": 175,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Goat",
-		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
-		"hurryCostModifier": 20,
-		"attackSound": "arrow"
 	},
 	/* Range Units */
 	{
