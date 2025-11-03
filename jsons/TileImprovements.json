@@ -248,17 +248,6 @@
 		]
 	},
 	//Civilization unique improvements
-	
-	{
-		"name": "Treehouse",
-		"terrainsCanBeBuiltOn": ["Jungle"],
-		"uniqueTo": "Eden",
-		"production": 2,
-		"gold": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Mysticism",
-		"uniques": ["[+2 Culture] <after discovering [Theology]>","Pillaging this improvement yields approximately [+20 Gold]","Will not be replaced by automated units"]
-	},
 	{
 		"name": "Party House",
 		"terrainsCanBeBuiltOn": ["Oasis"],
