@@ -57,9 +57,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Scientific Atheism",
-		"uniques": ["[+15]% [Science] [in all cities]",
-		"May not generate great prophet equivalents naturally",
-		"[+1] Sight <for [Gunpowder] units>"],
+		"uniques": ["[+2] [Science] from every specialist [in all cities]",
+			"[Great Scientist] is earned [50]% faster",
+			"May not generate great prophet equivalents naturally"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
@@ -115,7 +115,9 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[+50]% Yield from every [Improvement]"],
+		"uniques": ["[50]% Yield from [City-State]",
+			"[Great Engineer] is earned [50]% faster",
+			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -374,10 +376,7 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Peace",
-		"uniques": ["[+15]% Great Person generation [in all cities] <with [1] to [2] neighboring [Forest] tiles>",
-			"[+15]% Great Person generation [in all cities] <with [1] to [2] neighboring [Jungle] tiles>",
-			"[+30]% Great Person generation [in all cities] <with [3] to [4] neighboring [Forest] tiles>",
-			"[+30]% Great Person generation [in all cities] <with [2] to [4] neighboring [Jungle] tiles>"]
+		"uniques": ["[-10]% Culture cost of adopting new Policies"]
 		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
 	},
 	{
@@ -404,9 +403,8 @@
 		"outerColor": [4,134,125],
 		"innerColor": [255,207,63],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]",
-			"[-50]% Culture cost of natural border growth [in all cities]",
-			"Gain control over [2] tiles [in all non-occupied cities] <upon ending a Golden Age>"],
+		"uniques": ["[-50]% Culture cost of natural border growth [in all cities]",
+			"Gain control over [4] tiles [in all non-occupied cities] <upon founding a city>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -561,7 +559,7 @@
 		"defeated": "So shame... for the warrior race...",
 		"outerColor": [0,0,0],
 		"innerColor": [200,100,0],
-		"cities": ["Khalifa"]
+		"cities": ["Zumbanda"]
 	},
 	{
 		"name": "Risantes",
@@ -570,7 +568,7 @@
 		"cityStateType": "Religious Fanatic",
 
 		"declaringWar": "My lord have mercy but me dont have!",
-		"attacked": "Oh lord!",
+		"attacked": "Oh lord! you are really asking serious!?",
 		"defeated": "Oh lord! why you abadon us?",
 		"outerColor": [0,0,0],
 		"innerColor": [128,128,128],
