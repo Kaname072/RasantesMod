@@ -133,6 +133,22 @@
 		"attackSound": "junissary"
 	},
 	{
+		"name": "Trident",
+		"uniqueTo": "Marttomans",
+	    "replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"uniques": ["[+25]% Strength <when attacking>"],
+		"promotions": ["Amphibious"],
+		"obsoleteTech": "Crystal Working",
+		"upgradesTo": "Laser Swordsman",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Pillager",
 		"uniqueTo": "Barbarians",
 		"replaces": "Swordsman",
@@ -227,21 +243,6 @@
 		"requiredTech": "Rifling",
 		"requiredResource": "Iron",
 		"promotions": ["Guerrilha Tactics"],
-		"upgradesTo": "Laser Gunner",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Storm",
-		"replaces": "Infantry",
-		"uniqueTo": "Marttomans",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 21,
-		"cost": 220,
-		"obsoleteTech": "Lasers",
-		"requiredTech": "Rifling",
-		"requiredResource": "Iron",
-		"promotions": ["[Storm] ability","Amphibious"],
 		"upgradesTo": "Laser Gunner",
 		"attackSound": "shot"
 	},
@@ -393,21 +394,6 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+100]% Strength <when attacking> <vs cities>","No defensive terrain bonus","[-1] Sight"],
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Trident",
-		"replaces": "Spearman",
-		"uniqueTo": "Atlantis",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 10,
-		"cost": 60,
-		"requiredTech": "Trapping",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <when fighting in [Coastal] tiles>"],
-		"promotions": ["Amphibious"],
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Pikeman",
