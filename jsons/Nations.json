@@ -59,6 +59,7 @@
 		"innerColor": [56,155,7],
 		"uniqueName": "Scientific Atheism",
 		"uniques": ["[+1 Science] per [1] population [in all cities]",
+			"[+33]% [Science] [in this city] <during We Love The King Day>",
 			"[Great Scientist] is earned [50]% faster"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
@@ -86,7 +87,7 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[-15]% maintenance costs <for [Military] units>",
+		"uniques": ["[-25]% maintenance costs <for [Production] buildings>",
 			"[Great Engineer] is earned [50]% faster",
 			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
@@ -316,9 +317,11 @@
 		"outerColor": [0,208,0],
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
-		"uniqueName": "Eden Peace",
-		"uniques": ["[-25]% Culture cost of adopting new Policies"]
-		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
+		"uniqueName": "Eden Garden",
+		"uniques": ["[+100]% Yield from every [Jungle]",
+			"[+100]% Yield from every [Forest]",
+			"Free [Great Prophet] appears <upon discovering [Mysticism]>"]
+		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
 	{
 		"name": "Primordials",
@@ -342,40 +345,11 @@
 		"tradeRequest": "Give to me! Please!",
 
 		"outerColor": [255,255,255],
-		"innerColor": [255,126,126],
+		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-50]% Culture cost of natural border growth [in all cities]"],
+		"uniques": ["[+2 Culture, +1 Production] [in all cities]",
+			"Free Great Person <upon conquering a city> <with [50]% chance>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
-	},
-	{
-		"name": "Elves",
-		"leaderName": "Elder Elf",
-		"adjective": ["elf"],
-		"startBias": ["Forest"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Elder Elf",
-
-		"startIntroPart1": "The Elves were a race that dominated much of the galaxy, and after years of domination in a decently peaceful manner, the Empire was challenged by greater enemies in our own galaxy. We returned home but never returned, disappearing into the sands of history.",
-		"startIntroPart2": "Elder, you have the power to up our people to the old times?",
-
-		"declaringWar": "I'll don't ignore you're hostile!",
-		"attacked": "Remember, you made this first!",
-		"defeated": "The history will remember this you made...",
-		"introduction": "Greetings.",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "...",
-
-		"tradeRequest": "?",
-
-		"outerColor": [255,240,255],
-		"innerColor": [243,0,243],
-		"uniqueName": "Mystic Race",
-		"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
-			"Comment [Have a Build with a promotion we can reduce Enemy Unit, Moviment and Sight (When attacking by Ranged units)]",
-			"Will not be chosen for new games <for [AI player] Civilizations> <hidden from users>",
-			"\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Elfhealm"]
 	},
 	{
 		"name": "Ouroborus",
@@ -585,20 +559,6 @@
 		"cities": ["Carrotinopla"]
 	},
 	{
-		"name": "Sunmales",
-		"leaderName": "Sunday",
-		"adjective": ["suns"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "You dont deserve honor!",
-		"attacked": "The sky will fall in you",
-		"defeated": "The defeat is not the end!",
-
-		"outerColor": [0,0,0],
-		"innerColor": [228,228,0],
-		"cities": ["Solar"]
-	},
-	{
 		"name": "Martyres Kingdom",
 		"leaderName": "Junior778",
 		"adjective": ["martyres"],
@@ -610,8 +570,9 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [225,225,255],
-		"uniques": ["Free [Settler] appears <upon founding a city>"],
-		"cities": ["Alma","Kandara","Almondura","Mansuria","Miercoles"]
+		"uniques": ["Free [Settler] appears <upon founding a city> <when number of [Cities] is less than [2]>",
+			"[+50]% Culture cost of natural border growth"],
+		"cities": ["Alma","Almo","Alme"]
 	},
 	{
 		"name": "Barbarians",
