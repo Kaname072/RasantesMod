@@ -144,6 +144,13 @@ BuildingIcons/Monument Oceanic
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Jade Throne
+  rotate: false
+  xy: 600, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Dyson Sphere
   rotate: false
   xy: 300, 700
@@ -382,7 +389,7 @@ LeaderIcons/Luke001
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Oni Khan
+LeaderIcons/Temuujin
   rotate: false
   xy: 1023, 501
   size: 160, 160
