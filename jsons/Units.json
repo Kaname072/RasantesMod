@@ -179,7 +179,7 @@
 		"uniqueTo": "Rasantes",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 17,
+		"strength": 19,
 		"cost": 100,
 		"obsoleteTech": "Rifling",
 		"requiredTech": "Crystal Working",
@@ -382,20 +382,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Spear",
-		"replaces": "Spearman",
-		"uniqueTo": "Capricorn",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 11,
-		"cost": 60,
-		"requiredTech": "Trapping",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+100]% Strength <when attacking> <vs cities>","No defensive terrain bonus","[-1] Sight"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -450,23 +436,6 @@
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Goat Knight",
 		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
-		"hurryCostModifier": 20,
-		"attackSound": "goatrider"
-	},
-	{
-		"name": "Goat Rasante",
-		"uniqueTo": "Rasantes",
-		"replaces": "Goat Rider",
-		"unitType": "Mounted",
-		"movement": 3,
-		"strength": 12,
-		"cost": 75,
-		"requiredTech": "Animal Husbandry",
-		"requiredResource": "Goat",
-		"obsoleteTech": "Chivalry",
-		"upgradesTo": "Goat Knight",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
-		"promotions": ["[Goat Rasante] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "goatrider"
 	},
