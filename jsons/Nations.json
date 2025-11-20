@@ -87,8 +87,7 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[-25]% maintenance costs <for [Production] buildings>",
-			"[Great Engineer] is earned [50]% faster",
+		"uniques": ["[Great Engineer] is earned [100]% faster",
 			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
@@ -117,7 +116,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Bunnies Sovereignty",
 		"uniques": ["[+100]% Yield from every [Farm]",
-			"[+1 Gold] from each Trade Route",
+			"[+100]% Yield from every [Plantation]",
 			"City-State territory always counts as friendly territory"],
 		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
@@ -290,7 +289,8 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Capture Groups",
-		"uniques": ["When defeating a [Military] unit, earn [25] Gold and recruit it <with [66]% chance>"],
+		"uniques": ["When defeating a [Military] unit, earn [50] Gold and recruit it <with [66]% chance>",
+		"[-15]% maintenance costs <for [Military] units>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
@@ -319,8 +319,7 @@
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
 		"uniques": ["[+100]% Yield from every [Jungle]",
-			"[+100]% Yield from every [Forest]",
-			"Free [Great Prophet] appears <upon discovering [Mysticism]>"]
+			"[+100]% Yield from every [Forest]"]
 		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
 	{
@@ -375,7 +374,7 @@
 		"outerColor": [128,32,32],
 		"innerColor": [228,228,228],
 		"uniqueName": "Lizardos Richness",
-		"uniques": ["[+2 Culture] from each Trade Route",
+		"uniques": ["[+2 Gold] from each Trade Route",
 			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
@@ -431,8 +430,7 @@
 		"outerColor": [3,169,3],
 		"innerColor": [255,255,255],
 		"uniqueName": "Protectionism",
-		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>",
-			"Gifts of Gold to City-States generate [50]% more Influence",
+		"uniques": ["Gifts of Gold to City-States generate [50]% more Influence",
 			"Science gained from research agreements [+100]%"],
 		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
