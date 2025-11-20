@@ -182,6 +182,17 @@
 		"requiredTech": "Mathematics"
 	},
 	{
+		"name": "Jade Throne",
+		"uniqueTo": "Rasantes",
+		"replaces": "Courthouse",
+		"faith": 4,
+		"maintenance": 0,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
 		"name": "Colosseum",
 		"maintenance": 1,
 		"happiness": 2,
@@ -203,7 +214,7 @@
 		"uniqueTo": "Novaland",
 		"replaces": "Temple",
 		"faith": 2,
-		"science": 4,
+		"science": 3,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
