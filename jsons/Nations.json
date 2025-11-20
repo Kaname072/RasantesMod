@@ -63,35 +63,6 @@
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
-		"name": "Blop Empire",
-		"leaderName": "Lord Puff",
-		"adjective": ["mermaids"],
-		"startBias": ["Avoid [Desert]"],
-		"preferredVictoryType": "Domination",
-		"personality": "Lord Puff",
-
-		"startIntroPart1": "The Land races dominate everything in the universe. Lord Puff with you greatest glory, dominate every planet trying to destroy us. But ONE boy, destroyed everything us made.",
-		"startIntroPart2": "Lord Puff! God hail you and you nation, we back to show this land races how to make a empire",
-
-		"declaringWar": "Your lands is mine!",
-		"attacked": "I presume this! HAHA!",
-		"defeated": "WAIT WAIT WAIT! HOW!?",
-		"introduction": "Dont mess with me!",
-
-		"neutralHello": "Nice friend.",
-		"hateHello": "ARGH!",
-
-		"tradeRequest": "Accept my offer?",
-
-		"outerColor": [28,28,28],
-		"innerColor": [63,102,180],
-		"uniqueName": "Aquatic Supremacy",
-		"uniques": ["[+25]% Strength <for [Military] units> <when fighting in [Water] tiles>",
-			"[+1] Sight <for [Embarked] units>",
-			"[{Military} {Land}] units gain the [Amphibious] promotion"],
-		"cities": ["Eastern Atlantis","Potis","Poseidonia","Tetis","Algania","As","Mariana","Engeel"],
-	},
-	{
 		"name": "Eclipses",
 		"leaderName": "Lucas094",
 		"adjective": ["eclipsian"],
@@ -316,7 +287,7 @@
 		"tradeRequest": "Well?",
 
 		"outerColor": [32,32,32],
-		"innerColor": [255,255,255],
+		"innerColor": [245,245,245],
 		"uniqueName": "Hard Discipline",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
 			"[+15]% Strength <for [{Land} {Military}] units> <on foreign continents>",
@@ -348,7 +319,7 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Capture Groups",
-		"uniques": ["When defeating a [Water] unit, earn [25] Gold and recruit it <with [33]% chance>"],
+		"uniques": ["When defeating a [Military] unit, earn [25] Gold and recruit it <with [33]% chance>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
@@ -376,7 +347,7 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Peace",
-		"uniques": ["[-10]% Culture cost of adopting new Policies"]
+		"uniques": ["[-25]% Culture cost of adopting new Policies"]
 		"cities": ["Brasal","Amazon","Garden","Grassna","Semba","Caju","Sambana"],
 	},
 	{
@@ -400,11 +371,10 @@
 
 		"tradeRequest": "Give to me! Please!",
 
-		"outerColor": [4,134,125],
-		"innerColor": [255,207,63],
+		"outerColor": [255,255,255],
+		"innerColor": [255,212,212],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-50]% Culture cost of natural border growth [in all cities]",
-			"Gain control over [4] tiles [in all non-occupied cities] <upon founding a city>"],
+		"uniques": ["[-50]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
