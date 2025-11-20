@@ -87,7 +87,8 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[Great Engineer] is earned [100]% faster",
+		"uniques": ["[+33]% Production when constructing [All] buildings [in all non-occupied cities] <during a Golden Age>",
+			"[Great Engineer] is earned [50]% faster",
 			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
@@ -148,6 +149,33 @@
 			"Free Technology <upon conquering a city> <with [50]% chance>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
+	},
+	{
+		"name": "Onigama",
+		"leaderName": "Matsu Nono",
+		"adjective": ["Oni"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Matsu Nono",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "My patience is over, now you will be destroyed!",
+		"attacked": "Do really think this? oh, ok.",
+		"defeated": "Your type just like this, hmm? thats massacre will not forget!",
+		"introduction": "Hi, Stranger. I am Onigama's minister, it's a pleasure meeting you.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Dont look!",
+
+		"tradeRequest": "And?",
+
+		"outerColor": [28,128,227],
+		"innerColor": [0,53,106],
+		"uniqueName": "Architecture",
+		"uniques": ["Can build [all] improvements at a [+50]% rate"],
+		"cities": ["Tokinada","Kyos","Moki","Komi","Tyoko","Po"]
 	},
 	{
 		"name": "Atlantis",
