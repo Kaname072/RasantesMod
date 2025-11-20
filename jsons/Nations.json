@@ -27,10 +27,11 @@
 
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Rasantes Cult",
+		"favoredReligion": "Missionarism",
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities"],
+			"Receive triple Gold from Barbarian encampments and pillaging Cities",
+			"[+1 Faith] [in all cities]"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -57,9 +58,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Scientific Atheism",
-		"uniques": ["[+2] [Science] from every specialist [in all cities]",
-			"[Great Scientist] is earned [50]% faster",
-			"May not generate great prophet equivalents naturally"],
+		"uniques": ["[+1 Science] per [1] population [in all cities]",
+			"[Great Scientist] is earned [50]% faster"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
 	{
@@ -86,7 +86,7 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[50]% Yield from [City-State]",
+		"uniques": ["[-15]% maintenance costs <for [Military] units>",
 			"[Great Engineer] is earned [50]% faster",
 			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
@@ -121,35 +121,6 @@
 		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
 	{
-		"name": "Franice",
-		"leaderName": "Bonaparte",
-		"adjective": ["icepeople"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType": "Domination",
-		"personality": "Bonaparte",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "Is war! little boy!",
-		"attacked": "Huh? you wanna play!?",
-		"defeated": "Wow, you are awesome. You victory we explending!",
-		"introduction": "Hello.",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "Pfff! is YOU",
-
-		"tradeRequest": "You look need this.",
-
-		"outerColor": [255,224,244],
-		"innerColor": [207,86,146],
-		"uniqueName": "People Pride",
-		"uniques": ["[+50]% [Culture] [in all non-occupied cities] <during a Golden Age>",
-		"[+1] Movement <for [All] units> <during a Golden Age>",
-		"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles> <during a Golden Age>"],
-		"cities": ["Orleans","Lodonia","Baricelona","Liscebon","Rocreama","Berlini"],
-	},
-	{
 		"name": "Drows",
 		"leaderName": "Marigod",
 		"adjective": ["drow"],
@@ -174,7 +145,7 @@
 		"innerColor": [255,212,230],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+1] Range <for [Ranged] units>",
-			"Free Technology <upon conquering a city>",
+			"Free Technology <upon conquering a city> <with [50]% chance>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
@@ -229,10 +200,10 @@
 
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
-		"uniqueName": "Raid & Fire",
-		"uniques": ["Cities are razed [2] times as fast",
-			"[+30]% Strength <vs [City-State]>",
-			"[+30]% [Production] [in all non-occupied cities] <for [10] turns> <upon conquering a city>"],
+		"uniqueName": "War Lord",
+		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
+			"Cities are razed [2] times as fast",
+			"[+2 Production] from every [Luxury resource]"],
 		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
@@ -261,10 +232,9 @@
 		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1 Production] from every [Pasture]",
-			"[+1 Production] from every [Camp]",
 			"[+1] Movement <for [Mounted] units>",
 			"[-50]% maintenance on road & railroads"],
-		"cities": ["Halsie","Doriel","Ashiel","Attila","Yeshua","Sana'a"]
+		"cities": ["Halsie","Doriel","Ashiel","Attila","Amara","Sana'a"]
 	},
 	{
 		"name": "Supernova",
@@ -317,9 +287,9 @@
 
 		"outerColor": [4,4,160],
 		"innerColor": [255,236,131],
-		"favoredReligion": "Martyr",
+		"favoredReligion": "Missionarism",
 		"uniqueName": "Capture Groups",
-		"uniques": ["When defeating a [Military] unit, earn [25] Gold and recruit it <with [33]% chance>"],
+		"uniques": ["When defeating a [Military] unit, earn [25] Gold and recruit it <with [66]% chance>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
@@ -372,7 +342,7 @@
 		"tradeRequest": "Give to me! Please!",
 
 		"outerColor": [255,255,255],
-		"innerColor": [255,212,212],
+		"innerColor": [255,126,126],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
@@ -488,8 +458,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Protectionism",
 		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>",
-			"Gifts of Gold to City-States generate [25]% more Influence",
-			"Science gained from research agreements [+50]%"],
+			"Gifts of Gold to City-States generate [50]% more Influence",
+			"Science gained from research agreements [+100]%"],
 		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
 	{
@@ -532,7 +502,7 @@
 		"cities": ["Zumbanda"]
 	},
 	{
-		"name": "Risantes",
+		"name": "Colonia",
 		"leaderName": "Junior746",
 		"adjective": ["rasantes"],
 		"cityStateType": "Religious Fanatic",
@@ -542,7 +512,7 @@
 		"defeated": "Oh lord! why you abadon us?",
 		"outerColor": [0,0,0],
 		"innerColor": [128,128,128],
-		"cities": ["Aszael"]
+		"cities": ["Colony"]
 	},
 	{
 		"name": "Imp",
@@ -640,7 +610,8 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [225,225,255],
-		"cities": ["Alma"]
+		"uniques": ["Free [Settler] appears <upon founding a city>"],
+		"cities": ["Alma","Kandara","Almondura","Mansuria","Miercoles"]
 	},
 	{
 		"name": "Barbarians",
