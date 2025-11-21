@@ -608,7 +608,7 @@ UnitIcons/Goat Rider
   index: -1
 UnitIcons/Onikong
   rotate: false
-  xy: 1800, 300
+  xy: 1800, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
