@@ -122,15 +122,6 @@
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Numbers"
 	},
-    {
-		"name": "Magic School",
-		"replaces": "Barracks",
-		"uniqueTo": "Elves",
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land} {Ranged}] units [in this city] receive the [Elf Magic] promotion"],
-		"requiredTech": "Numbers"
-	},
 	{
 		"name": "False Moon",
 		"isWonder": true,
@@ -226,7 +217,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Onigama",
 		"faith": 2,
-		"gold": 1,
+		"gold": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
@@ -431,10 +422,23 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Sandstone Castle",
+		"uniqueTo": "Ouroborus",
+		"replaces": "Castle",
+		"gold": 2,
+		"culture": 1,
+		"cityStrength": 9,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Coldness Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Franice",
-		"percentStatBonus": {"culture": 25},
+		"percentStatBonus": {"culture": 33},
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
