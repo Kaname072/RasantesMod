@@ -31,7 +31,7 @@
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities",
-			"[+1 Faith] [in all cities]"],
+			"Free [Great Prophet] appears <upon discovering [Mysticism] technology>"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -58,8 +58,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [56,155,7],
 		"uniqueName": "Scientific Atheism",
-		"uniques": ["[+1 Science] per [1] population [in all cities]",
-			"[+33]% [Science] [in this city] <during We Love The King Day>",
+		"uniques": ["[+2 Science] from every specialist [in all cities]",
 			"[Great Scientist] is earned [50]% faster"],
 		"cities": ["Capital Alpha","Beta","Omega","Delta","Sigma","Gamma","Xi","Lambda"],
 	},
@@ -87,7 +86,7 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[+33]% Production when constructing [All] buildings [in all non-occupied cities] <during a Golden Age>",
+		"uniques": ["[+2 Production] from every specialist [in capital]",
 			"[Great Engineer] is earned [50]% faster",
 			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
@@ -174,7 +173,8 @@
 		"outerColor": [28,128,227],
 		"innerColor": [0,53,106],
 		"uniqueName": "Architecture",
-		"uniques": ["Can build [all] improvements at a [+50]% rate"],
+		"uniques": ["[+2 Gold] from every [Wonder]",
+			"Can build [all] improvements at a [+50]% rate"],
 		"cities": ["Tokinada","Kyos","Moki","Komi","Tyoko","Po"]
 	},
 	{
@@ -230,17 +230,17 @@
 		"innerColor": [255,228,107],
 		"uniqueName": "War Lord",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
-			"Cities are razed [2] times as fast",
-			"[+2 Production] from every [Luxury resource]"],
+			"[+2 Production] from every [Luxury resource]",
+			"Cities are razed [2] times as fast"],
 		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
 	{
 		"name": "Capricorn",
-		"leaderName": "Oni Khan",
+		"leaderName": "Temuujin",
 		"adjective": ["caprine"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
-		"personality": "Oni Khan",
+		"personality": "Temuujin",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -261,7 +261,7 @@
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1 Production] from every [Pasture]",
 			"[+1] Movement <for [Mounted] units>",
-			"[-50]% maintenance on road & railroads"],
+			"[-33]% maintenance on road & railroads"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Amara","Sana'a"]
 	},
 	{
@@ -317,8 +317,8 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Capture Groups",
-		"uniques": ["When defeating a [Military] unit, earn [50] Gold and recruit it <with [66]% chance>",
-		"[-15]% maintenance costs <for [Military] units>"],
+		"uniques": ["When defeating a [Barbarian] unit, earn [50] Gold and recruit it",
+			"[-15]% maintenance costs <for [Military] units>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
@@ -346,7 +346,8 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["[+100]% Yield from every [Jungle]",
+		"uniques": ["[-15]% Culture cost of natural border growth [in all cities]",
+			"[+100]% Yield from every [Jungle]",
 			"[+100]% Yield from every [Forest]"]
 		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
@@ -374,8 +375,9 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[+2 Culture, +1 Production] [in all cities]",
-			"Free Great Person <upon conquering a city> <with [50]% chance>"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			"Gain control over [2] tiles [in all non-occupied cities] <upon conquering a city>",
+			"Free Great Person <upon conquering a city> <with [33]% chance>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -403,7 +405,7 @@
 		"innerColor": [228,228,228],
 		"uniqueName": "Lizardos Richness",
 		"uniques": ["[+2 Gold] from each Trade Route",
-			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
+			"[+100]% [Crystal Ore] resource production"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
 	{
@@ -430,8 +432,9 @@
 		"outerColor": [17,147,56],
 		"innerColor": [255,236,131],
 		"uniqueName": "The Wise",
-		"uniques": ["[+25]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
-			"Receive a science boost for 5 turns when found a non-capital cities"],
+		"uniques": ["[+15]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
+			"Receive a science boost for 5 turns when found a non-capital cities",
+			"[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
 	},
 	{
@@ -597,7 +600,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [225,225,255],
 		"uniques": ["Free [Settler] appears <upon founding a city> <when number of [Cities] is less than [2]>",
-			"[+50]% Culture cost of natural border growth"],
+			"[+50]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Alma","Almo","Alme"]
 	},
 	{
