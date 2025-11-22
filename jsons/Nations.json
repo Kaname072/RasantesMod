@@ -144,8 +144,8 @@
 		"outerColor": [87,193,112],
 		"innerColor": [127,255,156],
 		"uniqueName": "People Pride",
-		"uniques": [""],
-		"cities": [""],
+		"uniques": ["[+1 Culture] per [1] population [in all cities]"],
+		"cities": ["Parice","Yorlean","Licen","Troces","Tourices","Marceille","Frost","Avicegnon","Rousnow"]
 	},
 	{
 		"name": "Drows",
