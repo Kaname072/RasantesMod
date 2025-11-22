@@ -42,7 +42,7 @@
             {
                 "name": "Social Policies",
                 "uniques": [
-                    "[+1 Food] per [4] population [in all cities]"
+                    "[+1 Food] per [3] population [in all cities]"
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
@@ -79,14 +79,13 @@
         "uniques": [
             "[+33]% Strength <vs [Barbarian]>",
             "Notified of new Barbarian encampments",
-            "Earn [150]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture]"
+            "Earn [100]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture]"
         ],
         "policies": [
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Melee] units [in all cities]",
-                    "Free [Great General] appears"
+                    "[+15]% Production when constructing [Melee] units [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
