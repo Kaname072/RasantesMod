@@ -141,8 +141,8 @@
 
 		"tradeRequest": "My people told me that you are good at trading.",
 
-		"outerColor": [87,193,112],
-		"innerColor": [127,255,156],
+		"outerColor": [69,149,88],
+		"innerColor": [159,255,180],
 		"uniqueName": "People Pride",
 		"uniques": ["[+1 Culture] per [1] population [in all cities]"],
 		"cities": ["Parice","Yorlean","Licen","Troces","Tourices","Marceille","Frost","Avicegnon","Rousnow"]
