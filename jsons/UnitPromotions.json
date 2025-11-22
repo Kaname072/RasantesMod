@@ -711,7 +711,7 @@
     },
 	{
 		"name": "Ork Instinct",
-		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [50]% chance>","[+33]% Strength <when defending> <vs [Land] units>"]
+		"uniques": ["Destroys tile improvements when attacking <in [Foreign Land] tiles> <with [66]% chance>","[+33]% Strength <when defending> <vs [Land] units>"]
 	},
 	{
 		"name": "[Pacefull Warrior] ability",
@@ -723,12 +723,10 @@
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["[+33]% Strength <vs Cities>"]
+		"uniques": ["Ignores terrain cost"]
 	},
-	{
-		"name": "Elf Magic",
-		"uniques": ["[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
-	},
+		//// "name": "Elf Magic",
+		//// "uniques": ["[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
 	{
 		"name": "[Junissary] ability",
 		"uniques": ["No movement cost to pillage","Heals [50] damage if it kills a unit"]
