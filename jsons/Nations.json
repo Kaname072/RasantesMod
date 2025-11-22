@@ -121,6 +121,33 @@
 		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
 	{
+		"name": "Franice",
+		"leaderName": "Lemonady",
+		"adjective": ["icepeople"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Lemonady",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Savage beast! you day's will end!",
+		"attacked": "I can't believe...",
+		"defeated": "I'll back to my room.",
+		"introduction": "Peace for you people.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "...",
+
+		"tradeRequest": "My people told me that you are good at trading.",
+
+		"outerColor": [87,193,112],
+		"innerColor": [127,255,156],
+		"uniqueName": "People Pride",
+		"uniques": [""],
+		"cities": [""],
+	},
+	{
 		"name": "Drows",
 		"leaderName": "Marigod",
 		"adjective": ["drow"],
@@ -376,8 +403,7 @@
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-			"Gain control over [2] tiles [in all non-occupied cities] <upon conquering a city>",
-			"Free Great Person <upon conquering a city> <with [33]% chance>"],
+			"Gain control over [2] tiles [in all non-occupied cities] <upon conquering a city>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -404,7 +430,7 @@
 		"outerColor": [128,32,32],
 		"innerColor": [228,228,228],
 		"uniqueName": "Lizardos Richness",
-		"uniques": ["[+2 Gold] from each Trade Route",
+		"uniques": ["[+1 Gold] from each Trade Route",
 			"[+100]% [Crystal Ore] resource production"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
@@ -559,20 +585,6 @@
 		"cities": ["Magmatropolis"]
 	},
 	{
-		"name": "Franice Kingdom",
-		"leaderName": "Lemonady",
-		"adjective": ["icepeople"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "For my people pride!",
-		"attacked": "You are messing with a Queen!",
-		"defeated": "*Sniff* *Sniff* this is not a defeat! *Sniff* *Sniff*",
-
-		"outerColor": [0,0,0],
-		"innerColor": [0,197,21],
-		"cities": ["Parice"]
-	},
-	{
 		"name": "Bunnyzantium",
 		"leaderName": "William",
 		"adjective": ["rabbits"],
@@ -599,8 +611,10 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [225,225,255],
-		"uniques": ["Free [Settler] appears <upon founding a city> <when number of [Cities] is less than [2]>",
-			"[+50]% Culture cost of natural border growth [in all cities]"],
+		"uniqueName": "Big than City-State",
+		"uniques": ["Free [Settler] appears <upon founding a city> <when number of [Cities] is less than [3]>",
+			"[+50]% Culture cost of natural border growth [in all cities]",
+		    "[-1] Movement <for [Settler] units>"],
 		"cities": ["Alma","Almo","Alme"]
 	},
 	{
