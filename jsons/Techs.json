@@ -24,8 +24,7 @@
 			{
 				"name": "Animal Husbandry",
 				"row": 2,
-				"prerequisites": ["Spaceship"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"]
+				"prerequisites": ["Spaceship"]
 			},
 			{
 				"name": "Irrigation",
@@ -246,7 +245,7 @@
 				"name": "Compass",
 				"row": 2,
 				"prerequisites": ["Physics"],
-                "uniques": ["[+50]% weight to this choice for AI decisions","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
+                "uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
 			},
 			{
 				"name": "Industrialization",
@@ -300,9 +299,7 @@
 				"name": "Metallurgy",
 				"cost": 475,
 				"row": 6,
-				"prerequisites": ["Rifling","Industrialization"],
-                "uniques": ["[+50]% weight to this choice for AI decisions"],
-				"quote": "The purple crystal shine now in your hands!"
+				"prerequisites": ["Rifling","Industrialization"]
 			},
 			{
 				"name": "Education",
@@ -390,8 +387,7 @@
 			{
 				"name": "War Satellites",
 				"row": 2,
-				"prerequisites": ["Satellites","Nuclear Fusion"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"]
+				"prerequisites": ["Satellites","Nuclear Fusion"]
 			},
 			{
 				"name": "Nanotechnology",
