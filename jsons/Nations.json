@@ -172,8 +172,7 @@
 		"innerColor": [255,212,230],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+1] Range <for [Ranged] units>",
-			"Free Technology <upon conquering a city> <with [50]% chance>",
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns"],
+			"Free Technology <upon conquering a city> <with [75]% chance>"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
 	{
@@ -228,9 +227,9 @@
 		"outerColor": [255,251,42],
 		"innerColor": [68,84,173],
 		"uniqueName": "Multi Religious",
-		"uniques": ["[+15]% [Production] <in cities with a [foreign] religion>",
-		"[+15]% [Culture] <in cities with a [foreign] religion>",
-		"[-10]% Unhappiness from [Population] [in all cities] <in cities with a [foreign] religion>"],
+		"uniques": ["[+2 Science, +1 Culture] [in all cities] <in cities with a [foreign] religion>",
+		"[-10]% Unhappiness from [Population] [in all cities] <in cities with a [foreign] religion>",
+		"May not generate great prophet equivalents naturally"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
@@ -286,7 +285,7 @@
 		"innerColor": [255,228,107],
 		"uniqueName": "War Lord",
 		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
-			"[+2 Production] from every [Luxury resource]",
+			"[+1 Production] from every [Luxury resource]",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
@@ -373,7 +372,7 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Capture Groups",
-		"uniques": ["When defeating a [Barbarian] unit, earn [50] Gold and recruit it",
+		"uniques": ["When defeating a [Barbarian] unit, earn [50] Gold and recruit it <with [66]% chance>",
 			"[-15]% maintenance costs <for [Military] units>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
@@ -531,6 +530,8 @@
 		"defeated": "Nothing is important",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,0],
+		"uniqueName": "Nothing is Important",
+		"uniques": ["Ignores Zone of Control <for [Military] units>"],
 		"cities": ["Au"]
 	},
 	{
@@ -544,6 +545,8 @@
 		"defeated": "How!? how i lose for a blasfemous nation!?",
 		"outerColor": [0,0,0],
 		"innerColor": [218,198,0],
+		"uniqueName": "Lust",
+		"uniques": ["No movement cost to pillage tiles <for [Military] units>"],
 		"cities": ["Ul'Magmaro"]
 	},
 	{
@@ -557,6 +560,8 @@
 		"defeated": "So shame... for the warrior race...",
 		"outerColor": [0,0,0],
 		"innerColor": [200,100,0],
+		"uniqueName": "Heavy Army",
+		"uniques": ["[+10]% Strength <for [Military] units> <when defending>"],
 		"cities": ["Zumbanda"]
 	},
 	{
@@ -570,7 +575,9 @@
 		"defeated": "Oh lord! why you abadon us?",
 		"outerColor": [0,0,0],
 		"innerColor": [128,128,128],
-		"cities": ["Colony"]
+		"uniqueName": "Slave Owner",
+		"uniques": ["[+20]% Production when constructing [Military] units [in capital]"],
+		"cities": ["Kilombo"]
 	},
 	{
 		"name": "Imp",
@@ -583,21 +590,10 @@
 		"defeated": "That's is imposible!",
 		"outerColor": [0,0,0],
 		"innerColor": [177,38,38],
+		"uniqueName": "Converting Infidels",
+		"uniques": ["When defeating a [Barbarian] unit, earn [0] Gold and recruit it",
+		"[-20]% maintenance costs <for [Military] units>"],
 		"cities": ["Patmos"]
-	},
-	{
-		"name": "Oni",
-		"leaderName": "Oni chan",
-		"adjective": ["Onis"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "You forced us to do it!",
-		"attacked": "You disrespected the holy land!",
-		"defeated": "The goddess will remember this!",
-
-		"outerColor": [0,0,0],
-		"innerColor": [65,65,235],
-		"cities": ["Shintilla"]
 	},
 	{
 		"name": "Lizardos",
