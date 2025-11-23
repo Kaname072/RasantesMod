@@ -121,6 +121,7 @@
 		"name": "Cousin",
 		"replaces": "Swordsman",
 		"uniqueTo": "Galicians",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 12,
 		"cost": 50,
