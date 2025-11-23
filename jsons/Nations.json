@@ -141,8 +141,8 @@
 
 		"tradeRequest": "My people told me that you are good at trading.",
 
-		"outerColor": [69,149,88],
-		"innerColor": [159,255,180],
+		"outerColor": [159,255,180],
+		"innerColor": [69,149,88],
 		"uniqueName": "People Pride",
 		"uniques": ["[+1 Culture] per [1] population [in all cities]"],
 		"cities": ["Parice","Yorlean","Licen","Troces","Tourices","Marceille","Frost","Avicegnon","Rousnow"]
@@ -197,12 +197,41 @@
 
 		"tradeRequest": "And?",
 
-		"outerColor": [28,128,227],
-		"innerColor": [0,53,106],
+		"outerColor": [201,214,255],
+		"innerColor": [10,41,156],
 		"uniqueName": "Architecture",
 		"uniques": ["[+2 Gold] from every [Wonder]",
 			"Can build [all] improvements at a [+50]% rate"],
 		"cities": ["Tokinada","Kyos","Moki","Komi","Tyoko","Po"]
+	},
+	{
+		"name": "Galicians",
+		"leaderName": "Lorenzo",
+		"adjective": ["galicians"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Lorenzo",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The God and Goddesses will punish you for you sins!",
+		"attacked": "Who are you!",
+		"defeated": "Peace for the Galician people...",
+		"introduction": "Peace for you people.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You're are disgusting",
+
+		"tradeRequest": "My people told me that you are good at trading.",
+
+		"outerColor": [255,251,42],
+		"innerColor": [68,84,173],
+		"uniqueName": "Multi Religious",
+		"uniques": ["[+15]% [Production] <in cities with a [foreign] religion>",
+		"[+15]% [Culture] <in cities with a [foreign] religion>",
+		"[-25]% Unhappiness from the number of cities <in cities with a [foreign] religion>"],
+		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
 		"name": "Atlantis",
