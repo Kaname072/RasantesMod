@@ -198,9 +198,10 @@
 
 		"outerColor": [201,214,255],
 		"innerColor": [10,41,156],
-		"uniqueName": "Architecture",
-		"uniques": ["[+2 Gold] from every [Wonder]",
-			"Can build [all] improvements at a [+50]% rate"],
+		"uniqueName": "People from the Mountain",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
+			"[+1 Culture] from every [Hill]",
+			"[+2 Culture] from every [Mountain]"],
 		"cities": ["Tokinada","Kyos","Moki","Komi","Tyoko","Po"]
 	},
 	{
@@ -227,7 +228,7 @@
 		"outerColor": [255,251,42],
 		"innerColor": [68,84,173],
 		"uniqueName": "Multi Religious",
-		"uniques": ["[+2 Science, +1 Culture] [in all cities] <in cities with a [foreign] religion>",
+		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost",
 		"[-10]% Unhappiness from [Population] [in all cities] <in cities with a [foreign] religion>",
 		"May not generate great prophet equivalents naturally"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
@@ -257,7 +258,9 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["[{Water} {Military}] units gain the [Supply] promotion"],
+		"uniques": ["[+1 Science] from every [Fishing Boats]",
+			"[+1] Sight <for [Embarked] units>",
+			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
 	},
 	{
@@ -316,7 +319,7 @@
 		"uniqueName": "Caprine Wrath",
 		"uniques": ["[+1 Production] from every [Pasture]",
 			"[+1] Movement <for [Mounted] units>",
-			"[-33]% maintenance on road & railroads"],
+			"[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Amara","Sana'a"]
 	},
 	{
@@ -372,7 +375,7 @@
 		"innerColor": [255,236,131],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Capture Groups",
-		"uniques": ["When defeating a [Barbarian] unit, earn [50] Gold and recruit it <with [66]% chance>",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
 			"[-15]% maintenance costs <for [Military] units>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
@@ -487,8 +490,7 @@
 		"innerColor": [255,236,131],
 		"uniqueName": "The Wise",
 		"uniques": ["[+15]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
-			"Receive a science boost for 5 turns when found a non-capital cities",
-			"[-50]% Gold cost of acquiring tiles [in all cities]"],
+			"Comment [Receive a science boost for 5 turns when found a non-capital cities]"],
 		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
 	},
 	{
@@ -531,7 +533,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,0],
 		"uniqueName": "Nothing is Important",
-		"uniques": ["Ignores Zone of Control <for [Military] units>"],
+		"uniques": ["Ignores Zone of Control"],
 		"cities": ["Au"]
 	},
 	{
@@ -546,7 +548,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [218,198,0],
 		"uniqueName": "Lust",
-		"uniques": ["No movement cost to pillage tiles <for [Military] units>"],
+		"uniques": ["No movement cost to pillage <for [Military] units>"],
 		"cities": ["Ul'Magmaro"]
 	},
 	{
