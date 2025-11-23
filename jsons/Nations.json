@@ -622,6 +622,8 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,108,108],
+		"uniqueName": "Bunnies Instinct",
+		"uniques": ["[+50]% [Food] [in capital]"],
 		"cities": ["Carrotinopla"]
 	},
 	{
