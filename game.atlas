@@ -18,6 +18,13 @@ NationIcons/Cataclysm
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Galicians
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Franice
   rotate: false
   xy: 100, 200
@@ -158,6 +165,13 @@ BuildingIcons/Jade Throne
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Black Shrine
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Dyson Sphere
   rotate: false
   xy: 300, 700
@@ -210,6 +224,13 @@ BuildingIcons/Altar
 BuildingIcons/Rayssa Temple
   rotate: false
   xy: 700, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/White Lady
+  rotate: false
+  xy: 1200, 800
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -308,6 +329,13 @@ BuildingIcons/Bell Temple
 LeaderIcons/Junior*46
   rotate: false
   xy: 223, 21
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lorenzo
+  rotate: false
+  xy: 383, 21
   size: 160, 160
   orig: 100, 100
   offset: 0, 0
@@ -508,6 +536,13 @@ UnitIcons/Pacefull Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Cousin
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Beetle Warrior
   rotate: false
   xy: 1000, 400
@@ -567,6 +602,13 @@ UnitIcons/Pikeman
 UnitIcons/Swordsman
   rotate: false
   xy: 1200, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Slinger
+  rotate: false
+  xy: 1200, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
