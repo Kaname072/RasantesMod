@@ -64,6 +64,15 @@
 		"uniques": ["Only available <when religion is enabled>"]
 	},
 	{
+		"name": "Black Shrine",
+		"replaces": "Shrine",
+		"uniqueTo": "Galicians",
+		"production": 2,
+		"cost": 40,
+		"requiredTech": "Mysticism",
+		"uniques": "New [Military] units start with [10] XP [in this city]"]
+	},
+	{
 		
 		"name": "Dolmen",
 		"isWonder": true,
@@ -227,10 +236,17 @@
 	{
 		"name": "Poseidon Statue",
 		"isWonder": true,
-		"culture": 5,
+		"culture": 4,
 		"greatPersonPoints": {"Great Artist": 2},
 		"requiredTech": "Philosophy",
 		"uniques": ["Empire enters golden age"],
+	},
+    {
+		"name": "White Lady",
+		"isWonder": true,
+		"faith": 2,
+		"requiredTech": "Philosophy",
+		"uniques": ["All newly-trained [Missionary] units [in this city] receive the [Devout] promotion","All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
 	},
 	{
 		"name": "National College",
