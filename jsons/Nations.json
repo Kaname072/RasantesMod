@@ -533,7 +533,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,0],
 		"uniqueName": "Nothing is Important",
-		"uniques": ["Ignores Zone of Control"],
+		"uniques": ["No damage penalty for wounded units <for [Melee] units>"],
 		"cities": ["Au"]
 	},
 	{
