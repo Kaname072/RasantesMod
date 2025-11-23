@@ -118,6 +118,19 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Cousin",
+		"replaces": "Swordsman",
+		"uniqueTo": "Galicians",
+		"movement": 2,
+		"strength": 12,
+		"cost": 50,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Crystal Working",
+		"upgradesTo": "Laser Swordsman",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Jumper Lizardo",
 		"replaces": "Swordsman",
 		"uniqueTo": "Ouroborus",
@@ -279,7 +292,7 @@
 		"replaces": "Laser Gunner",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 36,
+		"strength": 32,
 		"cost": 220,
 		"obsoleteTech": "Nuclear Fusion",
 		"requiredTech": "Lasers",
@@ -294,11 +307,11 @@
 		"replaces": "Laser Gunner",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 40,
+		"strength": 36,
 		"cost": 220,
 		"obsoleteTech": "Nuclear Fusion",
 		"requiredTech": "Lasers",
-		"uniques": ["[+20]% Strength <when attacking> <vs cities>"],
+		"uniques": ["Ignores Zone of Control"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phasers"
