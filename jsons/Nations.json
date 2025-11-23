@@ -230,7 +230,7 @@
 		"uniqueName": "Multi Religious",
 		"uniques": ["[+15]% [Production] <in cities with a [foreign] religion>",
 		"[+15]% [Culture] <in cities with a [foreign] religion>",
-		"[-25]% Unhappiness from the number of cities <in cities with a [foreign] religion>"],
+		"[-10]% Unhappiness from [Population] <in cities with a [foreign] religion>"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
