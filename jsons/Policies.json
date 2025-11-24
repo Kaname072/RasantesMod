@@ -60,8 +60,7 @@
             {
                 "name": "Book Complete",
                 "uniques": [
-                    "[+15]% growth [in all cities]",
-                    "Free Great Person"
+                    "Free Technology"
                 ]
             }
         ]
@@ -186,7 +185,7 @@
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [20]"
                 ],
-                "requires": ["Liberty","Union"],
+                "requires": ["Liberty"],
                 "row": 2,
                 "column": 3
             },
@@ -196,7 +195,7 @@
                     "[-33]% Unhappiness from [Specialists] [in all cities]",
                     "[+15]% [Science] from every [University]"
                 ],
-                "requires": ["Liberty"]
+                "requires": ["Liberty","Union"]
                 "row": 3,
                 "column": 5
             },
@@ -204,6 +203,75 @@
                 "name": "Hand Complete",
                 "uniques": [
                     "[+2 Culture] from every [Monument]"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Emotion",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 5,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+1 Happiness] [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Protectionism",
+                "uniques": [
+                    "[+2 Happiness] from every [Luxury resource]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Indendent",
+                "uniques": [
+                    "[+25]% Great Person generation [in all cities]",
+                    "Free [Great Artist] appears"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Wisdom",
+                "uniques": [
+                    "[+1 Happiness] from every [Library]",
+                    "[+1 Happiness] from every [University]",
+                    "[+1 Happiness] from every [Public School]"
+                ],
+                "requires": ["Manifest"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Legalism",
+                "uniques": [
+                    "[+15]% Production when constructing [All] wonders [in all cities]"
+                ],
+                "requires": ["Liberty"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Sovereignty",
+                "uniques": [
+                    "[+33]% [Culture] [in all cities with a world wonder]"
+                ],
+                "requires": ["Liberty","Union"]
+                "row": 3,
+                "column": 5
+            },
+            {
+                "name": "Emotion Complete",
+                "uniques": [
+                    "[+50]% Golden Age length",
+                    "Empire enters golden age"
                 ]
             }
         ]
