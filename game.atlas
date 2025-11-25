@@ -977,16 +977,16 @@ ResourceIcons/Lizardo Eggs
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Elf Wizard
+PromotionIcons/Faith Defensor
   rotate: false
-  xy: 300, 200
+  xy: 300, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Blindness
+PromotionIcons/Ork Instinct
   rotate: false
-  xy: 0, 900
+  xy: 1400, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
