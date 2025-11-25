@@ -186,7 +186,7 @@
 		"replaces": "Courthouse",
 		"maintenance": 4,
 		"hurryCostModifier": 50,
-		"uniques": ["Removes extra unhappiness from annexed cities","[Newly-trained [Military] units [in this city] receive the [Faith Defensor] promotion <in cities following our religion>",
+		"uniques": ["Removes extra unhappiness from annexed cities","Newly-trained [Military] units [in this city] receive the [Faith Defensor] promotion <in cities following our religion>",
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	},
