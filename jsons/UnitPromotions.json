@@ -718,18 +718,18 @@
 		"uniques": ["Double movement in [Forest]", "Double movement in [Jungle]"]
 	},
 	{
-		"name": "[Pillager] ability",
+		"name": "[Pig Rider] ability",
 		"uniques": ["[+10] HP when healing"]
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["Ignores terrain cost"]
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>","Ignores terrain cost"]
 	},
 		//// "name": "Elf Magic",
 		//// "uniques": ["[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
 	{
 		"name": "[Junissary] ability",
-		"uniques": ["No movement cost to pillage","Heals [50] damage if it kills a unit"]
+		"uniques": ["No movement cost to pillage","[+50]% Health from pillaging tiles"]
 	},
 	{
 		"name": "[Bunny Legion] ability",
