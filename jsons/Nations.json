@@ -86,8 +86,7 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[+2 Production] from every specialist [in capital]",
-			"[Great Engineer] is earned [50]% faster",
+		"uniques": ["[Great Engineer] is earned [50]% faster",
 			"[+1 Production] from every [Mine]"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
@@ -114,10 +113,9 @@
 
 		"outerColor": [108,108,255],
 		"innerColor": [255,255,255],
-		"uniqueName": "Bunnies Sovereignty",
+		"uniqueName": "Agricultural Power",
 		"uniques": ["[+100]% Yield from every [Farm]",
-			"[+100]% Yield from every [Plantation]",
-			"City-State territory always counts as friendly territory"],
+			"[+100]% Yield from every [Plantation]"],
 		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
 	{
@@ -172,7 +170,7 @@
 		"innerColor": [255,212,230],
 		"uniqueName": "Conquistadoras",
 		"uniques": ["[+1] Range <for [Ranged] units>",
-			"Free Technology <upon conquering a city> <with [75]% chance>"],
+			"Free Technology <upon conquering a city> <with [66]% chance>"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
 	{
@@ -404,9 +402,8 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["[-15]% Culture cost of natural border growth [in all cities]",
-			"[+100]% Yield from every [Jungle]",
-			"[+100]% Yield from every [Forest]"]
+		"uniques": ["Can build [all] improvements at a [100]% rate <in tiles adjacent to [Jungle] tiles>",
+			"Can build [all] improvements at a [100]% rate <in tiles adjacent to [Forest] tiles>"]
 		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
 	{
@@ -433,8 +430,8 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-			"Gain control over [2] tiles [in all non-occupied cities] <upon conquering a city>"],
+		"uniques": ["[-50]% Golden Age length",
+			"Gain control over [1] tiles [in all non-occupied cities] <upon turn start> <during a Golden Age>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -489,8 +486,8 @@
 		"outerColor": [17,147,56],
 		"innerColor": [255,236,131],
 		"uniqueName": "The Wise",
-		"uniques": ["[+15]% [Science] [in all cities] <for [5] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
-			"Comment [Receive a science boost for 5 turns when found a non-capital cities]"],
+		"uniques": ["[+10]% [Science] [in all cities] <for [10] turns> <upon founding a city> <when number of [Cities] is more than [1]> <hidden from users>",
+			"Comment [Receive a science boost for 10 turns when found a non-capital cities]"],
 		"cities": ["Staresalem","Aurelianorum","Centaurus","Mythnia","Sabbaht","Lotus"]
 	},
 	{
@@ -516,10 +513,9 @@
 
 		"outerColor": [3,169,3],
 		"innerColor": [255,255,255],
-		"uniqueName": "Protectionism",
-		"uniques": ["Gifts of Gold to City-States generate [50]% more Influence",
-			"Science gained from research agreements [+100]%"],
-		"cities": ["Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
+		"uniqueName": "Solidarity",
+		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence"],
+		"cities": ["Eu","Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
 	{
 		"name": "Golden Wings",
@@ -593,7 +589,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [177,38,38],
 		"uniqueName": "Converting Infidels",
-		"uniques": ["When defeating a [Barbarian] unit, earn [0] Gold and recruit it",
+		"uniques": ["When defeating a [Savage Imp] unit, earn [0] Gold and recruit it",
 		"[-20]% maintenance costs <for [Military] units>"],
 		"cities": ["Patmos"]
 	},
