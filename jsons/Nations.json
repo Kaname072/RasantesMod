@@ -31,7 +31,7 @@
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities",
-			"Free [Great Prophet] appears <upon discovering [Mysticism] technology>"],
+			"May choose [1] additional belief(s) of any type when [enhancing] a religion"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -402,8 +402,8 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["Can build [all] improvements at a [100]% rate <in tiles adjacent to [Jungle] tiles>",
-			"Can build [all] improvements at a [100]% rate <in tiles adjacent to [Forest] tiles>"]
+		"uniques": ["Can build [all] improvements at a [25]% rate <in tiles adjacent to [Jungle] tiles>",
+			"Can build [all] improvements at a [25]% rate <in tiles adjacent to [Forest] tiles>"]
 		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
 	{
@@ -430,7 +430,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-50]% Golden Age length",
+		"uniques": ["[-33]% Golden Age length",
 			"Gain control over [1] tiles [in all non-occupied cities] <upon turn start> <during a Golden Age>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
