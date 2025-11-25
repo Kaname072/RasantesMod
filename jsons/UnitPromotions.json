@@ -690,8 +690,8 @@
 		"uniques": ["All healing effects doubled"]
 	},
 	{
-		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-		"uniques": ["Withdraws before melee combat <with [80]% chance>"]
+		"name": "Faith Defensor", // only for Rasantes annexed cities units
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
 	{
 		"name": "Ignore terrain cost",
