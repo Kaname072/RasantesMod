@@ -977,14 +977,14 @@ ResourceIcons/Lizardo Eggs
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Faith Defensor
+UnitPromotionIcons/Faith Defensor
   rotate: false
   xy: 300, 900
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Ork Instinct
+UnitPromotionIcons/Ork Instinct
   rotate: false
   xy: 1400, 300
   size: 100, 100
