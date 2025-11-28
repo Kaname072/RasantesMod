@@ -31,7 +31,7 @@
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities",
-			"May choose [1] additional belief(s) of any type when [enhancing] a religion"],
+			"May choose [1] additional [Follower] when [enhancing] a religion"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -86,8 +86,8 @@
 		"outerColor": [204,0,0],
 		"innerColor": [240,223,90],
 		"uniqueName": "Socialism",
-		"uniques": ["[Great Engineer] is earned [50]% faster",
-			"[+1 Production] from every [Mine]"],
+		"uniques": ["[+15]% Production towards any buildings that already exist in the Capital",
+			"[Great Engineer] is earned [50]% faster"],
 		"cities": ["Moskaw","Lukningrad","Turkonia","Juntersburg","Kremlion","Saturn","Bieluke"],
 	},
 	{
@@ -168,9 +168,8 @@
 
 		"outerColor": [154,52,116],
 		"innerColor": [255,212,230],
-		"uniqueName": "Conquistadoras",
-		"uniques": ["[+1] Range <for [Ranged] units>",
-			"Free Technology <upon conquering a city> <with [66]% chance>"],
+		"uniqueName": "Mother Blesses",
+		"uniques": ["[+1] Range <for [Ranged] units>"],
 		"cities": ["Navi Mother","Nepturn","Pluton","Sapturn","Jupiter","Marte"]
 	},
 	{
@@ -226,9 +225,8 @@
 		"outerColor": [255,251,42],
 		"innerColor": [68,84,173],
 		"uniqueName": "Multi Religious",
-		"uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost",
-		"[-10]% Unhappiness from [Population] [in all cities] <in cities with a [foreign] religion>",
-		"May not generate great prophet equivalents naturally"],
+		"uniques": ["[+3 Culture] [in all cities] <in cities with a [foreign] religion>",
+			"[+2 Happiness] [in all cities] <in cities with a [foreign] religion]"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
@@ -239,8 +237,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Asopo",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Legendary King Asopus, your tolerant empire, built on respect and justice, triumphed over great adversity and wars. But an evil empire arose amidst the betrayal of his own son...",
+		"startIntroPart2": "King Asopus! Will you bring us great glory and peaceful PAX OCEANICA?",
 
 		"declaringWar": "My tolerance is over!",
 		"attacked": "You mistake will cost you live!",
@@ -256,7 +254,7 @@
 		"innerColor": [0,69,129],
 		"favoredReligion": "Poseidonism",
 		"uniqueName": "Ocean King",
-		"uniques": ["[+1 Science] from every [Fishing Boats]",
+		"uniques": ["[+1 Culture] from every [Fishing Boats]",
 			"[+1] Sight <for [Embarked] units>",
 			"[{Water} {Military}] units gain the [Supply] promotion"],
 		"cities": ["Western Atlantis","Coraluzinia","Deepwater","Grebeci","Kelpinnas","Great Pool"]
@@ -402,8 +400,8 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["Can build [all] improvements at a [25]% rate <in tiles adjacent to [Jungle] tiles>",
-			"Can build [all] improvements at a [25]% rate <in tiles adjacent to [Forest] tiles>"]
+		"uniques": ["Can build [all] improvements at a [15]% rate <in tiles adjacent to [Jungle] tiles>",
+			"Can build [all] improvements at a [15]% rate <in tiles adjacent to [Forest] tiles>"]
 		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
 	{
@@ -430,7 +428,8 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-33]% Golden Age length",
+		"uniques": ["[-50]% Golden Age length",
+			"[-50]% Unhappiness from the number of cities",
 			"Gain control over [1] tiles [in all non-occupied cities] <upon turn start> <during a Golden Age>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
@@ -514,7 +513,8 @@
 		"outerColor": [3,169,3],
 		"innerColor": [255,255,255],
 		"uniqueName": "Solidarity",
-		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence"],
+		"uniques": ["Gifts of Gold to City-States generate [66]% more Influence",
+		"[-33]% City-State Influence degradation)"],
 		"cities": ["Eu","Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
 	{
