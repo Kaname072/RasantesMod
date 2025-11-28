@@ -31,7 +31,7 @@
 		"uniqueName": "Last Apostle",
 		"uniques": ["No damage penalty for wounded units <for [non-[Water]] units>",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities",
-			"May choose [1] additional [Follower] when [enhancing] a religion"],
+			"May choose [1] additional [Follower] beliefs when [enhancing] a religion"],
 		"cities": ["Ul'Messiahu","Ul'Mesha","Ul'Camebbes","Ul'Zupur","Ul'Pentro","Ul'Tepes","Ul'Salazino"],
   },
 	{
@@ -226,7 +226,7 @@
 		"innerColor": [68,84,173],
 		"uniqueName": "Multi Religious",
 		"uniques": ["[+3 Culture] [in all cities] <in cities with a [foreign] religion>",
-			"[+2 Happiness] [in all cities] <in cities with a [foreign] religion]"],
+			"[+2 Happiness] [in all cities] <in cities with a [foreign] religion>"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
@@ -429,7 +429,7 @@
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-50]% Golden Age length",
-			"[-50]% Unhappiness from the number of cities",
+			"[-50]% unhappiness from the number of cities",
 			"Gain control over [1] tiles [in all non-occupied cities] <upon turn start> <during a Golden Age>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
