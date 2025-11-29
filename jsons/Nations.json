@@ -314,8 +314,8 @@
 		"innerColor": [62,1,1],
 		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
-		"uniques": ["Ignores Zone of Control",
-			"[+1] Movement <for [{Military} {Land}] units> <for [10] turns> <upon declaring war on [Major] Civilizations>"],
+		"uniques": ["[+1] Movement <for [{Military} {Land}] units> <for [5] turns> <upon declaring war on [Major] Civilizations>",
+		"[+1 Production] from every [Lumber mill]"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Amara","Sana'a"]
 	},
 	{
@@ -541,11 +541,11 @@
 		"innerColor": [147,97,97],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Prophet Disciple",
-		"uniques": ["[+1 Food] from every [Pasture] <hidden from users>",
+		"uniques": ["[+30]% Strength <vs [City-State]>",
+			"Great General provides double combat bonus",
+			"[+1 Food] from every [Pasture] <hidden from users>",
 			"[+1 Food] from every [Camp] <hidden from users>",
-			"Comment [[+1 Food] from every [Pasture] and [Camp]]",
-			"[+1] population [in all cities] <upon conquering a city>",
-			"[+30]% Strength <vs [City-State]>"],
+			"Comment [[+1 Food] from every [Pasture] and [Camp]]"],
 		"cities": ["Matata","Hakuna","Zoromba","Sahana","Kotango","Lalade","Yahaki"]
 	},
 	{
