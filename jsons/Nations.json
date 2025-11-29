@@ -227,7 +227,7 @@
 		"uniqueName": "Multi Religious",
 		"uniques": ["[+1 Faith] from each Trade Route",
 			"[+2 Happiness] [in all cities] <in cities with a [foreign] religion>",
-			"[+3 Culture] [in all cities] <in cities following our religion"],
+			"[+3 Culture] [in all cities] <in cities following our religion>"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
