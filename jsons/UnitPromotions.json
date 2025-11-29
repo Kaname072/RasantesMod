@@ -733,7 +733,7 @@
 	},
 	{
 		"name": "[Bunny Legion] ability",
-		"uniques": ["[+25]% to Flank Attack bonuses","Can move after attacking"]
+		"uniques": ["[+50]% to Flank Attack bonuses","Can move after attacking"]
 	},
 	{
 		"name": "[Sprinkles] ability",
@@ -746,7 +746,7 @@
 	},
 	{
 		"name": "[Eunuch] ability",
-		"uniques": ["[+10] HP when healing", "All adjacent units heal [+10] HP when healing"]
+		"uniques": ["[+10] HP when healing", "All adjacent units heal [+5] HP when healing"]
 	},
 	{
 		"name": "Jumper",
