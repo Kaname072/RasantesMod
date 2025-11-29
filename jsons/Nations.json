@@ -514,8 +514,36 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Solidarity",
 		"uniques": ["Gifts of Gold to City-States generate [66]% more Influence",
-		"[-33]% City-State Influence degradation)"],
+		"[-33]% City-State Influence degradation"],
 		"cities": ["Eu","Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
+	},
+	{
+		"name": "Roars",
+		"leaderName": "Nimrod",
+		"adjective": ["Ork"],
+		"startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Nimrod",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I'm hungry, you'll be the main course for my dinner!",
+		"attacked": "This a MY style!",
+		"defeated": "The world is made up of two classes: those who devour and those who are devoured. Unfortunately, it wasn't my day as a Hunter.",
+		"introduction": "Hello, friend. I hope you don't make the same mistake my enemies made.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Go away.",
+
+		"tradeRequest": "Give it to me now!",
+
+		"outerColor": [67,27,27],
+		"innerColor": [135,80,80],
+		"favoredReligion": "Missionarism",
+		"uniqueName": "Prophet Disciple",
+		"uniques": ["[+30]% Strength <vs [City-State]>"],
+		"cities": ["Matata","Hakuna","Zoromba","Sahana","Kotango","Lalade","Yahaki"]
 	},
 	{
 		"name": "Golden Wings",
