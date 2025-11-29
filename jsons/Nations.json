@@ -429,8 +429,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-50]% Golden Age length",
-			"[-50]% unhappiness from the number of cities",
+		"uniques": ["[-33]% unhappiness from the number of cities",
 			"Gain control over [1] tiles [in all non-occupied cities] <upon turn start> <during a Golden Age>"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
