@@ -116,6 +116,17 @@
 		"requiredTech": "Sailing"
 	},
 	{
+		"name": "Breeding House",
+		"replaces": "Water Mill",
+		"uniqueTo": "Roars",
+		"maintenance": 2,
+		"food": 3,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% growth [in this city]"],
+		"requiredTech": "Numbers"
+	},
+	{
 		"name": "Walls",
 		"cityStrength": 5,
 		"cityHealth": 50,
