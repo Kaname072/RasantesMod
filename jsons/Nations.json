@@ -314,9 +314,8 @@
 		"innerColor": [62,1,1],
 		"favoredReligion": "Shintonism",
 		"uniqueName": "Caprine Wrath",
-		"uniques": ["[+1 Production] from every [Pasture]",
-			"[+1] Movement <for [Mounted] units>",
-			"[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Ignores Zone of Control",
+			"[+1] Movement <for [{Military} {Land}] units> <for [10] turns> <upon declaring war on [Major] Civilizations>"],
 		"cities": ["Halsie","Doriel","Ashiel","Attila","Amara","Sana'a"]
 	},
 	{
