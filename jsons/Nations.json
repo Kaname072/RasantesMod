@@ -530,7 +530,7 @@
 
 		"declaringWar": "I'm hungry, you'll be the main course for my dinner!",
 		"attacked": "This a MY style!",
-		"defeated": "The world is made up of two classes: those who devour and those who are devoured. Unfortunately, it wasn't my day as a Hunter.",
+		"defeated": "The world is made up of two classes, those who devour and those who are devoured. Unfortunately, it wasn't my day as a Hunter.",
 		"introduction": "Hello, friend. I hope you don't make the same mistake my enemies made.",
 
 		"neutralHello": "Greetings.",
@@ -542,8 +542,10 @@
 		"innerColor": [147,97,97],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Prophet Disciple",
-		"uniques": ["[+1 Food] from every [Pasture]",
-			"[+1 Food] from every [Camp]",
+		"uniques": ["[+1 Food] from every [Pasture] <hidden from users>",
+			"[+1 Food] from every [Camp] <hidden from users>",
+			"Comment [[+1 Food] from every [Pasture] and [Camp]]",
+			"[+1] population [in all cities] <upon conquering a city>",
 			"[+30]% Strength <vs [City-State]>"],
 		"cities": ["Matata","Hakuna","Zoromba","Sahana","Kotango","Lalade","Yahaki"]
 	},
