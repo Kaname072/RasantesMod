@@ -120,10 +120,11 @@
 		"replaces": "Water Mill",
 		"uniqueTo": "Roars",
 		"maintenance": 2,
-		"food": 3,
+		"food": 2,
 		"production": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+15]% growth [in this city]"],
+		"percentStatBonus": {"food": 20},
+		"uniques": ["[+1] population [in this city] <upon conquering a city>","Destroyed when the city is captured"],
 		"requiredTech": "Numbers"
 	},
 	{
