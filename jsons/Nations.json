@@ -225,8 +225,9 @@
 		"outerColor": [255,251,42],
 		"innerColor": [68,84,173],
 		"uniqueName": "Multi Religious",
-		"uniques": ["[+3 Culture] [in all cities] <in cities with a [foreign] religion>",
-			"[+2 Happiness] [in all cities] <in cities with a [foreign] religion>"],
+		"uniques": ["[+1 Faith] from each Trade Route",
+			"[+2 Happiness] [in all cities] <in cities with a [foreign] religion>",
+			"[+3 Culture] [in all cities] <in cities following our religion"],
 		"cities": ["Viseo","Lisbon","Costaro","Suvete","Claras","Caracas"]
 	},
 	{
@@ -538,11 +539,13 @@
 
 		"tradeRequest": "Give it to me now!",
 
-		"outerColor": [67,27,27],
-		"innerColor": [135,80,80],
+		"outerColor": [62,26,26],
+		"innerColor": [147,97,97],
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Prophet Disciple",
-		"uniques": ["[+30]% Strength <vs [City-State]>"],
+		"uniques": ["[+1 Food] from every [Pasture]",
+			"[+1 Food] from every [Camp]",
+			"[+30]% Strength <vs [City-State]>"],
 		"cities": ["Matata","Hakuna","Zoromba","Sahana","Kotango","Lalade","Yahaki"]
 	},
 	{
