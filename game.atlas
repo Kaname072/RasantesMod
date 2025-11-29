@@ -53,6 +53,13 @@ NationIcons/Bunnies
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Roars
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Drows
   rotate: false
   xy: 1400, 200
@@ -147,6 +154,13 @@ BuildingIcons/Carrot Market
 BuildingIcons/Coldness Castle
   rotate: false
   xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Breeding House
+  rotate: false
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -272,7 +286,7 @@ BuildingIcons/Telescope
   index: -1
 BuildingIcons/Forge Magma
   rotate: false
-  xy: 1200, 800
+  xy: 1300, 800
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -494,6 +508,13 @@ LeaderIcons/Sandro
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Nimrod
+  rotate: false
+  xy: 1023, 1001
+  size: 160, 160
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Bharat
   rotate: false
   xy: 1183, 1001
@@ -525,6 +546,13 @@ LeaderIcons/Seamonides
 UnitIcons/Primitive Warrior
   rotate: false
   xy: 1100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Javalli
+  rotate: false
+  xy: 500, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -676,13 +704,6 @@ UnitIcons/White Corps
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mechanized Fish
-  rotate: false
-  xy: 500, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Red Army
   rotate: false
   xy: 600, 200
@@ -697,7 +718,7 @@ UnitIcons/Black Corps
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Bunny Scout
+UnitIcons/Ikki Ikko
   rotate: false
   xy: 900, 200
   size: 100, 100
@@ -739,7 +760,7 @@ UnitIcons/Trident
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Spike Catapult
+UnitIcons/Beetle General
   rotate: false
   xy: 700, 300
   size: 100, 100
@@ -767,23 +788,9 @@ UnitIcons/Great Death Laser
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pig Rider
-  rotate: false
-  xy: 1400, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Hisagi
   rotate: false
   xy: 900, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Lizardo Cavalry
-  rotate: false
-  xy: 1400, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -798,13 +805,6 @@ UnitIcons/Eunuch
 UnitIcons/Jumper Lizardo
   rotate: false
   xy: 1700, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Duck Boat
-  rotate: false
-  xy: 1800, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -826,13 +826,6 @@ UnitIcons/Monk
 UnitIcons/Tech Archer
   rotate: false
   xy: 1100, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Wizard
-  rotate: false
-  xy: 300, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -865,13 +858,6 @@ UnitIcons/Leviathan
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Goat Rasante
-  rotate: false
-  xy: 600, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Jack Infantry
   rotate: false
   xy: 700, 400
@@ -882,13 +868,6 @@ UnitIcons/Jack Infantry
 UnitIcons/Night Flame
   rotate: false
   xy: 800, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Storm
-  rotate: false
-  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -987,6 +966,13 @@ UnitPromotionIcons/Faith Defensor
 UnitPromotionIcons/Ork Instinct
   rotate: false
   xy: 1400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Javalli Roar
+  rotate: false
+  xy: 0, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
