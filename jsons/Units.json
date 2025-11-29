@@ -486,22 +486,6 @@
 		"attackSound": "goatrider"
 	},
 	{
-		"name": "Pig Rider",
-		"uniqueTo": "Primordials",
-		"replaces": "Goat Rider",
-		"unitType": "Mounted",
-		"movement": 3,
-		"strength": 12,
-		"cost": 75,
-		"requiredTech": "Animal Husbandry",
-		"requiredResource": "Goat",
-		"obsoleteTech": "Chivalry",
-		"upgradesTo": "Goat Knight",
-		"uniques": ["Never appears as a Barbarian unit","Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs cities> <when attacking>"],
-		"hurryCostModifier": 20,
-		"attackSound": "pigrider"
-	},
-	{
 		"name": "Goat Knight",
 		"unitType": "Mounted",
 		"movement": 3,
@@ -855,6 +839,19 @@
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Beetle General",
+		"uniqueTo": "Primordials",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable", "[+1] Sight", "Invisible to non-adjacent units <in [Friendly Land] tiles>"],
 		"movement": 2
 	},
 		
