@@ -206,6 +206,21 @@
 		"attackSound": "junissary"
 	},
 	{
+		"name": "Javalli",
+		"replaces": "Laser Swordsman",
+		"uniqueTo": "Roars",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 100,
+		"promotions": ["Javalli Roar"],
+		"obsoleteTech": "Rifling",
+		"requiredTech": "Crystal Working",
+		"requiredResource": "Crystal Ore",
+		"upgradesTo": "Infantry",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -380,6 +395,21 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","Never appears as a Barbarian unit"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Ikki Ikko",
+		"uniqueTo": "Capricorn",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 12,
+		"cost": 60,
+		"promotions": ["Cover I"],
+		"requiredTech": "Trapping",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
