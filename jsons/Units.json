@@ -320,7 +320,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Jack Infantry",
+		"name": "JJ Infantry",
 		"uniqueTo": "Supernova",
 		"replaces": "Laser Gunner",
 		"unitType": "Gunpowder",
@@ -518,9 +518,9 @@
 		"uniqueTo": "Barbarians",
 		"unitType": "Archery",
 		"movement": 2,
-		"strength": 5,
+		"strength": 4,
 		"rangedStrength": 5,
-		"cost": 30,
+		"cost": 40,
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Archer",
 		"attackSound": "arrow"
