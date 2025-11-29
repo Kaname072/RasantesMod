@@ -17,7 +17,7 @@
 	{
 		"columnNumber": 1,
 		"era": "Medieval era",
-		"techCost": 50,
+		"techCost": 75,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -55,7 +55,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Medieval era",
-		"techCost": 60,
+		"techCost": 125,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -95,7 +95,7 @@
 	{
 		"columnNumber": 3,
 		"era": "Renaissance era",
-		"techCost": 75,
+		"techCost": 175,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -138,7 +138,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Renaissance era",
-		"techCost": 125,
+		"techCost": 225,
 		"buildingCost": 100,
 		"wonderCost": 240,
 		"techs": [
@@ -190,7 +190,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Modern era",
-		"techCost": 200,
+		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 275,
 		"techs": [
@@ -232,7 +232,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Modern era",
-		"techCost": 275,
+		"techCost": 325,
 		"buildingCost": 150,
 		"wonderCost": 300,
 		"techs": [
@@ -280,7 +280,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Modern era",
-		"techCost": 325,
+		"techCost": 375,
 		"buildingCost": 175,
 		"wonderCost": 325,
 		"techs": [
@@ -312,7 +312,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Future era",
-		"techCost": 450,
+		"techCost": 425,
 		"buildingCost": 200,
 		"wonderCost": 350,
 		"techs": [
@@ -343,7 +343,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Future era",
-		"techCost": 525,
+		"techCost": 475,
 		"buildingCost": 225,
 		"wonderCost": 375,
 		"techs": [
@@ -380,7 +380,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Future era",
-		"techCost": 750,
+		"techCost": 550,
 		"buildingCost": 250,
 		"wonderCost": 400,
 		"techs": [
@@ -405,7 +405,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Future era",
-		"techCost": 725,
+		"techCost": 625,
 		"buildingCost": 275,
 		"wonderCost": 425,
 		"techs": [
