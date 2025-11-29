@@ -682,7 +682,7 @@
 		"uniques": ["[Great General] is earned [100]% faster"]
 	},
 	{
-		"name": "[Spike Catapult] ability", // only for Spike Catapult and subsequent upgrades
+		"name": "Javalli Roar", // only for Javalli and subsequent upgrades
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
 	},
 	{
@@ -691,7 +691,7 @@
 	},
 	{
 		"name": "Faith Defensor", // only for Rasantes annexed cities units
-		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
 	{
 		"name": "Ignore terrain cost",
@@ -723,7 +723,7 @@
 	},
 	{
 		"name": "[Beetle Warrior] ability",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>","Ignores terrain cost"]
+		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>","Ignores terrain cost"]
 	},
 		//// "name": "Elf Magic",
 		//// "uniques": ["[Target Unit] gains the [Blindness] status for [2] turn(s) <when attacking> <upon damaging a [Land] unit>"]
@@ -754,7 +754,7 @@
 	},
 	{
 		"name": "Guerrilha Tactics",
-		"uniques": ["Withdraws before melee combat <with [50]% chance> <when fighting in [Friendly Land] tiles>"]
+		"uniques": ["Withdraws before melee combat <with [40]% chance> <when fighting in [Friendly Land] tiles>"]
 	},
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
