@@ -98,8 +98,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Victoria III",
 
-		"startIntroPart1": "The Bunnies is the most pacefull races in the universe! The bunnies love will get the universe to show to all Nations, how to make a empire without violence or destruction",
-		"startIntroPart2": "War is bad! cruelity is bad! the universe need something to make everyone love everyone",
+		"startIntroPart1": "The rabbit race has always been dominated by other, larger Empires, and we have always been subjugated by other races, but the great Queen Victoria III, with her magnificent wisdom, guided our race and species to advancements that our great elder Viriatus would be proud to see us achieve with his powerful Empire.",
+	    "startIntroPart2": "Great Empress, could your majesty make us shine in the distant future among all these species and Empires?",
 
 		"declaringWar": "Theres land's dont need you crown!",
 		"attacked": "The same arrogance of my old defeated enemies, well, come on!",
@@ -115,7 +115,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Agricultural Power",
 		"uniques": ["[+100]% Yield from every [Farm]",
-			"[+100]% Yield from every [Plantation]"],
+			"[+100]% Yield from every [Plantation]",
+		    "[+100]% Yield from every [Granary]"],
 		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
 	{
@@ -440,8 +441,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Bharat",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Long live Bharat! Your Excellency managed to free us from the mighty Supernova Empire, bringing us the freedom that the ancient elders promised us so much. After thousands of years in isolated tribes, our forces finally united and the stars finally aligned in our favor.",
+	    "startIntroPart2": "Great Bharat, could you create a great Empire of the most powerful reptiles in the entire galaxy?",
 
 		"declaringWar": "You are so rude! this is war!",
 		"attacked": "Huh!?",
