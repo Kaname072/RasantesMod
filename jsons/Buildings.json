@@ -67,6 +67,7 @@
 		"name": "Black Shrine",
 		"replaces": "Shrine",
 		"uniqueTo": "Galicians",
+		"faith": 1,
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Mysticism",
