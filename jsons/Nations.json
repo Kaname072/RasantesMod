@@ -115,8 +115,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Agricultural Power",
 		"uniques": ["[+100]% Yield from every [Farm]",
-			"[+100]% Yield from every [Plantation]",
-		    "[+100]% Yield from every [Granary]"],
+			"[+50]% Yield from every [Plantation]",
+		    "[+2 Food] from every [Granary]"],
 		"cities": ["Madrid","Carrotina","Noellis","Vanilla","Vittina","Cambul","Nezsareno","Oslo"],
 	},
 	{
@@ -285,8 +285,8 @@
 		"outerColor": [134,0,0],
 		"innerColor": [255,228,107],
 		"uniqueName": "War Lord",
-		"uniques": ["[+50]% XP gained from combat <for [Military] units>",
-			"[+1 Production] from every [Luxury resource]",
+		"uniques": ["[+2 Production] from every [Luxury resource]",
+			"[+50]% XP gained from combat <for [Military] units>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Pandora","Sinkerah","Juslakau","Menoplash","Gilgamesh","Milkadoos","Looakta","Lwaknda","Sempaktbo","Mkanda"]
 	},
@@ -373,7 +373,7 @@
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Capture Groups",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
-			"[-15]% maintenance costs <for [Military] units>"],
+			"[-25]% maintenance costs <for [{Military} {Land}] units>"],
 		"cities": ["Ul'Marttomia","Ul,Zamasso","Ul' Khan","Ul'Azul","Ul'Eufrades","Ul'Koimar","Ul,Asterisk"]
 	},
 	{
@@ -401,8 +401,11 @@
 		"innerColor": [96,96,0],
 		"favoredReligion": "Martyr",
 		"uniqueName": "Eden Garden",
-		"uniques": ["Can build [all] improvements at a [15]% rate <in tiles adjacent to [Jungle] tiles>",
-			"Can build [all] improvements at a [15]% rate <in tiles adjacent to [Forest] tiles>"]
+		"uniques": ["Can build [all] improvements at a [15]% rate <in tiles adjacent to [Jungle] tiles> <hidden from users>",
+			"Can build [all] improvements at a [15]% rate <in tiles adjacent to [Forest] tiles> <hidden from users>",
+		    "Comment [Can build [all] improvements at a [15]% rate in tiles adjacent to Jungle or Forest]",
+			"When declaring friendship, both parties gain a [10]% boost to great person generation",
+			"City-State territory always counts as friendly territory"]
 		"cities": ["Rom","Teb","Jard","Gra","Sba","Cju","Sama"],
 	},
 	{
@@ -429,8 +432,9 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
-		"uniques": ["[-33]% unhappiness from the number of cities",
-			"Gain control over [1] tiles [in all non-occupied cities] <upon turn start> <during a Golden Age>"],
+		"uniques": ["[-25]% unhappiness from the number of cities",
+			"[-50] XP required for promotions <for [Military] units>",
+		    "[+3 Happiness, +2 Culture] from every [Courthouse]"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
@@ -458,6 +462,7 @@
 		"innerColor": [228,228,228],
 		"uniqueName": "Lizardos Richness",
 		"uniques": ["[+1 Gold] from each Trade Route",
+			"[+100]% [Iron] resource production",
 			"[+100]% [Crystal Ore] resource production"],
 		"cities": ["Sharaya","Hiziak","Molte","Mpatso","K'lango","W'izard","P'etk","Cang'oore"],
 	},
@@ -513,8 +518,8 @@
 		"outerColor": [3,169,3],
 		"innerColor": [255,255,255],
 		"uniqueName": "Solidarity",
-		"uniques": ["Gifts of Gold to City-States generate [66]% more Influence",
-		"[-33]% City-State Influence degradation"],
+		"uniques": ["Gifts of Gold to City-States generate [50]% more Influence",
+		"[-25]% City-State Influence degradation"],
 		"cities": ["Eu","Eucranes","Euzapha","Eumedes","Euthanatos","Eumiamo","Euzava","Eucanto"]
 	},
 	{
@@ -543,10 +548,8 @@
 		"favoredReligion": "Missionarism",
 		"uniqueName": "Prophet Disciple",
 		"uniques": ["[+30]% Strength <vs [City-State]>",
-			"Great General provides double combat bonus",
-			"[+1 Food] from every [Pasture] <hidden from users>",
-			"[+1 Food] from every [Camp] <hidden from users>",
-			"Comment [[+1 Food] from every [Pasture] and [Camp]]"],
+			"[+1] Sight <for [Great General] units>",
+			"Great General provides double combat bonus"],
 		"cities": ["Matata","Hakuna","Zoromba","Sahana","Kotango","Lalade","Yahaki"]
 	},
 	{
