@@ -7,7 +7,7 @@
   {
 	    "name": "Rasantes",
 		"leaderName": "Junior*46",
-		"adjective": ["rasante"],
+		"adjective": ["Rasante"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"personality": "Junior*46",
@@ -37,7 +37,7 @@
 	{
 		"name": "Cataclysm",
 		"leaderName": "Junior073",
-		"adjective": ["cataclysmian"],
+		"adjective": ["Cataclysmian"],
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Junior073",
@@ -65,7 +65,7 @@
 	{
 		"name": "Eclipses",
 		"leaderName": "Lucas094",
-		"adjective": ["eclipsian"],
+		"adjective": ["Eclipsian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Lucas094",
@@ -93,7 +93,7 @@
 	{
 		"name": "Bunnies",
 		"leaderName": "Victoria III",
-		"adjective": ["rabbit"],
+		"adjective": ["Rabbit"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Victoria III",
@@ -122,7 +122,7 @@
 	{
 		"name": "Franice",
 		"leaderName": "Lemonady",
-		"adjective": ["icepeople"],
+		"adjective": ["Icepeople"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Lemonady",
@@ -149,7 +149,7 @@
 	{
 		"name": "Drows",
 		"leaderName": "Marigod",
-		"adjective": ["drow"],
+		"adjective": ["Drow"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"personality": "Marigod",
@@ -205,7 +205,7 @@
 	{
 		"name": "Galicians",
 		"leaderName": "Lorenzo",
-		"adjective": ["galicians"],
+		"adjective": ["Galicians"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Lorenzo",
@@ -234,7 +234,7 @@
 	{
 		"name": "Atlantis",
 		"leaderName": "Asopo",
-		"adjective": ["atlantimite"],
+		"adjective": ["Atlantimite"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Asopo",
@@ -264,7 +264,7 @@
 	{
 		"name": "Ork Empire",
 		"leaderName": "Achish",
-		"adjective": ["ork"],
+		"adjective": ["Ork"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"personality": "Achish",
@@ -293,7 +293,7 @@
 	{
 		"name": "Capricorn",
 		"leaderName": "Temuujin",
-		"adjective": ["caprine"],
+		"adjective": ["Caprine"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		"personality": "Temuujin",
@@ -322,7 +322,7 @@
 	{
 		"name": "Supernova",
 		"leaderName": "Junior110",
-		"adjective": ["idk"],
+		"adjective": ["Idk"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		"personality": "Junior110",
@@ -350,7 +350,7 @@
 	{
 		"name": "Marttomans",
 		"leaderName": "Seamonides",
-		"adjective": ["marttoman"],
+		"adjective": ["Marttoman"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		"personality": "Seamonides",
@@ -379,7 +379,7 @@
 	{
 		"name": "Eden",
 		"leaderName": "Junior777",
-		"adjective": ["edenian"],
+		"adjective": ["Edenian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Junior777",
@@ -411,7 +411,7 @@
 	{
 		"name": "Primordials",
 		"leaderName": "Junior013",
-		"adjective": ["primordian"],
+		"adjective": ["Primordian"],
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Junior013",
@@ -433,14 +433,14 @@
 		"innerColor": [255,64,64],
 		"uniqueName": "Growth of Empire",
 		"uniques": ["[-25]% unhappiness from the number of cities",
-			"[-50] XP required for promotions <for [Military] units>",
+			"[-50]% XP required for promotions <for [Military] units>",
 		    "[+3 Happiness, +2 Culture] from every [Courthouse]"],
 		"cities": ["Ymir","Malus","Sidarta","Ul'Mottor","Sri Lo","Krishna","Zuniki","Antahono","Hunoa"]
 	},
 	{
 		"name": "Ouroborus",
 		"leaderName": "Bharat",
-		"adjective": ["lizardos"],
+		"adjective": ["Lizardos"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Bharat",
@@ -469,7 +469,7 @@
 	{
 		"name": "Novaland",
 		"leaderName": "Wanessa",
-		"adjective": ["novalenians"],
+		"adjective": ["Novalenians"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Wanessa",
@@ -497,7 +497,7 @@
 	{
 		"name": "Constelation",
 		"leaderName": "Junior053",
-		"adjective": ["constelarian"],
+		"adjective": ["Constelarian"],
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Junior053",
