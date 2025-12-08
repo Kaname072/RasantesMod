@@ -201,7 +201,7 @@
 			},
 			{
 				"name": "Banking",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Economics"]
 			},
 			{
@@ -225,14 +225,8 @@
 		"wonderCost": 275,
 		"techs": [
 			{
-				"name": "Electricity",
-				"row": 2,
-				"prerequisites": ["Physics"],
-                "uniques": ["[+50]% weight to this choice for AI decisions"]
-			},
-			{
 				"name": "Acoustics",
-				"row": 9,
+				"row": 8,
 				"prerequisites": ["Drama and Poetry"]
 			},
 			{
@@ -249,6 +243,11 @@
 				"name": "Chemistry",
 				"row": 4,
 				"prerequisites": ["Metal Casting","Physics"]
+			},
+			{
+				"name": "Embassies",
+				"row": 9,
+				"prerequisites": ["Drama and Poetry","Banking"]
 			}
 		]
 	},
@@ -259,11 +258,6 @@
 		"buildingCost": 150,
 		"wonderCost": 300,
 		"techs": [
-			{
-				"name": "Electronics",
-				"row": 1,
-				"prerequisites": ["Electricity"]
-			},
 			{
 				"name": "Compass",
 				"row": 2,
@@ -278,13 +272,13 @@
 			{
 				"name": "Civil Service",
 				"row": 9,
-				"prerequisites": [""]
+				"prerequisites": ["Embassies"]
 			},
 			{
-				"name": "Rifling",
+				"name": "Crystal Working",
 				"cost": 350,
 				"row": 6,
-				"prerequisites": ["Militarism","Crystal Working"],
+				"prerequisites": ["Crystal Extracing"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
@@ -304,7 +298,7 @@
 			{
 				"name": "Navigation",
 				"row": 2,
-				"prerequisites": ["Compass","Electronics"]
+				"prerequisites": ["Compass"]
 			},
 			{
 				"name": "Scientific Theory",
@@ -316,19 +310,13 @@
 				"name": "Metallurgy",
 				"cost": 475,
 				"row": 6,
-				"prerequisites": ["Rifling","Industrialization"]
+				"prerequisites": ["Crystal Working","Industrialization"]
 			},
 			{
 				"name": "Education",
 				"row": 7,
-				"prerequisites": ["Computers","Civil Service"],
+				"prerequisites": ["Civil Service"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Computers",
-				"row": 1,
-				"prerequisites": ["Electronics"],
-				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -345,10 +333,11 @@
 				"prerequisites": ["Navigation"],
 			},
 			{
-				"name": "Robotics",
+				"name": "Electricity",
 				"row": 1,
-				"prerequisites": ["Computers"]
-			},
+				"prerequisites": ["Scientific Theory"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"]
+			}
 			{
 				"name": "Lasers",
 				"row": 5,
@@ -371,6 +360,11 @@
 		"wonderCost": 375,
 		"techs": [
 			{
+				"name": "Electronics",
+				"row": 1,
+				"prerequisites": ["Electricity"]
+			},
+			{
 				"name": "Satellites",
 				"row": 2,
 				"prerequisites": ["Astronomy"]
@@ -389,7 +383,7 @@
 			{
 				"name": "Universalization",
 				"row": 8,
-				"prerequisites": ["Robotics"],
+				"prerequisites": ["Electricity"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
@@ -408,9 +402,15 @@
 		"wonderCost": 400,
 		"techs": [
 			{
+				"name": "Computers",
+				"row": 1,
+				"prerequisites": ["Electronics"],
+				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
+			},
+			{
 				"name": "War Satellites",
 				"row": 2,
-				"prerequisites": ["Satellites","Nuclear Fusion"]
+				"prerequisites": ["Satellites","Electronics"]
 			},
 			{
 				"name": "Nanotechnology",
