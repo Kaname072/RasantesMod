@@ -77,7 +77,7 @@
 			},
 			{
 				"name": "Numbers",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Writing"]
 			}
 		]
@@ -129,7 +129,7 @@
 			},
 			{
 				"name": "Currency",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Numbers","Engineering"]
 			},
 			{
@@ -139,7 +139,7 @@
 			},
 			{
 				"name": "History",
-				"row": 9,
+				"row": 7,
 				"prerequisites": ["Engineering"],
 			},
 			{
