@@ -174,7 +174,7 @@
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Goat] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
-		"requiredTech": "Trapping"
+		"requiredTech": "Horseback Riding"
 	},
 	{
 		"name": "Circus Maximus",
@@ -285,7 +285,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
-		"requiredTech": "Militarism"
+		"requiredTech": "Embassies"
 	},
 	{
 		"name": "Market",
@@ -312,7 +312,7 @@
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Iron Working"
 	},
 	{
 		"name": "Aqueduct",
@@ -328,7 +328,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
-		"requiredTech": "Rifling"
+		"requiredTech": "Embassies"
 	},
 
 	// Medieval Era
@@ -345,7 +345,7 @@
 		"name": "Altar",
 		"isWonder": true,
 		"faith": 3,
-		"requiredTech": "Theology",
+		"requiredTech": "Mysticism",
 		"uniques": ["Only available <when religion is enabled>"],
 	},
 	{
@@ -362,7 +362,7 @@
 		"faith": 8,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
 			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
-		"requiredTech": "Theology",
+		"requiredTech": "Embassies",
 		"isNationalWonder": true
 	},
 	{
@@ -390,7 +390,7 @@
 		"culture": 4,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"hurryCostModifier": 25,
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Guilds",
 		"uniques": ["[+25]% growth [in all cities]"],
 	},
     {
@@ -434,9 +434,9 @@
     {
 		"name": "Darius Library",
 		"isWonder": true,
-		"science": 4,
-		"culture": 3,
-		"requiredTech": "Education",
+		"science": 3,
+		"culture": 2,
+		"requiredTech": "Writing",
 		"uniques": ["Free Technology"],
 	},
 	{
@@ -499,7 +499,7 @@
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Steel"
 	},
     {
 		"name": "King Achish Statue",
@@ -507,7 +507,7 @@
 		"culture": 4,
 		"hurryCostModifier": 25,
 		"requiredTech": "History",
-		"uniques": ["[+15]% Strength <for [Melee] units>"],
+		"uniques": ["[+15]% Strength <vs [City]>"],
 	},
 
 	// Renaissance Era
@@ -601,7 +601,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Castle",
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Industrialization",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 
