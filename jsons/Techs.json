@@ -389,7 +389,7 @@
 			{
 				"name": "War Spaceship",
 				"row": 7,
-				"prerequisites": ["Lasers","Robotics"]
+				"prerequisites": ["Lasers"]
 			},
 			{
 				"name": "Universalization",
