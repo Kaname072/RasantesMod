@@ -337,12 +337,6 @@
 				"row": 1,
 				"prerequisites": ["Scientific Theory"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"]
-			}
-			{
-				"name": "Lasers",
-				"row": 5,
-				"prerequisites": ["Scientific Theory"],
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Biology",
@@ -414,9 +408,15 @@
 		"techs": [
 			{
 				"name": "Computers",
-				"row": 5,
+				"row": 3,
 				"prerequisites": ["Electronics"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"name": "Lasers",
+				"row": 7,
+				"prerequisites": ["Nuclear Fusion"],
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -445,7 +445,7 @@
 			{
 				"name": "War Satellites"
 				"row": 4,
-				"prerequisites": ["Computers"]
+				"prerequisites": ["Computers","Lasers"]
 			}
 		]
 	},
