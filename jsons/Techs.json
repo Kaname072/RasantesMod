@@ -219,7 +219,7 @@
 	},
 	{
 		"columnNumber": 6,
-		"era": "Modern era",
+		"era": "Industrial era",
 		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 275,
@@ -253,7 +253,7 @@
 	},
 	{
 		"columnNumber": 7,
-		"era": "Modern era",
+		"era": "Industrial era",
 		"techCost": 325,
 		"buildingCost": 150,
 		"wonderCost": 300,
@@ -290,7 +290,7 @@
 	},
 	{
 		"columnNumber": 8,
-		"era": "Modern era",
+		"era": "Industrial era",
 		"techCost": 375,
 		"buildingCost": 175,
 		"wonderCost": 325,
@@ -322,7 +322,7 @@
 	},
 	{
 		"columnNumber": 9,
-		"era": "Future era",
+		"era": "Modern era",
 		"techCost": 425,
 		"buildingCost": 200,
 		"wonderCost": 350,
@@ -349,6 +349,17 @@
 				"row": 7,
 				"prerequisites": ["Education"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
+			},
+			{
+				"name": "Rifling",
+				"row": 6,
+				"cost": 450,
+				"prerequisites": ["Metallurgy"]
+			},
+			{
+				"name": "Militarism",
+				"row": 8,
+				"prerequisites": ["Education"]
 			}
 		]
 	},
