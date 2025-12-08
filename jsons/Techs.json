@@ -112,7 +112,7 @@
                 "uniques": ["[+100]% weight to this choice for AI decisions","Enables embarkation for land units"]
 			},
 			{
-				"name": "Iron Working",
+				"name": "Bronze Working",
 				"cost": 100,
 				"row": 5,
 				"prerequisites": ["Engineering"],
@@ -176,19 +176,28 @@
 				"prerequisites": ["History"],
 			},
 			{
-				"name": "Crystal Extracing",
-				"row": 6,
-				"prerequisites": ["Iron Working","Mathematics"],
-			},
-			{
-				"name": "Metal Casting",
+				"name": "Iron Working",
 				"row": 5,
-				"prerequisites": ["Iron Working"]
+				"prerequisites": ["Bronze Working"]
 			}
 		]
 	},
 	{
 		"columnNumber": 5,
+		"era": "Modern era",
+		"techCost": 275,
+		"buildingCost": 120,
+		"wonderCost": 275,
+		"techs": [
+			{
+				"name": "Metal Casting",
+				"row": 5,
+				"prerequisites": ["Iron Working"],
+			}
+		]
+	},
+	{
+		"columnNumber": 6,
 		"era": "Modern era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -212,9 +221,9 @@
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
-				"name": "Crystal Working",
-				"row": 7,
-				"prerequisites": ["Crystal Extracing","Banking"],
+				"name": "Crystal Extracing",
+				"row": 6,
+				"prerequisites": ["Metal Casting"]
 			},
 			{
 				"name": "Physics",
@@ -230,7 +239,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Modern era",
 		"techCost": 325,
 		"buildingCost": 150,
@@ -278,7 +287,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Modern era",
 		"techCost": 375,
 		"buildingCost": 175,
@@ -310,7 +319,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Future era",
 		"techCost": 425,
 		"buildingCost": 200,
@@ -341,7 +350,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Future era",
 		"techCost": 475,
 		"buildingCost": 225,
@@ -378,7 +387,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Future era",
 		"techCost": 550,
 		"buildingCost": 250,
@@ -403,7 +412,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Future era",
 		"techCost": 625,
 		"buildingCost": 275,
