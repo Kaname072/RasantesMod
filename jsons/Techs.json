@@ -60,15 +60,21 @@
 		"wonderCost": 220,
 		"techs": [
 			{
+				"name": "Masonry",
+				"row": 7,
+				"prerequisites": ["Mining"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
+			},
+			{
 				"name": "Trapping",
 				"row": 2,
 				"prerequisites": ["Animal Husbandry"],
 			},
 			{
-			    "name": "Infrastructure",
-				"row": 7,
-				"prerequisites": ["Mining","Writing"],
-                "uniques": ["Roads connect tiles across rivers","[+100]% weight to this choice for AI decisions"]
+			    "name": "The Wheel",
+				"row": 3,
+				"prerequisites": ["Mining","Animal Husbandry"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Engineering",
@@ -100,12 +106,6 @@
 		"wonderCost": 220,
 		"techs": [
 			{
-				"name": "Masonry",
-				"row": 3,
-				"prerequisites": ["Engineering"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
 				"name": "Optics",
 				"row": 1,
 				"prerequisites": ["Sailing"],
@@ -115,11 +115,11 @@
 				"name": "Bronze Working",
 				"cost": 100,
 				"row": 5,
-				"prerequisites": ["Engineering"],
+				"prerequisites": ["Masonry"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
-				"name": "Economics",
+				"name": "Currency",
 				"row": 7,
 				"prerequisites": ["Numbers","Engineering"]
 			},
@@ -132,6 +132,11 @@
 				"name": "History",
 				"row": 9,
 				"prerequisites": ["Writing"],
+			},
+			{
+				"name": "Horseback Riding",
+				"row": 3,
+				"prerequisites": ["The Wheel","Trapping"]
 			}
 		]
 	},
@@ -146,7 +151,7 @@
 				"name": "Chivalry",
 				"cost": 200,
 				"row": 2,
-				"prerequisites": ["Trapping"],
+				"prerequisites": ["Horseback Riding"],
 			},
 			{
 				"name": "Construction",
@@ -160,19 +165,14 @@
 				"prerequisites": ["Optics"],
 			},
 			{
-				"name": "Banking",
+				"name": "Economics",
 				"row": 7,
-				"prerequisites": ["Economics"],
+				"prerequisites": ["Currency"],
 				"uniques": ["Enables conversion of city production to [Gold]"]
 			},
 			{
 				"name": "Philosophy",
 				"row": 9,
-				"prerequisites": ["History"],
-			},
-			{
-				"name": "Music & Art",
-				"row": 8,
 				"prerequisites": ["History"],
 			},
 			{
@@ -184,7 +184,7 @@
 	},
 	{
 		"columnNumber": 5,
-		"era": "Modern era",
+		"era": "Renaissance era",
 		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 275,
@@ -193,6 +193,27 @@
 				"name": "Metal Casting",
 				"row": 5,
 				"prerequisites": ["Iron Working"],
+			},
+			{
+				"name": "Guilds",
+				"row": 3,
+				"prerequisites": ["Chivalry"]
+			},
+			{
+				"name": "Banking",
+				"row": 7,
+				"prerequisites": ["Economics"]
+			},
+			{
+				"name": "Drama and Poetry",
+				"row": 9,
+				"prerequisites": ["Philosophy"],
+			},
+			{
+				"name": "Physics",
+				"row": 1,
+				"prerequisites": ["Construction"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
 			}
 		]
 	},
@@ -206,19 +227,13 @@
 			{
 				"name": "Electricity",
 				"row": 2,
-				"prerequisites": ["Fertilizer"],
+				"prerequisites": ["Physics"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"]
 			},
 			{
-				"name": "Enternement",
+				"name": "Acoustics",
 				"row": 9,
-				"prerequisites": ["Philosophy","Music & Art"]
-			},
-			{
-				"name": "Militarism",
-				"row": 5,
-				"prerequisites": ["Chivalry"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"]
+				"prerequisites": ["Drama and Poetry"]
 			},
 			{
 				"name": "Crystal Extracing",
@@ -226,15 +241,14 @@
 				"prerequisites": ["Metal Casting"]
 			},
 			{
-				"name": "Physics",
-				"row": 1,
-				"prerequisites": ["Construction"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
-		    },
+				"name": "Steel",
+				"row": 3,
+				"prerequisites": ["Metal Casting"]
+			},
 			{
-				"name": "Acoustics",
-				"row": 6,
-				"prerequisites": ["Music & Art"]
+				"name": "Chemistry",
+				"row": 4,
+				"prerequisites": ["Metal Casting","Physics"]
 			}
 		]
 	},
@@ -253,24 +267,18 @@
 			{
 				"name": "Compass",
 				"row": 2,
-				"prerequisites": ["Physics"],
+				"prerequisites": ["Crystal Extracing"],
                 "uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
 			},
 			{
 				"name": "Industrialization",
 				"row": 7,
-				"prerequisites": ["Electricity","Physics"],
-			},
-			{
-				"name": "Computers",
-				"row": 8,
-				"prerequisites": ["Electricity"],
-				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
+				"prerequisites": ["Chemistry"],
 			},
 			{
 				"name": "Civil Service",
 				"row": 9,
-				"prerequisites": ["Enternement"]
+				"prerequisites": [""]
 			},
 			{
 				"name": "Rifling",
@@ -316,6 +324,12 @@
 				"prerequisites": ["Computers","Civil Service"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
+			{
+				"name": "Computers",
+				"row": 1,
+				"prerequisites": ["Electronics"],
+				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
+			}
 		]
 	},
 	{
@@ -332,8 +346,8 @@
 			},
 			{
 				"name": "Robotics",
-				"row": 6,
-				"prerequisites": ["Metallurgy"]
+				"row": 1,
+				"prerequisites": ["Computers"]
 			},
 			{
 				"name": "Lasers",
