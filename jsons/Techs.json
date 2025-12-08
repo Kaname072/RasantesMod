@@ -70,22 +70,6 @@
 				"row": 2,
 				"prerequisites": ["Animal Husbandry"],
 			},
-			{
-			    "name": "The Wheel",
-				"row": 3,
-				"prerequisites": ["Mining","Animal Husbandry"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Engineering",
-				"row": 5,
-				"prerequisites": ["Mining"]
-			},
-			{
-			    "name": "Sailing",
-				"row": 4,
-				"prerequisites": ["Irrigation"]
-			},
 		    {
 				"name": "Theology",
 				"row": 6,
@@ -95,6 +79,31 @@
 				"name": "Numbers",
 				"row": 8,
 				"prerequisites": ["Writing"]
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Medieval era",
+		"techCost": 125,
+		"buildingCost": 80,
+		"wonderCost": 220,
+		"techs": [
+			{
+				"name": "Engineering",
+				"row": 7,
+				"prerequisites": ["Masonry"]
+			},
+			{
+				"name": "The Wheel",
+				"row": 3,
+				"prerequisites": ["Trapping"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"]
+			},
+			{
+			    "name": "Sailing",
+				"row": 1,
+				"prerequisites": ["Trapping"]
 			}
 		]
 	},
@@ -115,7 +124,7 @@
 				"name": "Bronze Working",
 				"cost": 100,
 				"row": 5,
-				"prerequisites": ["Masonry"],
+				"prerequisites": ["Engineering"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
@@ -126,17 +135,17 @@
 			{
 				"name": "Mathematics",
 				"row": 8,
-				"prerequisites": ["Numbers"],
+				"prerequisites": ["Engineering","Numbers"],
 			},
 			{
 				"name": "History",
 				"row": 9,
-				"prerequisites": ["Writing"],
+				"prerequisites": ["Engineering"],
 			},
 			{
 				"name": "Horseback Riding",
 				"row": 3,
-				"prerequisites": ["The Wheel","Trapping"]
+				"prerequisites": ["The Wheel"]
 			}
 		]
 	},
@@ -376,8 +385,8 @@
 			},
 			{
 				"name": "Nuclear Fusion",
-				"row": 5,
-				"prerequisites": ["Lasers"],
+				"row": 6,
+				"prerequisites": ["Biology"],
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
