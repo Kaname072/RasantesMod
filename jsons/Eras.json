@@ -38,6 +38,26 @@
         "iconRGB": [157, 39, 176]
     },
     {
+        "name": "Industrial era",
+        "researchAgreementCost": 300,
+        "startingSettlerCount": 3,
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 5,
+        "startingMilitaryUnit": "Infantry",
+        "startingGold": 200,
+        "startingCulture": 500,
+        "settlerPopulation": 3,
+        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum"],
+        "startingObsoleteWonders": ["placeholder"],
+        "baseUnitBuyCost": 600,
+        "embarkDefense": 13,
+        "startPercent": 65,
+        "citySound": "cityModern",
+        "iconRGB": [33, 150, 243],
+        "uniques": ["Every major Civilization gains a spy once a civilization enters this era"
+        ]
+    },
+    {
         "name": "Modern era",
         "researchAgreementCost": 350,
         "startingSettlerCount": 3,
@@ -56,8 +76,7 @@
         "iconRGB": [33, 150, 243],
         "uniques": ["May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Starting in this era disables religion",
-            "Every major Civilization gains a spy once a civilization enters this era"
+            "Starting in this era disables religion"
         ]
     },
     {
