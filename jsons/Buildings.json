@@ -183,7 +183,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Enternement"
+		"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "Courthouse",
@@ -256,7 +256,7 @@
 		"name": "White Lady",
 		"isWonder": true,
 		"faith": 2,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Bronze Working",
 		"uniques": ["All newly-trained [Missionary] units [in this city] receive the [Devout] promotion","All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
 	},
 	{
@@ -277,7 +277,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["Destroyed when the city is captured"],
-		"requiredTech": "Music & Art"
+		"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "National Epic",
@@ -481,7 +481,7 @@
 		"cityHealth": 25,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"hurryCostModifier": 30,
-		"requiredTech": "Music & Art",
+		"requiredTech": "Chivalry",
 		"uniques": ["Gain a free [Castle] [in this city]"],
 	},
 	{
@@ -548,7 +548,7 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
-		"requiredTech": "Civil Service"
+		"requiredTech": "Currency"
 	},
     {
         "name": "Constabulary",
@@ -564,7 +564,7 @@
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
-		"requiredTech": "Enternement"
+		"requiredTech": "The Wheel"
 	},
 	// Column 8
 	{
@@ -603,15 +603,6 @@
 		"requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured"]
-	},
-    {
-		"name": "Forge Magma",
-		"isWonder": true,
-		"production": 2,
-		"greatPersonPoints": {"Great Engineer": 1},
-		"hurryCostModifier": 25,
-		"requiredTech": "Metallurgy",
-		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
 	},
 
 	// Industrial Era
@@ -709,7 +700,7 @@
 		"percentStatBonus": {"culture": 33},
 		"requiredBuilding": "Museum",
 		"maintenance": 3,
-		"requiredTech": "Enternement",
+		"requiredTech": "Electronics",
 		"uniques": ["Destroyed when the city is captured"]
 	},
     {
