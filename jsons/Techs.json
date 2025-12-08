@@ -156,7 +156,7 @@
 			{
 				"name": "Construction",
 				"row": 1,
-				"prerequisites": ["Masonry"],
+				"prerequisites": ["Bronze Working"],
 			},
 			{
 				"name": "Fertilizer",
@@ -403,30 +403,43 @@
 		"techs": [
 			{
 				"name": "Computers",
-				"row": 1,
+				"row": 5,
 				"prerequisites": ["Electronics"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements","[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "War Satellites",
-				"row": 2,
-				"prerequisites": ["Satellites","Electronics"]
-			},
-			{
-				"name": "Nanotechnology",
-				"row": 4,
-				"prerequisites": ["Nuclear Fusion","Pharmaceuticals",],
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
-			},
-			{
-				"name": "Particle Physics",
-				"row": 6,
-				"prerequisites": ["War Spaceship","Universalization"],
-			},
+			}
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
+		"era": "Future era",
+		"techCost": 625,
+		"buildingCost": 275,
+		"wonderCost": 425,
+		"techs": [
+			{
+				"name": "Nanotechnology",
+				"row": 1,
+				"prerequisites": ["Computers"]
+			},
+			{
+				"name": "Particle Physics",
+				"row": 2,
+				"prerequisites": ["Computers"]
+			},
+			{
+				"name": "Robotics",
+				"row": 3,
+				"prerequisites": ["Computers"]
+			},
+			{
+				"name": "War Satellites"
+				"row": 4,
+				"prerequisites": ["Computers"]
+			}
+		]
+	},
+	{
+		"columnNumber": 14,
 		"era": "Future era",
 		"techCost": 625,
 		"buildingCost": 275,
