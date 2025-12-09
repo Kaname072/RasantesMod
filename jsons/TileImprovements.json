@@ -152,7 +152,7 @@
 	{
 		"name": "Remove Jungle",
 		"turnsToBuild": 7,
-		"techRequired": "Iron Working",
+		"techRequired": "Bronze Working",
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
