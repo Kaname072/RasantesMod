@@ -17,23 +17,23 @@
 	{
 		"columnNumber": 1,
 		"era": "Medieval era",
-		"techCost": 75,
+		"techCost": 60,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
 			{
 				"name": "Animal Husbandry",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Spaceship"]
 			},
 			{
 				"name": "Irrigation",
-				"row": 4,
+				"row": 2,
 				"prerequisites": ["Spaceship"]
 			},
 			{
 				"name": "Mysticism",
-				"row": 6,
+				"row": 4,
 				"prerequisites": ["Spaceship"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"]
 			},
@@ -55,7 +55,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Medieval era",
-		"techCost": 125,
+		"techCost": 80,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -68,16 +68,16 @@
 			{
 				"name": "Trapping",
 				"row": 2,
-				"prerequisites": ["Animal Husbandry"],
+				"prerequisites": ["Animal Husbandry","Irrigation"],
 			},
 		    {
 				"name": "Theology",
-				"row": 6,
+				"row": 4,
 				"prerequisites": ["Mysticism"]
 			},
 			{
 				"name": "Numbers",
-				"row": 9,
+				"row": 8,
 				"prerequisites": ["Writing"]
 			}
 		]
@@ -85,7 +85,7 @@
 	{
 		"columnNumber": 3,
 		"era": "Medieval era",
-		"techCost": 125,
+		"techCost": 120,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -108,6 +108,7 @@
 			{
 				"name": "Mathematics",
 				"row": 8,
+				"uniques": ["Enables Defensive Pacts"],
 				"prerequisites": ["Numbers"],
 			}
 		]
@@ -115,7 +116,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Renaissance era",
-		"techCost": 175,
+		"techCost": 140,
 		"buildingCost": 80,
 		"wonderCost": 220,
 		"techs": [
@@ -152,7 +153,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Renaissance era",
-		"techCost": 225,
+		"techCost": 180,
 		"buildingCost": 100,
 		"wonderCost": 240,
 		"techs": [
@@ -194,7 +195,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Renaissance era",
-		"techCost": 275,
+		"techCost": 240,
 		"buildingCost": 120,
 		"wonderCost": 275,
 		"techs": [
@@ -229,7 +230,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Industrial era",
-		"techCost": 275,
+		"techCost": 280,
 		"buildingCost": 120,
 		"wonderCost": 275,
 		"techs": [
@@ -263,7 +264,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Industrial era",
-		"techCost": 325,
+		"techCost": 340,
 		"buildingCost": 150,
 		"wonderCost": 300,
 		"techs": [
@@ -300,7 +301,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Industrial era",
-		"techCost": 375,
+		"techCost": 380,
 		"buildingCost": 175,
 		"wonderCost": 325,
 		"techs": [
@@ -332,7 +333,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Modern era",
-		"techCost": 425,
+		"techCost": 420,
 		"buildingCost": 200,
 		"wonderCost": 350,
 		"techs": [
@@ -369,7 +370,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Future era",
-		"techCost": 475,
+		"techCost": 460,
 		"buildingCost": 225,
 		"wonderCost": 375,
 		"techs": [
@@ -411,7 +412,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Future era",
-		"techCost": 550,
+		"techCost": 490,
 		"buildingCost": 250,
 		"wonderCost": 400,
 		"techs": [
@@ -432,7 +433,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Future era",
-		"techCost": 625,
+		"techCost": 520,
 		"buildingCost": 275,
 		"wonderCost": 425,
 		"techs": [
@@ -461,7 +462,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Future era",
-		"techCost": 625,
+		"techCost": 540,
 		"buildingCost": 275,
 		"wonderCost": 425,
 		"techs": [
