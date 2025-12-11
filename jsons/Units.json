@@ -310,7 +310,7 @@
 		"replaces": "Laser Gunner",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 32,
+		"strength": 30,
 		"cost": 220,
 		"obsoleteTech": "Nanotechnology",
 		"requiredTech": "Lasers",
@@ -325,11 +325,12 @@
 		"replaces": "Laser Gunner",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 36,
+		"strength": 30,
 		"cost": 220,
 		"obsoleteTech": "Nanotechnology",
 		"requiredTech": "Lasers",
 		"uniques": ["No movement cost to pillage","Ignores Zone of Control"],
+		"promotions": ["[JJ Infantry] ability"],
 		"requiredResource": "Crystal Ore",
 		"upgradesTo": "Laser Rifleman",
 		"attackSound": "phasers"
@@ -489,7 +490,7 @@
 		"name": "Goat Knight",
 		"unitType": "Mounted",
 		"movement": 3,
-		"strength": 24,
+		"strength": 19,
 		"cost": 175,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Goat",
@@ -557,7 +558,7 @@
 		"movement": 2,
 		"strength": 17,
 		"rangedStrength": 19,
-		"uniques": ["[+20]% Strength <vs [Melee] units>"],
+		"uniques": ["[+33]% Strength <vs [Melee] units>"],
 		"cost": 80,
 		"requiredTech": "Rifling",
 		"attackSound": "artillery"
@@ -611,7 +612,7 @@
 	/* Water Units */
 	
 	{
-		"name": "Galley",
+		"name": "Trireme",
 		"unitType": "Melee Water",
 		"movement": 4,
 		"strength": 10,
@@ -625,7 +626,7 @@
 	{
 		"name": "Leviathan",
 		"uniqueTo": "Atlantis",
-		"replaces": "Galley",
+		"replaces": "Trireme",
 		"unitType": "Melee Water",
 		"movement": 4,
 		"strength": 12,
@@ -639,7 +640,7 @@
 	{
 		"name": "Mermaid",
 		"uniqueTo": "Barbarians",
-		"replaces": "Galley",
+		"replaces": "Trireme",
 		"unitType": "Melee Water",
 		"movement": 3,
 		"strength": 8,
