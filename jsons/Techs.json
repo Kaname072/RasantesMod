@@ -97,7 +97,7 @@
 			{
 				"name": "The Wheel",
 				"row": 3,
-				"prerequisites": ["Trapping"],
+				"prerequisites": ["Trapping","Theology"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
