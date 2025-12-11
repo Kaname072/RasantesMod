@@ -4,7 +4,7 @@
 		"era": "Medieval era",
 		"techCost": 20,
 		"buildingCost": 40,
-		"wonderCost": 185,
+		"wonderCost": 100,
 		"techs": [
 			{
 				"name": "Spaceship",
@@ -19,7 +19,7 @@
 		"era": "Medieval era",
 		"techCost": 60,
 		"buildingCost": 80,
-		"wonderCost": 220,
+		"wonderCost": 100,
 		"techs": [
 			{
 				"name": "Animal Husbandry",
@@ -57,7 +57,7 @@
 		"era": "Medieval era",
 		"techCost": 80,
 		"buildingCost": 80,
-		"wonderCost": 220,
+		"wonderCost": 150,
 		"techs": [
 			{
 				"name": "Masonry",
@@ -87,7 +87,7 @@
 		"era": "Medieval era",
 		"techCost": 120,
 		"buildingCost": 80,
-		"wonderCost": 220,
+		"wonderCost": 200,
 		"techs": [
 			{
 				"name": "Engineering",
@@ -118,7 +118,7 @@
 		"era": "Renaissance era",
 		"techCost": 140,
 		"buildingCost": 80,
-		"wonderCost": 220,
+		"wonderCost": 250,
 		"techs": [
 			{
 				"name": "Optics",
@@ -155,7 +155,7 @@
 		"era": "Renaissance era",
 		"techCost": 180,
 		"buildingCost": 100,
-		"wonderCost": 240,
+		"wonderCost": 300,
 		"techs": [
 			{
 				"name": "Chivalry",
@@ -197,7 +197,7 @@
 		"era": "Renaissance era",
 		"techCost": 240,
 		"buildingCost": 120,
-		"wonderCost": 275,
+		"wonderCost": 300,
 		"techs": [
 			{
 				"name": "Metal Casting",
@@ -232,7 +232,7 @@
 		"era": "Industrial era",
 		"techCost": 280,
 		"buildingCost": 120,
-		"wonderCost": 275,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Acoustics",
@@ -266,7 +266,7 @@
 		"era": "Industrial era",
 		"techCost": 340,
 		"buildingCost": 150,
-		"wonderCost": 300,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Compass",
@@ -303,7 +303,7 @@
 		"era": "Industrial era",
 		"techCost": 380,
 		"buildingCost": 175,
-		"wonderCost": 325,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Navigation",
@@ -372,7 +372,7 @@
 		"era": "Future era",
 		"techCost": 460,
 		"buildingCost": 225,
-		"wonderCost": 375,
+		"wonderCost": 400,
 		"techs": [
 			{
 				"name": "Electronics",
@@ -435,7 +435,7 @@
 		"era": "Future era",
 		"techCost": 520,
 		"buildingCost": 275,
-		"wonderCost": 425,
+		"wonderCost": 400,
 		"techs": [
 			{
 				"name": "Nanotechnology",
@@ -464,7 +464,7 @@
 		"era": "Future era",
 		"techCost": 540,
 		"buildingCost": 275,
-		"wonderCost": 425,
+		"wonderCost": 450,
 		"techs": [
 			{
 				"name": "Future Tech",
