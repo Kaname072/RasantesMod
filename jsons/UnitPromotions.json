@@ -741,8 +741,8 @@
 			"[+25]% Strength <when fighting in [Tundra] tiles>"]
 	},
 	{
-		"name": "[Beetle Slinger] ability",
-		"uniques": ["May enter foreign tiles without open borders"]
+		"name": "[JJ Infantry] ability",
+		"uniques": ["[+25]% Strength <when attacking>","May enter foreign tiles without open borders"]
 	},
 	{
 		"name": "[Eunuch] ability",
